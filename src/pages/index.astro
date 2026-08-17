@@ -20,6 +20,16 @@ const cities = ['West Palm Beach','Boca Raton','Boynton Beach','Delray Beach','P
 
   <link slot="head" rel="preload" as="image" href="/images/hero-driveway.jpg" fetchpriority="high" />
 
+  <script slot="head" type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Perfect Pavers of Palm Beach",
+    "alternateName": "Perfect Pavers",
+    "legalName": "Perfect Pavers of South Florida LLC",
+    "url": "https://paversofpalmbeach.com/",
+    "logo": "https://paversofpalmbeach.com/apple-touch-icon.png"
+  })} />
+
   <section class="wrap hero">
     <div class="hero-text">
       <div class="eyebrow">Pavers &amp; natural stone<span class="eb-sep"> · </span><span class="nb">Palm Beach County</span></div>
