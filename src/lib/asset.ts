@@ -27,3 +27,23 @@ export function v(path: string): string {
   cache.set(path, out);
   return out;
 }
+
+/**
+ * Lightweight display version of an image: maps `/dir/name.jpg` to
+ * `/dir/name-thumb.jpg` when that smaller file exists, else returns the
+ * original untouched. Use the thumb for on-page display (fast) and keep the
+ * full-size original for the lightbox (crisp when opened).
+ * Usage: `src={v(thumb('/images/portfolio/foo-1.jpg'))}`
+ */
+export function thumb(path: string): string {
+  const clean = path.split('?')[0];
+  const dot = clean.lastIndexOf('.');
+  if (dot < 0) return path;
+  const t = clean.slice(0, dot) + '-thumb' + clean.slice(dot);
+  try {
+    readFileSync(publicDir + t);
+    return t;
+  } catch {
+    return path; // no thumb generated → use original
+  }
+}

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { v } from '../../lib/asset.ts';
+import { v, thumb } from '../../lib/asset.ts';
 
 export function getStaticPaths() {
   const projects = {
@@ -181,7 +181,7 @@ const breadcrumbLd = {
 
   <section class="wrap proj-strip" style={`--cols:${1 + (p.gallery?.length ?? 0)}`}>
     {[{ src: p.hero, alt: p.heroAlt }, ...(p.gallery ?? [])].map((g) => (
-      <button class="sph" type="button" aria-label={`Enlarge photo: ${g.alt}`}><img src={v(g.src)} alt={g.alt} loading="lazy" decoding="async" /></button>
+      <button class="sph" type="button" aria-label={`Enlarge photo: ${g.alt}`}><img src={v(thumb(g.src))} data-full={v(g.src)} alt={g.alt} loading="lazy" decoding="async" /></button>
     ))}
   </section>
 
@@ -311,7 +311,7 @@ const breadcrumbLd = {
       const items = [...strip.querySelectorAll('.sph img')];
       const bimg = document.getElementById('lbox-img');
       let idx = 0;
-      const show = () => { const im = items[idx]; bimg.src = im.currentSrc || im.src; bimg.alt = im.alt; };
+      const show = () => { const im = items[idx]; bimg.src = im.dataset.full || im.currentSrc || im.src; bimg.alt = im.alt; };
       const open = (i) => { idx = i; show(); box.classList.add('open'); box.setAttribute('aria-hidden', 'false'); document.body.style.overflow = 'hidden'; };
       const close = () => { box.classList.remove('open'); box.setAttribute('aria-hidden', 'true'); document.body.style.overflow = ''; };
       const step = (d) => { idx = (idx + d + items.length) % items.length; show(); };

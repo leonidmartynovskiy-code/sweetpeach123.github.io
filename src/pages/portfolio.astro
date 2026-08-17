@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { v } from '../lib/asset.ts';
+import { v, thumb } from '../lib/asset.ts';
 
 const projects = [
   { href: '/portfolio/hollywood-residence/', img: '/images/portfolio/hollywood-residence-1.jpg', loc: 'Hollywood · Travertine', title: 'Travertine pool deck upgrade', desc: 'Worn concrete pavers replaced with Ivory Select travertine in a French pattern — cooler underfoot.', price: 'From $16,000', alt: 'Ivory travertine pool deck in Hollywood' },
@@ -42,7 +42,7 @@ const breadcrumbLd = {
       {projects.map((p) => (
         <a class="pcard" href={p.href}>
           <div class="pcard-ph">
-            <img loading="lazy" decoding="async" src={v(p.img)} alt={p.alt} width="400" height="320" />
+            <img loading="lazy" decoding="async" src={v(thumb(p.img))} alt={p.alt} width="400" height="320" />
             {p.soon && <span class="pf-soon">Coming soon</span>}
           </div>
           <div class="pcard-body">
