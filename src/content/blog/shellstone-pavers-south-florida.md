@@ -8,7 +8,7 @@ heroImage: "/images/shellstone-pavers-south-florida.jpg"
 draft: false
 ---
 
-In St. Augustine, the oldest masonry fort in the continental United States has stood for more than three centuries against siege, storm, and salt air. The Castillo de San Marcos was built not of granite or fired brick but of coquina, a soft, light, porous limestone made of ancient shells cemented together and quarried from Anastasia Island just across the bay. That single choice of stone is the reason to look closely at shellstone pavers today. The material a South Florida homeowner is considering for a pool deck or courtyard is, at its root, the same native coastal stone that outlasted an empire's cannon.
+In St. Augustine, the oldest masonry fort in the continental United States has stood for more than three centuries against siege, storm, and salt air. The Castillo de San Marcos was built not of granite or fired brick but of coquina, a soft, light, porous limestone made of ancient shells cemented together and quarried from Anastasia Island just across the bay. That single choice of stone is the reason to look closely at shellstone pavers today. The material a South Florida homeowner is considering for a pool deck or courtyard is, at its root, the same native coastal stone that outlasted an empire's cannon. For how it stacks up against the other options, see our guide to [the best paver material for South Florida](/blog/best-paver-material-south-florida/).
 
 ## The fort that absorbed cannon fire
 

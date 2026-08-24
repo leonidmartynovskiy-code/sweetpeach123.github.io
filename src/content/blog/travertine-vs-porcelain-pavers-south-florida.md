@@ -8,7 +8,7 @@ heroImage: "/images/travertine-vs-porcelain-pavers-south-florida.jpg"
 draft: false
 ---
 
-If you are choosing a premium surface for a pool deck, patio, or driveway in South Florida, two names come up again and again: travertine and porcelain. Both are beautiful, both perform well in our climate, and both cost more than a basic concrete paver. Yet they are fundamentally different materials, and the right one for your project depends on the look you want and how much upkeep you are willing to do. This guide compares them honestly, side by side, so you can choose with confidence.
+If you are choosing a premium surface for a pool deck, patio, or driveway in South Florida, two names come up again and again: travertine and porcelain. Both are beautiful, both perform well in our climate, and both cost more than a basic concrete paver. Yet they are fundamentally different materials, and the right one for your project depends on the look you want and how much upkeep you are willing to do. This guide compares them honestly, side by side, so you can choose with confidence. For how they fit among all the options, see our guide to [the best paver material for South Florida](/blog/best-paver-material-south-florida/).
 
 ## What each material actually is
 

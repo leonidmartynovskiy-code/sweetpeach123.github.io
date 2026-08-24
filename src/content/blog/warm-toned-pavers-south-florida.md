@@ -8,7 +8,7 @@ heroImage: "/images/warm-toned-pavers-south-florida.jpg"
 draft: false
 ---
 
-For roughly a decade, cool grey was the default. Steely, blue-leaning greys read as modern, and they poured across patios and pool decks from national catalogs into South Florida backyards. That era is quietly closing. Beige pavers and their warmer relatives, from soft sand to honeyed clay, are moving back to the center of considered outdoor design, and the shift is more than a passing mood. It is a return to a palette that suits how light actually behaves here.
+For roughly a decade, cool grey was the default. Steely, blue-leaning greys read as modern, and they poured across patios and pool decks from national catalogs into South Florida backyards. That era is quietly closing. Beige pavers and their warmer relatives, from soft sand to honeyed clay, are moving back to the center of considered outdoor design, and the shift is more than a passing mood. It is a return to a palette that suits how light actually behaves here. For how color fits the wider material choice, see our guide to [the best paver material for South Florida](/blog/best-paver-material-south-florida/).
 
 If you are weighing warm-toned pavers for a Broward or Palm Beach County project, it helps to understand what is driving the change, why warm neutrals belong in this particular climate, and where the objective evidence sits versus where taste takes over.
 

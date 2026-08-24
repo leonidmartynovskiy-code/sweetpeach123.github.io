@@ -8,7 +8,7 @@ heroImage: "/images/large-format-porcelain-pavers-south-florida.jpg"
 draft: false
 ---
 
-Large format porcelain pavers are less a product than a design language. Where a small unit reads as a pattern, a 24-by-48 module set with a hairline joint reads as a single, continuous plane. On a South Florida terrace that faces salt air and open sun, that seamless surface is not just a style choice. It rests on a specific, measurable material property. This is an essay about the format first, and about why porcelain is the body that makes the format worth specifying.
+Large format porcelain pavers are less a product than a design language. Where a small unit reads as a pattern, a 24-by-48 module set with a hairline joint reads as a single, continuous plane. On a South Florida terrace that faces salt air and open sun, that seamless surface is not just a style choice. It rests on a specific, measurable material property. This is an essay about the format first, and about why porcelain is the body that makes the format worth specifying. For how it compares with the other options, see our guide to [the best paver material for South Florida](/blog/best-paver-material-south-florida/).
 
 ## The monolithic aesthetic: fewer joints, more surface
 
