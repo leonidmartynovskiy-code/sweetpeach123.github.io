@@ -34,14 +34,7 @@ const values = [
     <div class="stat"><span class="stat-n">CMHA</span><span class="stat-l">Certified &amp; State Licensed</span></div>
   </section>
 
-  <section class="block wrap team-section">
-    <figure class="team-photo">
-      <img src="/images/team.jpg" alt="The Perfect Pavers team in their South Florida showroom, with natural stone samples on the wall" width="1280" height="853" loading="lazy" decoding="async" />
-      <figcaption>The team behind every project &mdash; in our South Florida showroom.</figcaption>
-    </figure>
-  </section>
-
-  <section class="block wrap" style="padding-top:0">
+  <section class="block wrap">
     <div class="sec-head">
       <span class="sec-num">What sets us apart</span>
       <h2>The difference is what you don&rsquo;t have to worry about.</h2>
@@ -117,14 +110,9 @@ const values = [
     .stats-strip .stat-l{display:block;margin-top:12px;font-family:var(--sans);font-size:11px;font-weight:400;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);line-height:1.55}
 
     /* Team photo */
-    .team-section{padding-top:64px}
-    .team-photo{margin:0 auto;max-width:85%}
-    .team-photo img{display:block;width:100%;height:auto;border-radius:10px}
-    .team-photo figcaption{margin-top:16px;text-align:center;font-family:var(--sans);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 
     @media(max-width:1024px){
       .about-top{padding-bottom:38px}
-      .team-photo{max-width:100%}
       .stats-strip{gap:28px 20px}
       .stats-strip .stat{flex:1 1 28%}
     }
@@ -135,7 +123,6 @@ const values = [
       .about-copy{margin-top:22px}
       .stats-strip{gap:24px 16px}
       .stats-strip .stat{flex:1 1 40%}
-      .team-section{padding-top:44px}
     }
   </style>
 
