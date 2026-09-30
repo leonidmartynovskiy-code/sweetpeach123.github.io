@@ -1,4 +1,5 @@
 ---
+import InquiryFormContext from '../components/InquiryFormContext.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
 const reassurance = [
@@ -51,7 +52,8 @@ const reassurance = [
       </div>
       <div class="form-embed">
         <iframe
-          src="https://api.leadconnectorhq.com/widget/form/h4stiwk4vz9UqDkcE6Pk"
+          data-inquiry-context="visit"
+          data-inquiry-src="https://api.leadconnectorhq.com/widget/form/h4stiwk4vz9UqDkcE6Pk"
           style="width:100%;border:none;border-radius:4px;height:1170px"
           id="inline-h4stiwk4vz9UqDkcE6Pk"
           data-layout="{'id':'INLINE'}"
@@ -68,11 +70,13 @@ const reassurance = [
           title="PPPB Lead Form"
           scrolling="no">
         </iframe>
+        <noscript><p>To request an estimate, call <a href="tel:+15618348880">(561) 834-8880</a> or <a href="https://api.leadconnectorhq.com/widget/form/h4stiwk4vz9UqDkcE6Pk">open the estimate form</a>.</p></noscript>
       </div>
     </div>
   </section>
 
-  <script is:inline src="https://link.msgsndr.com/js/form_embed.js"></script>
+  <InquiryFormContext />
+<script is:inline src="https://link.msgsndr.com/js/form_embed.js"></script>
 
   <style>
     .contact-hero{background:var(--green);color:var(--ivory);padding:78px 0 66px}

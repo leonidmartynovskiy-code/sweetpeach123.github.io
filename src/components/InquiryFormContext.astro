@@ -1,0 +1,14 @@
+<script is:inline>
+(function () {
+  var visit = window.ppInquiryVisit;
+  document.querySelectorAll('iframe[data-inquiry-src]').forEach(function (frame) {
+    try {
+      var url = new URL(frame.getAttribute('data-inquiry-src'));
+      if (url.origin !== 'https://api.leadconnectorhq.com') return;
+      if (visit && visit.landing) url.searchParams.set('website_first_landing_page', visit.landing);
+      if (visit && visit.article) url.searchParams.set('website_first_article', visit.article);
+      frame.src = url.href;
+    } catch (_) { /* Keep the original native form as a fallback. */ }
+  });
+})();
+</script>

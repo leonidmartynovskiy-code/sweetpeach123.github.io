@@ -1,0 +1,43 @@
+<script is:inline>
+/* Per-tab inquiry context only. Native GHL acquisition tracking is untouched. */
+(function () {
+  var key = 'pp_inquiry_visit_v1';
+  var idleMs = 30 * 60 * 1000;
+  var now = Date.now();
+  var origin = window.location.origin;
+  function clean(value) {
+    if (typeof value !== 'string' || !value) return '';
+    try {
+      var url = new URL(value, origin);
+      if (url.origin !== origin || !/^https?:$/.test(url.protocol)) return '';
+      var path = url.origin + url.pathname;
+      return path.length <= 2048 ? path : '';
+    } catch (_) { return ''; }
+  }
+  function isArticle(value) {
+    try { return /^\/blog\/[^/]+\/?$/.test(new URL(value).pathname); }
+    catch (_) { return false; }
+  }
+  var current = clean(window.location.href);
+  var visit;
+  try { visit = JSON.parse(window.sessionStorage.getItem(key) || 'null'); }
+  catch (_) { /* Storage may be unavailable; the form must keep working. */ }
+  if (!visit || !clean(visit.landing) || !Number.isFinite(visit.lastSeen) ||
+      now < visit.lastSeen || now - visit.lastSeen >= idleMs) {
+    var useReferrer = !visit;
+    visit = { landing: current, article: '', lastSeen: now };
+    // A same-site referrer helps one-step journeys when storage is blocked.
+    var previous = clean(document.referrer || '');
+    if (useReferrer && previous) visit.landing = previous;
+  }
+  visit.landing = clean(visit.landing);
+  visit.article = clean(visit.article || '');
+  if (!isArticle(visit.article)) visit.article = '';
+  if (!visit.article && isArticle(visit.landing)) visit.article = visit.landing;
+  if (!visit.article && isArticle(current)) visit.article = current;
+  visit.lastSeen = now;
+  window.ppInquiryVisit = { landing: visit.landing, article: visit.article };
+  try { window.sessionStorage.setItem(key, JSON.stringify(visit)); }
+  catch (_) { /* Optional context must never block an inquiry. */ }
+})();
+</script>
