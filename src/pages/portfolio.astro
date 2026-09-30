@@ -3,11 +3,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { v, thumb } from '../lib/asset.ts';
 
 const projects = [
-  { href: '/portfolio/hollywood-residence/', img: '/images/portfolio/hollywood-residence-1.jpg', loc: 'Hollywood · Travertine', title: 'Travertine pool deck upgrade', desc: 'Worn concrete pavers replaced with Ivory Select travertine in a French pattern — cooler underfoot.', price: 'From $16,000', alt: 'Ivory travertine pool deck in Hollywood' },
+  { href: '/portfolio/hollywood-residence/', img: '/images/portfolio/hollywood-residence-1.jpg', loc: 'Travertine', title: 'Travertine pool deck upgrade', desc: 'Worn concrete pavers replaced with Ivory Select travertine in a French pattern - cooler underfoot.', price: 'From $16,000', alt: 'Ivory travertine pool deck' },
   { href: '/portfolio/concrete-paver-and-drain/', img: '/images/portfolio/concrete-paver-and-drain-1.jpg', loc: 'Palm Beach Gardens · Concrete pavers', title: 'Concrete paver driveway & drain', desc: 'An old asphalt driveway rebuilt in concrete pavers with an integrated drainage system.', price: 'From $12,500', alt: 'Concrete paver driveway with drainage in Palm Beach Gardens' },
   { href: '/portfolio/pool-deck-clean-reseal/', img: '/images/portfolio/pool-deck-clean-reseal-1.jpg', loc: 'Palm Beach · Concrete pavers', title: 'Driveway clean & seal', desc: 'A faded concrete paver driveway pressure cleaned, re-sanded, and sealed to restore its color.', price: 'From $3,200', alt: 'Restored concrete paver driveway in Palm Beach' },
-  { href: '/portfolio/miramar-pool-deck-restoration/', img: '/images/portfolio/miramar-pool-deck-restoration-1.jpg', loc: 'Miramar · Concrete pavers', title: 'Pool deck restoration', desc: 'Settled pavers lifted and re-leveled, then cleaned and sealed to bring this pool deck back to life.', price: 'From $3,800', alt: 'Restored concrete paver pool deck in Miramar' },
-  { href: '/portfolio/north-lauderdale-residence/', img: '/images/portfolio/north-lauderdale-residence-1.jpg', loc: 'North Lauderdale · Pavers', title: 'Paver driveway restoration', desc: 'A curved paver driveway pressure-cleaned, re-sanded, and sealed for a fresh, protected finish.', price: 'From $2,600', alt: 'Curved paver driveway in North Lauderdale' },
+  { href: '/portfolio/miramar-pool-deck-restoration/', img: '/images/portfolio/miramar-pool-deck-restoration-1.jpg', loc: 'Concrete pavers', title: 'Pool deck restoration', desc: 'Settled pavers lifted and re-leveled, then cleaned and sealed to bring this pool deck back to life.', price: 'From $3,800', alt: 'Restored concrete paver pool deck' },
+  { href: '/portfolio/north-lauderdale-residence/', img: '/images/portfolio/north-lauderdale-residence-1.jpg', loc: 'Pavers', title: 'Paver driveway restoration', desc: 'A curved paver driveway pressure-cleaned, re-sanded, and sealed for a fresh, protected finish.', price: 'From $2,600', alt: 'Curved paver driveway' },
 ];
 const breadcrumbLd = {
   '@context': 'https://schema.org',
@@ -19,8 +19,8 @@ const breadcrumbLd = {
 };
 ---
 <BaseLayout
-  title="Portfolio · Paver Projects Across Palm Beach County · Perfect Pavers"
-  description="A look at paver driveways, pool decks, patios and outdoor living we’ve built across Palm Beach County — Boca Raton, Delray Beach, West Palm Beach and beyond.">
+  title="Paver Project Portfolio | Perfect Pavers of Palm Beach"
+  description="Explore completed paver driveways, pool decks and restoration projects, with materials, project details and photos from Perfect Pavers of Palm Beach.">
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(breadcrumbLd)} />
 
   <nav class="crumbs">
@@ -32,8 +32,8 @@ const breadcrumbLd = {
   <section class="port-hero">
     <div class="wrap">
       <div class="eyebrow" style="color:var(--brass)">Our work</div>
-      <h1>Our work across <em>Palm Beach County.</em></h1>
-      <p class="lede">Driveways, pool decks, patios, and outdoor spaces built across the county. Tap any project to see how it came together.</p>
+      <h1>Paver projects, <em>from start to finish.</em></h1>
+      <p class="lede">Explore paver installations and restoration work, with materials and details for each project. Tap a project to see how it came together.</p>
     </div>
   </section>
 
