@@ -560,7 +560,10 @@ const jsonLd = [
     }
     @media(max-width:600px){
       .incl-grid{padding-left:18px;padding-right:18px}
-      .svc-intro-stats{gap:14px}
+      .svc-intro-grid{grid-template-columns:minmax(0,1fr)}
+      .svc-intro-stats{gap:14px;grid-template-columns:repeat(2,minmax(0,1fr))}
+      .svc-intro-stats .sis{min-width:0}
+      .svc-intro-stats .sis-n{white-space:normal}
       .faq-list summary{font-size:18px}
       .mat{font-size:16px;padding:9px 18px}
     }
