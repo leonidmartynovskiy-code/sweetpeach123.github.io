@@ -33,7 +33,7 @@ Sealing is not free and it is not permanent. A few honest downsides:
 
 - It wears off. A sealer lasts roughly two to five years depending on the product and the traffic, so it is a repeating cost, not a one-time job.
 - The wrong sealer, or sealing too soon, can trap moisture and cause a cloudy white haze. New pavers usually need to cure and fully dry out first, often several weeks to a couple of months.
-- A glossy finish can get slippery when wet, which matters around a pool. Matte penetrating sealers avoid this.
+- A sealer can change wet traction, which matters around a pool. A matte finish or a penetrating label is not a guarantee that the finished surface will be slip-resistant.
 
 If you like the natural, matte look of unsealed stone, and you are fine cleaning the surface once or twice a year, leaving pavers bare is a perfectly valid choice. Plenty of beautiful South Florida patios are never sealed at all.
 
@@ -41,9 +41,11 @@ If you like the natural, matte look of unsealed stone, and you are fine cleaning
 
 Most products fall into one of two families, and the difference matters.
 
-**Penetrating sealers** soak into the paver and protect from within. They leave the surface looking natural and matte, they do not get slippery, and they let the stone breathe. This is usually the safer pick for pool decks and for natural stone like travertine.
+**Penetrating sealers** soak into the paver rather than forming a coating on top. Some preserve a natural, matte appearance while allowing moisture vapor to escape. Choose a product approved for the actual material, including travertine where applicable, and check its wet-traction guidance. Do not assume that every penetrating sealer makes a pool deck safe when wet.
 
-**Film-forming (topical) sealers** sit on top and leave a visible finish, from a soft satin to a wet look. They give the richest color boost and the most stain resistance, but they can get slick when wet and they show wear over time. They suit driveways and patios more than pool surrounds.
+**Film-forming (topical) sealers** leave a surface coating, often with a satin or glossy finish. They can enhance color and help resist stains, but performance depends on the product, the surface and the application. Excess coating can make a surface slippery. Check suitability for the intended use rather than choosing by sheen alone.
+
+The [CMHA cleaning and sealing guide](https://www.cmha.org/resource/pav-tec-005/) advises consulting the manufacturer about wet and dry slip resistance. Product-specific wording matters: the [Techniseal iN technical sheet](https://www.techniseal.com/pub/media/catalog/product/pdf/techniseal_pro_prot_in_natural_look_60305100_us_pro_en.pdf) describes a penetrating product that will not make the surface more slippery and calls for a small test area. That is different from promising a slip-proof surface. Ask your contractor to assess a cured test area on your pavers and follow the selected product's instructions.
 
 ## When to seal, and how often
 
