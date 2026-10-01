@@ -20,6 +20,9 @@ interface Props {
   benefits: Benefit[];
   included: string[];      // "our standard" checklist
   includedNote?: string;   // local-code note
+  includedHeading?: string;
+  includedLede?: string;
+  introFacts?: Array<{ value: string; label: string }>;
   materials: string[];
   serviceLevels?: Array<{ title: string; desc: string }>;  // tiers of service (no material photos)
   faqs: Faq[];
@@ -34,6 +37,9 @@ const {
   heroImg, heroAlt, heroLabel, intro, benefits, included, includedNote, materials, serviceLevels = [], faqs,
   relatedProjects = [], relatedReading = [], materialImages = {},
   materialsLabel = 'Materials', materialsHeading = 'Choose your finish.',
+  includedHeading = 'What every install includes.',
+  includedLede = 'No corners cut beneath the surface. Every project is built on the same foundation, written into your estimate up front.',
+  introFacts,
 } = Astro.props as Props;
 const hasRelated = relatedProjects.length > 0 || relatedReading.length > 0;
 
@@ -224,10 +230,14 @@ const jsonLd = [
         </div>
       </div>
       <aside class="svc-intro-stats">
+        {introFacts ? introFacts.map((fact) => (
+          <div class="sis"><span class="sis-n">{fact.value}</span><span class="sis-l">{fact.label}</span></div>
+        )) : <>
         <div class="sis"><span class="sis-n">35+</span><span class="sis-l">Years in South Florida</span></div>
         <div class="sis"><span class="sis-n">500+</span><span class="sis-l">Projects in Palm Beach</span></div>
         <div class="sis"><span class="sis-n">24&ndash;48 hrs</span><span class="sis-l">Estimate turnaround</span></div>
         <div class="sis"><span class="sis-n">100%</span><span class="sis-l">Permits handled by us</span></div>
+        </>}
       </aside>
     </div>
   </section>
@@ -248,8 +258,8 @@ const jsonLd = [
     <div class="wrap incl-grid">
       <div>
         <div class="eyebrow" style="color:var(--brass)">Our standard</div>
-        <h2>What every install includes.</h2>
-        <p class="incl-lede">No corners cut beneath the surface. Every project is built on the same foundation, written into your estimate up front.</p>
+        <h2>{includedHeading}</h2>
+        <p class="incl-lede">{includedLede}</p>
         {includedNote && <p class="incl-note"><i>✦</i> {includedNote}</p>}
       </div>
       <ul class="incl-list">
