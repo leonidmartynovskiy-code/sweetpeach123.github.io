@@ -58,6 +58,18 @@ const breadcrumbSchema = {
     </div>
   </nav>
 
+  {post.data.slug === "pool-deck-replacement-palm-beach-gardens" && <style is:inline set:html={`.prose table { margin: 30px 0; font-size:15px; }
+.prose table th, .prose table td { padding:12px; text-align:left; vertical-align:top; border:1px solid #d9ded9; }
+@media(max-width:600px) {
+ .prose table, .prose table tbody, .prose table tr, .prose table td { display:block; width:100%; white-space:normal; }
+ .prose table { overflow:visible; }
+ .prose table thead { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); }
+ .prose table tr { margin-bottom:16px; border:1px solid #d9ded9; }
+ .prose table td { border:0; border-bottom:1px solid #d9ded9; overflow-wrap:normal !important; }
+ .prose table td::before { display:block; font-weight:600; margin-bottom:4px; }
+ .prose table td:nth-child(1)::before { content:"Existing condition"; }
+ .prose table td:nth-child(2)::before { content:"What the proposal needs to resolve"; }
+}`}></style>}
   <article class="post">
     <header class="post-head wrap">
       <div class="eyebrow" style="color:var(--brass-dark)">Journal &middot; {dateLabel}</div>
