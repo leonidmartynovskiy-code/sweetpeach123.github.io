@@ -56,20 +56,19 @@ const LOCAL: Record<string, Local> = {
     ],
   },
   'palm-beach-gardens': {
-    lede: "In the Gardens' golf communities the pavers are supposed to match the neighbor's — so faded color and weedy joints stand out, and a clean and reseal puts them right.",
+    lede: 'Cleaning and sealing starts with the condition of your Palm Beach Gardens pavers: surface stains, joint sand, uneven areas and any existing coating need separate attention.',
     intro: [
       'Before booking, compare <a href="/blog/paver-cleaning-repair-palm-beach-gardens/">paver cleaning with repairs for uneven surfaces and drainage problems</a> so the estimate covers the work your driveway needs.',
       'For orange or brown marks, read <a href="/blog/rust-stains-pavers-before-sealing/">what to check about suspected rust stains before sealing</a>, including material identification and a trial area.',
-
-      "Palm Beach Gardens grew up around golf — PGA National, BallenIsles, Frenchman's Creek, Mirasol — and those communities keep a consistent look house to house. When a paver driveway from the 1990s or 2000s fades, grows mold or loses its joint sand, it is the one that stands out for the wrong reason. A clean and reseal restores it to match the community without touching the design the committee approved.",
-      'The work is straightforward and low-disruption: a deep clean to lift the mold, weeds and grime, then fresh polymeric sand worked into the joints to harden and lock out weeds and ants. Last is the sealer — matte to keep the natural finish the guidelines favor, or a wet-look enhancer to deepen the color. The base under these driveways is almost always still sound, so the surface is all that needs attention.',
-      'The design guidelines here are strict about color and pattern, which is exactly why restoring the existing pavers is the easy path — you keep the approved look and simply bring it back to new. The seal then protects that color against the Florida sun so the driveway holds its finish between visits.',
+      'A faded or stained driveway does not tell us whether its base is sound. Point out sinking pavers, movement and standing water at the site visit so repair or drainage work can be assessed separately from surface cleaning. Cleaning and sealer cannot correct an underlying structural problem.',
+      'The proposed cleaning method, joint material and sealer should suit the pavers and any existing coating. A small trial area helps check cleaning results and the proposed finish before treating the full surface. Joint stabilization can help retain sand and reduce weed growth, but it does not eliminate routine maintenance or guarantee weed-free and ant-free joints.',
+      'A sealer may enhance color or change the sheen; it cannot promise a like-new surface or an exact match to neighboring pavers. For concrete pavers, <a href="https://www.cmha.org/resource/pav-tec-005/">CMHA cleaning, sealing and joint-sand guidance</a> explains product selection, trial areas and maintenance. Other materials need their own manufacturer guidance.',
     ],
-    localNote: 'Gardens communities keep colors and patterns uniform, so a reseal that restores the existing approved finish is usually simpler than any change — and it keeps your driveway matching the street.',
+    localNote: 'If your Palm Beach Gardens property has community design rules, check the current requirements for the proposed finish before work starts. Bring those requirements and any information about the existing coating to the site visit.',
     faqs: [
-      { q: 'Do I need community approval to clean and seal my Palm Beach Gardens pavers?', a: 'Usually not. Restoring the existing pavers keeps the approved color and pattern, so it rarely triggers a design-committee submittal. If you are considering a wet-look enhancer that noticeably deepens the color, we help you confirm it with the community first.' },
-      { q: 'Our community pavers are faded and streaky — will sealing fix that?', a: 'The deep clean removes the grime and mold that make the fade look streaky, and the sealer brings the color back to an even finish. It restores the uniform look the community expects without replacing anything.' },
-      { q: 'How often will I need to reseal here?', a: 'Every three to four years is typical inland in the Gardens. The strong sun is the main factor, so resealing on that cycle keeps the color from fading and keeps the surface easy to clean.' },
+      { q: 'Do I need community approval to clean and seal my Palm Beach Gardens pavers?', a: 'Check with your own association or design committee before scheduling the work. We cannot infer its current requirements from the city or community name. Ask specifically about a proposed change in color or sheen, including a wet-look finish.' },
+      { q: 'Our community pavers are faded and streaky - will sealing fix that?', a: 'First identify whether the uneven appearance comes from dirt, stains, wear or an existing coating. Cleaning and a suitable sealer may improve appearance, but an even color or a like-new finish is not guaranteed. Review a trial area before choosing the treatment.' },
+      { q: 'How often will I need to reseal here?', a: 'The interval depends on the selected product, traffic, exposure and the condition of the existing coating. Follow the manufacturer guidance and assess the surface before recoating rather than assuming one schedule fits every Palm Beach Gardens driveway.' },
       { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
   },
@@ -137,7 +136,11 @@ const LOCAL: Record<string, Local> = {
 
 const local = LOCAL[city.slug];
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
-const handles = [
+const handles = city.slug === 'palm-beach-gardens' ? [
+  'Surface and stain assessment, with a trial area for the proposed cleaning treatment',
+  'Joint-sand assessment and compatible re-sanding or stabilization where needed',
+  'Sealer selection based on the paver material, existing coating and intended finish',
+] : [
   `Deep cleaning that lifts the mold, weeds, ants and ground-in grime off pavers in ${city.name}'s ${city.setting}`,
   'Joints re-sanded with polymeric sand that hardens to lock out weeds and ants',
   'Sealing in your choice of finish — a matte natural look or a wet-look enhancer — to protect the color against sun and salt',
@@ -145,7 +148,7 @@ const handles = [
 
 const data = {
   seoTitle: `Paver Cleaning & Sealing in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Restore faded pavers in ${city.name} — deep clean, re-sand the joints with polymeric sand, and seal matte or wet-look. Low-disruption, no teardown. Free on-site visit.`,
+  seoDescription: city.slug === 'palm-beach-gardens' ? 'Paver cleaning and sealing in Palm Beach Gardens. Assess stains, joints, uneven areas and existing coatings before choosing a treatment. Free on-site visit.' : `Restore faded pavers in ${city.name} — deep clean, re-sand the joints with polymeric sand, and seal matte or wet-look. Low-disruption, no teardown. Free on-site visit.`,
   service: SERVICE,
   city,
   lede: local.lede,
@@ -154,7 +157,7 @@ const data = {
   handles,
   faqs: local.faqs,
   heroImg: '/images/local-hero-clean-seal.jpg',
-  heroAlt: `Cleaned and sealed pavers in ${city.name}, Palm Beach County`,
+  heroAlt: city.slug === 'palm-beach-gardens' ? 'Paver surface shown as a cleaning and sealing example' : `Cleaned and sealed pavers in ${city.name}, Palm Beach County`,
   heroBg: '/images/local-hero-clean-seal.jpg',
   services: SERVICES,
   cities: CITY_CHIPS,
