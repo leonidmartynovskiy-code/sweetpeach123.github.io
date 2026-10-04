@@ -25,35 +25,59 @@ const CITY_CHIPS = CITIES.map((c) => ({ label: c.name, slug: c.slug }));
 // ---- Per-city clean & seal copy (uniquely written off each city's real differentiators) ----
 interface Local { lede: string; intro: string[]; localNote: string; faqs: { q: string; a: string }[]; }
 const LOCAL: Record<string, Local> = {
-  'boca-raton': {
-    lede: 'This close to the ocean and the canals, salt and humidity leave a film of mold on Boca pavers and grow weeds in the joints — a deep clean and reseal brings them back without tearing anything out.',
-    intro: [
-      'Boca Raton is one of South Florida\'s most established communities, and a lot of the paver driveways and pool decks through East Boca, the Boca Islands and Old Floresta were laid years ago. Time near the coast is hard on them: the color fades under the sun, black mold builds up in the shade, and the sand between the joints washes out so weeds and ants move in. When the base underneath is still sound, you do not need a rebuild — you need the pavers restored.',
-      'We start with a deep clean that pulls the mold, weeds and ground-in grime off the surface, then re-sand the joints with polymeric sand that hardens to lock out weeds and ants for years. The last step is the sealer, and you choose the finish: a matte seal that keeps the natural look, or a wet-look enhancer that deepens the color like the pavers are freshly rinsed.',
-      'That seal is what earns its keep this close to the salt air. It shields the color against the relentless Boca sun and the afternoon storms, makes the surface easier to rinse clean, and holds off the mold from coming back. On a canal-front or ocean-side lot it is the difference between pavers that look tired in a season and pavers that hold their color for years.',
+  "boca-raton": {
+    "lede": "Paver cleaning and sealing in Boca Raton starts with a surface assessment, so stains, worn coating and loose joints receive the treatment they need.",
+    "intro": [
+      "For a Boca Raton driveway or pool deck, show us where the surface stays damp, which marks return after cleaning and whether any pavers have moved. Those observations help separate cleaning needs from repairs. A coastal address alone does not establish the cause of a stain or the condition of the base.",
+      "The estimate should identify the paver material, existing coating and areas needing joint sand. Cleaning and compatible joint treatment can improve the surface, but do not guarantee permanently weed-free or ant-free joints. Uneven pavers and drainage concerns need a separate assessment.",
+      "Choose the finish on a representative trial area rather than assuming matte and wet-look products offer identical protection. For a pool deck, ask about the selected product's suitability for wet foot traffic. Read our <a href=\"/blog/paver-sealer-finish-test/\">guide to reviewing a paver sealer test area</a> before agreeing on the appearance."
     ],
-    localNote: 'Coastal and canal-front Boca lots sit in constant salt air and humidity, so mold and joint weeds come back fast — a proper reseal on a maintenance cycle is what keeps them at bay.',
-    faqs: [
-      { q: 'How often should I reseal my pavers in Boca Raton?', a: 'This close to the coast, plan on every two to four years. The salt air, humidity and strong sun wear a sealer faster here than inland, and resealing on that cycle keeps the color from fading and slows the mold from returning.' },
-      { q: 'Will cleaning and re-sanding actually stop the weeds and ants in my joints?', a: 'Yes. Once we deep-clean the joints and refill them with polymeric sand, that sand hardens into a firm bond that locks out the weeds and ants that were living in the loose sand. It is the single biggest reason joints stay clean.' },
-      { q: 'Should I choose a matte seal or the wet-look for a coastal Boca home?', a: 'Both protect the pavers the same way. Matte keeps the natural, dry look; the wet-look enhancer deepens the color as if the pavers are freshly rinsed, which many coastal homes like on a pool deck. We show you both on your own pavers at the visit.' },
-      { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
-    ],
+    "localNote": "For your Boca Raton site visit, bring any previous sealer information and note shaded or frequently wet sections. Ask your association about the proposed finish if community rules apply.",
+    "faqs": [
+      {
+        "q": "How often should I reseal my pavers in Boca Raton?",
+        "a": "Use the selected manufacturer's maintenance guidance and inspect the existing finish. Product, traffic, exposure and surface condition all matter; a coastal address does not establish one resealing interval for every property."
+      },
+      {
+        "q": "Will cleaning and re-sanding stop all weeds and ants?",
+        "a": "Suitable joint treatment can reduce sand loss and the potential for weeds and insects. It does not make the joints maintenance-free. The proposed product must suit the joint width, paver material and site conditions."
+      },
+      {
+        "q": "Should I choose matte or wet-look sealer for my Boca pool deck?",
+        "a": "Compare a cured trial on your own material, including its appearance and wet traction. Matte and wet-look describe appearance, not equivalent protection or slip resistance. Confirm compatibility with any existing coating before selecting a product."
+      },
+      {
+        "q": "What does paver cleaning and sealing cost?",
+        "a": "It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline."
+      }
+    ]
   },
-  jupiter: {
-    lede: "In Jupiter's gated golf and waterfront communities the pavers are meant to stay uniform, so faded color and weedy joints stand out — a clean and reseal brings the whole drive back in line.",
-    intro: [
-      "From Admirals Cove to the Loxahatchee Club, most of Jupiter's homes sit inside gated golf and waterfront communities where the streetscape is meant to stay consistent. When a paver driveway fades unevenly, grows mold in the shade or loses its joint sand, it is the one house on the street that looks off. A clean and reseal is the fastest way to bring it back in line with the community without a full replacement.",
-      'We deep-clean the pavers to strip the mold, weeds and grime, then re-sand the joints with polymeric sand that hardens to keep weeds and ants out. Then comes the sealer — matte to hold the natural look the community expects, or a wet-look enhancer to richen the color. Because the base under these 1990s and 2000s driveways is usually still sound, restoring the surface is all it takes.',
-      'On the water — the Intracoastal, the inlet, the canals — salt is the enemy of color, and the sealer is what protects it. It also makes the apron by the garage easier to keep clean under boat-trailer traffic, and it holds the finish uniform so your driveway reads as maintained rather than dated.',
+  "jupiter": {
+    "lede": "For Jupiter paver driveways and pool decks, assess stains, joint condition and existing sealer before choosing cleaning, repairs or a new finish.",
+    "intro": [
+      "If your Jupiter community has appearance rules, bring the current requirements and the finish you want to the assessment. A uniform streetscape does not mean every driveway has the same pavers, coating or wear. Cleaning and sealing cannot promise an exact match to neighboring surfaces.",
+      "Point out loose units, settlement and areas that hold water before the cleaning scope is priced. The age of a driveway cannot confirm that its base is sound. Any necessary repair should be identified separately from cleaning, joint maintenance and sealing.",
+      "A trial area helps compare the proposed cleaning result and finish with the existing surface. Review our <a href=\"/blog/paver-sealer-finish-test/\">sealer finish test-area guide</a>, then record the agreed product and appearance in the scope. Compatible joint treatment can reduce sand loss and weed growth, but ongoing maintenance remains necessary."
     ],
-    localNote: 'Jupiter communities expect a uniform, well-kept streetscape, so we match the seal finish to the look the community favors and keep the color consistent across the whole driveway.',
-    faqs: [
-      { q: 'Does my Jupiter community require approval to reseal pavers?', a: 'Cleaning and sealing existing pavers rarely needs a permit or an architectural review submittal, since you are restoring what is already there rather than changing the design. If your community asks about a color change from a wet-look enhancer, we help you confirm it first.' },
-      { q: 'My community pavers have faded unevenly — can a reseal even them out?', a: 'Yes. The deep clean lifts the ground-in grime and mold that make the fade look patchy, and the sealer brings the color back to a consistent finish across the whole driveway, so it matches the rest of the street again.' },
-      { q: 'Will re-sanding the joints stop weeds coming up in my driveway?', a: 'It does. We refill the joints with polymeric sand that hardens into a firm bond, which locks out the weeds and ants that had moved into the washed-out sand — a common problem on driveways this age.' },
-      { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
-    ],
+    "localNote": "For a Jupiter property with community design rules, check the proposed color or sheen with the association before scheduling. Provide any known existing-product details so coating compatibility can be assessed.",
+    "faqs": [
+      {
+        "q": "Does my Jupiter community require approval to reseal pavers?",
+        "a": "Ask your own association or design committee about the proposed work and finish. Requirements cannot be inferred from a community name. If repairs or changes to the surface are included, confirm the applicable city requirements for that scope as well."
+      },
+      {
+        "q": "Can resealing make unevenly faded pavers match again?",
+        "a": "Cleaning and a suitable sealer may improve appearance, but wear, stains and old coatings can leave differences. Review a representative trial; do not assume the result will be uniform or match the rest of the street."
+      },
+      {
+        "q": "Will re-sanding stop weeds in my driveway?",
+        "a": "Joint stabilization can help retain sand and reduce weed growth. It does not guarantee weed-free or ant-free joints, and it cannot repair settlement or increase the pavement's load capacity."
+      },
+      {
+        "q": "What does paver cleaning and sealing cost?",
+        "a": "It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline."
+      }
+    ]
   },
   'palm-beach-gardens': {
     lede: 'Cleaning and sealing starts with the condition of your Palm Beach Gardens pavers: surface stains, joint sand, uneven areas and any existing coating need separate attention.',
@@ -73,92 +97,137 @@ const LOCAL: Record<string, Local> = {
       { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
   },
-  wellington: {
-    lede: "Out in Wellington's equestrian estates the paver driveways and pool decks run large, so faded color and weedy joints cover a lot of ground — a deep clean and reseal restores the whole surface at once.",
-    intro: [
-      'Wellington is a different scale of clean and seal. Out on the acreage of Palm Beach Point, the Aero Club and Grand Prix Village, the paver surfaces are big — long driveways, wide aprons and generous pool decks — so when the color fades or the joints grow weeds, it shows across a large area. Restoring that surface refreshes the whole front of an estate in a way a small patch never could.',
-      'We deep-clean the full run to strip the mold, weeds and ground-in grime, then re-sand every joint with polymeric sand that hardens to keep weeds and ants out — important on a driveway that sees truck and trailer traffic. Then we seal, matte for the natural look or a wet-look enhancer to richen the color, protecting the surface against the sun across the whole estate.',
-      'On acreage the joint sand does real work, since heavy vehicles and washouts pull sand out of the joints faster. Locking those joints with fresh polymeric sand and sealing the surface keeps a large estate driveway looking maintained, and it is far less disruptive than tearing out a surface whose base is still solid.',
+  "wellington": {
+    "lede": "Plan cleaning and sealing for your Wellington driveway or pool deck around its actual condition, access needs and vehicle use.",
+    "intro": [
+      "For a long Wellington driveway or several connected outdoor areas, identify which sections need cleaning, joint work or repairs. Note how vehicles will reach the property while work takes place. The written scope should distinguish the driveway, apron and pool deck instead of assuming they need identical treatment.",
+      "If trucks or trailers use the driveway, show us any movement, rutting or recurring sand loss. Joint stabilization does not increase the pavement's load-bearing capacity. Cleaning and sealer cannot substitute for correcting a base, edge or drainage problem.",
+      "Ask for the selected product's return-to-use instructions and a plan for access during curing. A <a href=\"/blog/paver-sealer-finish-test/\">representative sealer test area</a> helps set finish expectations, but does not guarantee an identical appearance across surfaces with different materials or wear."
     ],
-    localNote: 'Estate driveways and pool decks cover a lot of ground and see trailer and truck traffic, so joints wash out faster — we re-sand the full run with polymeric sand and seal the whole surface for an even finish.',
-    faqs: [
-      { q: 'My estate driveway is huge — can you clean and seal the whole run?', a: 'Yes, that is a lot of what we do in Wellington. We deep-clean the full driveway, apron and pool deck, re-sand every joint and seal the whole surface at once so the finish stays even across the entire estate.' },
-      { q: 'Trucks and trailers pull the sand out of my joints — what stops that?', a: 'Polymeric sand. Once we refill the joints and it hardens, it holds far better than plain sand under the truck and trailer traffic an estate driveway sees, which keeps weeds and ants out and the joints stable.' },
-      { q: 'Do I have to reseal a large pool deck as often as a driveway?', a: 'A pool deck near the water and constant sun usually wants resealing every two to three years, a driveway every three to four. We often clean and seal both together so the whole property stays on one maintenance cycle.' },
-      { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
-    ],
+    "localNote": "For a Wellington property used by trucks or trailers, include the vehicle use and access constraints in the estimate request. Assess the driveway and pool deck separately before setting a maintenance schedule.",
+    "faqs": [
+      {
+        "q": "Can a large Wellington driveway and pool deck be assessed together?",
+        "a": "Include both in the site-visit request. The estimate can identify each area, its condition, the proposed treatment and any access or phasing needs. A single property does not mean every surface should receive the same product."
+      },
+      {
+        "q": "Will polymeric sand fix joints affected by trucks and trailers?",
+        "a": "A compatible joint treatment may help retain sand, but first identify why the joints are losing material or the pavers are moving. Stabilized sand does not add structural capacity; vehicle-related settlement may require repair."
+      },
+      {
+        "q": "Should my pool deck and driveway follow the same resealing schedule?",
+        "a": "Not automatically. Traffic, moisture, coating condition and the selected product can differ. Inspect each surface and follow its manufacturer guidance rather than assigning a fixed interval by surface type."
+      },
+      {
+        "q": "What does paver cleaning and sealing cost?",
+        "a": "It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline."
+      }
+    ]
   },
-  'west-palm-beach': {
-    lede: 'In El Cid, SoSo and Flamingo Park the paver installs are older, so the color has faded and the joints have grown over — a clean and reseal brings the period look back to life.',
-    intro: [
-      "West Palm Beach's historic streets — El Cid, SoSo, Flamingo Park, Prospect Park — are full of Spanish and Mediterranean homes, and many of the paver walkways and driveways here have been in place for years. Time shows: the warm color has faded, mold builds up in the shade of mature trees, and the joint sand has washed out so weeds come through. A clean and reseal restores that period look without disturbing the character of the home.",
-      'We deep-clean the pavers to lift the mold, weeds and grime, then re-sand the joints with polymeric sand that hardens to hold weeds and ants out. The sealer is where the character comes back — a wet-look enhancer deepens the warm clay tones that suit these 1920s to 40s homes, or a matte seal keeps the softer, aged finish if that reads more true to the house.',
-      'There is no HOA to answer to on these streets, and cleaning and sealing the existing pavers does not change the design, so it stays in step with any historic district it falls in. It is a low-disruption way to keep a character-rich in-town home looking cared for, protecting the finish against the sun between visits.',
+  "west-palm-beach": {
+    "lede": "Clean and seal your West Palm Beach pavers with a scope that respects the existing material, desired finish and any property-specific review requirements.",
+    "intro": [
+      "For an older West Palm Beach driveway or walkway, identify the material and previous coating before choosing a cleaning method. A warm color does not tell us whether the units are clay, concrete or stone. Worn surfaces and repaired sections may respond differently to the same treatment.",
+      "Use a trial area to review the cleaning result and proposed sheen. The <a href=\"/blog/paver-sealer-finish-test/\">sealer finish test-area guide</a> explains what to discuss before treating the full surface. Cleaning and sealing may improve appearance, but cannot promise a period-correct color or hide every stain and repair.",
+      "For a designated historic property or a home within a historic district, ask city historic-preservation staff how the proposed work is classified before proceeding. The city's <a href=\"https://www.wpb.org/Departments/Development-Services/Planning-Division/Historic-Preservation/Historic-Preservation-FAQs\">Historic Preservation FAQs</a> explain that review depends on the work. Do not assume that cleaning, a finish change and replacing pavers have the same review requirements."
     ],
-    localNote: 'Mature trees shade these older in-town lots, so mold builds up in the joints and on the surface — a deep clean lifts it, and a warm-toned seal keeps the finish true to the period architecture.',
-    faqs: [
-      { q: 'Will a wet-look seal suit my historic El Cid or Flamingo Park home?', a: 'It often does. A wet-look enhancer deepens the warm clay and earth tones that read true to 1920s–40s architecture, without changing the pavers themselves. If you prefer the softer aged look, a matte seal keeps that — we show you both on your own pavers.' },
-      { q: 'Mold keeps coming back under my trees — will sealing help?', a: 'The deep clean strips the existing mold, and the sealer makes the surface easier to rinse and slower to grow it back. In the shade of mature trees mold returns eventually, so a reseal every few years keeps ahead of it.' },
-      { q: 'Do I need any approval to clean and seal pavers in a historic district?', a: 'Cleaning and sealing existing pavers does not change the design, so it typically stays in step with a historic district without a submittal. There is no HOA on these streets, which keeps it simple.' },
-      { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
-    ],
+    "localNote": "If historic-district or association rules apply to your West Palm Beach property, bring the relevant requirements to the site visit. Identify recurring damp spots and previous repairs so the cleaning scope addresses the surface you actually have.",
+    "faqs": [
+      {
+        "q": "Will a wet-look sealer suit my historic West Palm Beach home?",
+        "a": "Review a trial on the actual material and discuss the proposed appearance with the relevant reviewer if the property is designated or subject to community rules. A finish name alone cannot establish compatibility or an appropriate result."
+      },
+      {
+        "q": "Will sealing stop growth returning under shaded trees?",
+        "a": "Cleaning can address existing surface buildup, but sealing is not a guarantee against recurring growth. Point out persistent dampness or standing water, assess the cause and plan ongoing cleaning appropriate to the material and coating."
+      },
+      {
+        "q": "Do I need approval for work on pavers in a historic district?",
+        "a": "Confirm the property's status and proposed scope with West Palm Beach historic-preservation staff before work starts. Cleaning, coating changes and replacement can be different scopes. This page does not establish an exemption or say that every cleaning job requires the same approval."
+      },
+      {
+        "q": "What does paver cleaning and sealing cost?",
+        "a": "It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline."
+      }
+    ]
   },
-  'delray-beach': {
-    lede: 'Around Lake Ida and the beach the salt air and heavy summer rain leave mold on the pavers and wash the joint sand out — a deep clean and reseal takes it all back to new.',
-    intro: [
-      "Delray's east side — Lake Ida, the beach district, Del-Ida Park — sits close to the water, and the pavers there take the brunt of it. Salt air and heavy summer rain leave black mold on the surface, fade the color and wash the sand out of the joints so weeds and ants move in. On these established coastal homes the base is usually still sound, so a clean and reseal restores the pavers without a rebuild.",
-      'We deep-clean the surface to pull off the mold, weeds and salt-borne grime, then re-sand the joints with polymeric sand that hardens to lock weeds and ants out. Then we seal — matte to keep the natural coastal look, or a wet-look enhancer to deepen the color — and that seal is what does the heavy lifting this close to the ocean.',
-      'The sealer shields the color against the salt and the strong sun, and it makes the surface bead off the summer downpours and rinse clean instead of staining. On a beach-district lot it is the difference between pavers that gray out in a season and pavers that hold their finish for years on a simple reseal cycle.',
+  "delray-beach": {
+    "lede": "For Delray Beach pavers, separate stain removal, joint maintenance and any repairs before choosing whether to seal the surface.",
+    "intro": [
+      "Tell us where marks recur on your Delray Beach driveway or pool deck and whether they follow irrigation, cleaning or rain. Surface appearance alone cannot identify a stain's source or prove that the base is sound. Note uneven units and standing water separately from cosmetic concerns.",
+      "The cleaning method should suit the material and existing coating, with a trial to check the result. Re-sanding or stabilization may help retain joint material, but repeated washout needs an assessment of the water path. Sealer does not correct drainage and cannot promise a like-new surface.",
+      "Before selecting matte or wet-look, compare the proposed appearance using our <a href=\"/blog/paver-sealer-finish-test/\">guide to a cured sealer test area</a>. Ask what upkeep the selected product requires; the property's distance from the beach is not enough to set a recoating date."
     ],
-    localNote: 'Coastal east-side Delray lots deal with constant salt and heavy summer rain, so mold and joint weeds return fast — sealing on a maintenance cycle keeps the color protected and the surface easy to rinse clean.',
-    faqs: [
-      { q: 'Does the salt air near the Delray beach make my pavers need sealing more often?', a: 'It does. This close to the ocean, plan on resealing every two to three years — the salt and strong sun wear a sealer faster here than inland. On that cycle the color stays protected and the mold is slower to return.' },
-      { q: 'Black mold keeps coming back on my pool deck — can you clean and seal it off?', a: 'Yes. The deep clean strips the mold off the surface, and the sealer makes the pavers easier to rinse and slower to grow it back. Near the water it will return over time, so a reseal every couple of years keeps ahead of it.' },
-      { q: 'Heavy rain has washed the sand out of my joints — how do you fix that?', a: 'We refill the joints with polymeric sand that hardens into a firm bond, so it holds through the summer downpours far better than the loose sand that washed out, and it locks out the weeds and ants that had moved in.' },
-      { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
-    ],
+    "localNote": "At a Delray Beach assessment, identify irrigation stains, frequently wet areas and repeated joint washout. Those site observations are more useful for choosing a treatment than assuming every coastal surface has the same problem.",
+    "faqs": [
+      {
+        "q": "How often should I reseal pavers near the Delray beach?",
+        "a": "Inspect the coating and follow the selected product's guidance for the surface and its use. Sun, traffic and moisture conditions vary; there is no single interval established here for all coastal properties."
+      },
+      {
+        "q": "Can cleaning and sealing permanently remove dark growth on a pool deck?",
+        "a": "First assess the buildup and choose a material-compatible cleaning method. Results and recurrence depend on the surface and conditions. Sealing does not guarantee permanent removal or replace routine cleaning and attention to persistent moisture."
+      },
+      {
+        "q": "What if rain keeps washing sand out of the joints?",
+        "a": "Identify the water path and any drainage or edge problem before selecting a compatible joint treatment. Stabilization can reduce sand loss, but it does not make the surface immune to washout or fix the cause of standing water."
+      },
+      {
+        "q": "What does paver cleaning and sealing cost?",
+        "a": "It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline."
+      }
+    ]
   },
-  'boynton-beach': {
-    lede: 'Along the Intracoastal and Boynton\'s eastern streets the salt and damp air grow mold on the pavers and wash the joint sand out — a deep clean and reseal restores them without a teardown.',
-    intro: [
-      "Boynton Beach's best paver work is on the water and to the east — the Intracoastal waterfront, Harbor Estates, Chapel Hill, Lake Eden. Near the water the salt and the damp air are hard on pavers: mold builds up in the shade, the color fades and the joint sand washes out so weeds and ants take hold. Where the base under these 1960s to 90s installs is still sound, a clean and reseal brings the pavers back without a rebuild.",
-      'We deep-clean the surface to strip the mold, weeds and grime, then re-sand the joints with polymeric sand that hardens to keep weeds and ants out. The sealer finishes it — matte for the natural look, or a wet-look enhancer to deepen the color — and it is what protects the pavers against the salt-heavy air near the Intracoastal.',
-      'The seal also helps the surface shed the heavy summer rain instead of holding it, which matters on the damp ground near the water. It keeps the color from fading, makes the pavers easier to rinse clean, and holds off the mold so a waterfront driveway or pool deck stays looking maintained between visits.',
+  "boynton-beach": {
+    "lede": "Request a condition-based cleaning and sealing assessment for your Boynton Beach pavers, with joint work and repairs identified separately.",
+    "intro": [
+      "For a Boynton Beach driveway, patio or pool deck, start with what you can observe: stained sections, loose joint material, peeling coating or pavers that have moved. A waterfront location does not prove the cause of a mark or determine which sealer will suit the surface.",
+      "The proposed cleaning treatment should match the paver material and any existing coating. Joint maintenance can help retain sand and reduce weed growth, but is not a permanent barrier to weeds or ants. Point out low areas and standing water because sealing cannot correct drainage or repair settlement.",
+      "Use our <a href=\"/blog/paver-sealer-finish-test/\">paver sealer finish test guide</a> to prepare questions about the proposed appearance. Include the areas to be treated, known coating history and recurring problems in your estimate request so the site visit can address them."
     ],
-    localNote: 'Waterfront Boynton lots near the Intracoastal sit in damp, salt-heavy air, so mold and joint weeds come back quickly — a reseal on a maintenance cycle keeps the color protected and the surface easy to clean.',
-    faqs: [
-      { q: 'My Boynton home backs onto the Intracoastal — how often should I reseal?', a: 'This close to the water, every two to three years. The salt air and humidity wear a sealer faster near the Intracoastal, and resealing on that cycle keeps the color protected and slows the mold from returning.' },
-      { q: 'The damp air near the water grows mold on my pavers — will sealing stop it?', a: 'The deep clean strips the mold off, and the sealer makes the surface easier to rinse and slower to grow it back. Near the water it returns over time, so a reseal every couple of years is what keeps ahead of it.' },
-      { q: 'Weeds and ants are coming up through my joints — what fixes that?', a: 'We refill the joints with polymeric sand that hardens into a firm bond, which locks out the weeds and ants that had moved into the washed-out sand. It is the most reliable way to keep the joints clean on a waterfront lot.' },
-      { q: 'What does paver cleaning and sealing cost?', a: 'It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
-    ],
+    "localNote": "For Boynton Beach properties near the Intracoastal, describe the actual moisture and maintenance conditions at your home. Choose the product and upkeep plan from a surface assessment, not from the waterfront address alone.",
+    "faqs": [
+      {
+        "q": "How often should I reseal pavers at my Boynton waterfront home?",
+        "a": "Follow the selected product's maintenance guidance and inspect the current coating. Traffic, exposure and material affect the decision. A waterfront address alone does not justify a fixed two- or three-year schedule."
+      },
+      {
+        "q": "Will sealing stop recurring growth near damp areas?",
+        "a": "Cleaning can remove surface buildup, but a sealer does not guarantee that it will not return. Identify persistent moisture or drainage concerns and maintain the surface using methods compatible with the pavers and coating."
+      },
+      {
+        "q": "What can be done about weeds and ants in the joints?",
+        "a": "Assess the joint condition and select compatible sand or stabilization where appropriate. This can reduce sand loss and the potential for weeds and insects, but does not remove the need for regular maintenance."
+      },
+      {
+        "q": "What does paver cleaning and sealing cost?",
+        "a": "It depends on the square footage and the condition of the pavers, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline."
+      }
+    ]
   },
 };
 
 const local = LOCAL[city.slug];
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
-const handles = city.slug === 'palm-beach-gardens' ? [
+const handles = [
   'Surface and stain assessment, with a trial area for the proposed cleaning treatment',
   'Joint-sand assessment and compatible re-sanding or stabilization where needed',
   'Sealer selection based on the paver material, existing coating and intended finish',
-] : [
-  `Deep cleaning that lifts the mold, weeds, ants and ground-in grime off pavers in ${city.name}'s ${city.setting}`,
-  'Joints re-sanded with polymeric sand that hardens to lock out weeds and ants',
-  'Sealing in your choice of finish — a matte natural look or a wet-look enhancer — to protect the color against sun and salt',
 ];
 
 const data = {
   seoTitle: `Paver Cleaning & Sealing in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: city.slug === 'palm-beach-gardens' ? 'Paver cleaning and sealing in Palm Beach Gardens. Assess stains, joints, uneven areas and existing coatings before choosing a treatment. Free on-site visit.' : `Restore faded pavers in ${city.name} — deep clean, re-sand the joints with polymeric sand, and seal matte or wet-look. Low-disruption, no teardown. Free on-site visit.`,
+  seoDescription: city.slug === 'palm-beach-gardens' ? 'Paver cleaning and sealing in Palm Beach Gardens. Assess stains, joints, uneven areas and existing coatings before choosing a treatment. Free on-site visit.' : `Paver cleaning and sealing in ${city.name}. Assess stains, joints and existing coatings, with repairs considered separately. Request a free on-site visit.`,
   service: SERVICE,
   city,
   lede: local.lede,
   intro: local.intro,
   localNote: local.localNote,
+  approvalsLabel: city.slug === 'west-palm-beach' ? 'Confirm city / association requirements' : undefined,
   handles,
   faqs: local.faqs,
   heroImg: '/images/local-hero-clean-seal.jpg',
-  heroAlt: city.slug === 'palm-beach-gardens' ? 'Paver surface shown as a cleaning and sealing example' : `Cleaned and sealed pavers in ${city.name}, Palm Beach County`,
+  heroAlt: 'Paver surface shown as a cleaning and sealing example',
   heroBg: '/images/local-hero-clean-seal.jpg',
   services: SERVICES,
   cities: CITY_CHIPS,

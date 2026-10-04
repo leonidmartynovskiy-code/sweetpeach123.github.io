@@ -16,19 +16,20 @@ interface Props {
   faqs: Faq[];
   heroImg: string;
   heroAlt: string;
+  approvalsLabel?: string;
   heroBg?: string;  // optional full-bleed hero background photo (with dark overlay)
   services: Chip[]; // all services, for "every service in this city"
   cities: Chip[];   // all cities, for "this service across the county"
 }
 const {
   seoTitle, seoDescription, service, city, lede, intro, localNote, handles, faqs,
-  heroImg, heroAlt, heroBg, services, cities,
+  heroImg, heroAlt, heroBg, services, cities, approvalsLabel,
 } = Astro.props as Props;
 
-const hoaLabel =
+const hoaLabel = approvalsLabel ?? (
   city.hoa === 'none' ? 'No HOA · city / district review' :
   city.hoa === 'hoa' ? 'HOA / architectural review board' :
-  'Mixed — HOA on some streets';
+  'Mixed — HOA on some streets');
 
 const jsonLd = {
   '@context': 'https://schema.org',
