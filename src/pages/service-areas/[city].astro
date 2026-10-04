@@ -33,13 +33,11 @@ const seoDescription = `Driveways, patios, pool decks, walkways and more in ${ci
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
+  '@type': 'Organization',
   name: 'Perfect Pavers of Palm Beach',
   image: new URL('/apple-touch-icon.png', Astro.site).href,
-  url: new URL(`/service-areas/${city.slug}/`, Astro.site).href,
+  url: new URL('/', Astro.site).href,
   telephone: '+1-561-834-8880',
-  priceRange: '$$',
-  address: { '@type': 'PostalAddress', addressLocality: city.name, addressRegion: 'FL', addressCountry: 'US' },
   areaServed: { '@type': 'City', name: `${city.name}, FL` },
 };
 ---

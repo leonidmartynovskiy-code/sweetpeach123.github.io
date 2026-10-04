@@ -37,13 +37,11 @@ const jsonLd = {
   name: `${service.name} in ${city.name}`,
   areaServed: { '@type': 'City', name: `${city.name}, FL` },
   provider: {
-    '@type': 'LocalBusiness',
+    '@type': 'Organization',
     name: 'Perfect Pavers of Palm Beach',
     image: new URL('/apple-touch-icon.png', Astro.site).href,
     url: new URL('/', Astro.site).href,
     telephone: '+1-561-834-8880',
-    priceRange: '$$',
-    address: { '@type': 'PostalAddress', addressLocality: city.name, addressRegion: 'FL', addressCountry: 'US' },
     areaServed: 'Palm Beach County, FL',
   },
 };
