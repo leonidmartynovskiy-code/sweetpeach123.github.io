@@ -1,5 +1,5 @@
 <script is:inline>
-/* Per-tab inquiry context only. Native GHL acquisition tracking is untouched. */
+/* Per-tab inquiry context. Native GHL acquisition tracking is untouched. */
 (function () {
   var key = 'pp_inquiry_visit_v1';
   var idleMs = 30 * 60 * 1000;
@@ -16,6 +16,10 @@
   }
   function isArticle(value) {
     try { return /^\/blog\/[^/]+\/?$/.test(new URL(value).pathname); }
+    catch (_) { return false; }
+  }
+  function isService(value) {
+    try { return /^\/services\/[^/]+(?:\/[^/]+)?\/?$/.test(new URL(value).pathname); }
     catch (_) { return false; }
   }
   var current = clean(window.location.href);
@@ -35,8 +39,12 @@
   if (!isArticle(visit.article)) visit.article = '';
   if (!visit.article && isArticle(visit.landing)) visit.article = visit.landing;
   if (!visit.article && isArticle(current)) visit.article = current;
+  visit.service = clean(visit.service || '');
+  if (!isService(visit.service)) visit.service = '';
+  if (!visit.service && isService(visit.landing)) visit.service = visit.landing;
+  if (isService(current)) visit.service = current;
   visit.lastSeen = now;
-  window.ppInquiryVisit = { landing: visit.landing, article: visit.article };
+  window.ppInquiryVisit = { landing: visit.landing, article: visit.article, service: visit.service };
   try { window.sessionStorage.setItem(key, JSON.stringify(visit)); }
   catch (_) { /* Optional context must never block an inquiry. */ }
 })();
