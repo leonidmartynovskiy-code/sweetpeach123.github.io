@@ -27,7 +27,7 @@ const {
 } = Astro.props as Props;
 
 const hoaLabel = approvalsLabel ?? (
-  city.slug === 'west-palm-beach' ? 'Confirm city / association requirements' :
+  city.hoa === 'property-specific' ? 'Confirm city / association requirements' :
   city.hoa === 'none' ? 'No HOA · city / district review' :
   city.hoa === 'hoa' ? 'HOA / architectural review board' :
   'Mixed — HOA on some streets');

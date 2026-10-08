@@ -3,7 +3,7 @@
 // differentiators stay consistent. Facts come from the client's city
 // research (neighborhoods, home era, HOA profile) — no invented specifics.
 
-export type Hoa = 'hoa' | 'none' | 'mixed';
+export type Hoa = 'hoa' | 'none' | 'mixed' | 'property-specific';
 
 export interface City {
   slug: string;
@@ -81,9 +81,9 @@ export const CITIES: City[] = [
     region: 'central',
     neighborhoods: ['El Cid', 'SoSo (South of Southern)', 'Flamingo Park', 'Prospect Park'],
     homeEra: '1920s–40s',
-    hoa: 'none',
+    hoa: 'property-specific',
     hoaNote:
-      'These historic neighborhoods have no HOA, but several sit in the city historic districts — we keep the design in step with the period architecture.',
+      'Check the property address, proposed work and any association rules before choosing a design. Historic status and the scope of exterior changes determine whether additional city review applies.',
     permitAuthority: 'the City of West Palm Beach',
     setting: 'historic in-town neighborhoods',
     blurb:
@@ -95,9 +95,9 @@ export const CITIES: City[] = [
     region: 'south',
     neighborhoods: ['Lake Ida', 'Beach District', 'Tropic Isle', 'Del-Ida Park'],
     homeEra: '1950s–80s',
-    hoa: 'none',
+    hoa: 'property-specific',
     hoaNote:
-      'The east side around Lake Ida and the beach is largely non-HOA, so approval is usually just the city permit — which we pull for you.',
+      'Check the property address and proposed work with the city, including historic designation and any association rules. An address near Lake Ida or the beach does not establish which approvals apply.',
     permitAuthority: 'the City of Delray Beach',
     setting: 'coastal east-side neighborhoods',
     blurb:

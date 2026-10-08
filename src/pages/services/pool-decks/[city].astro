@@ -94,14 +94,14 @@ const LOCAL: Record<string, Local> = {
     lede: 'In El Cid, SoSo and Flamingo Park the pools are tucked behind 1920s–40s homes — the deck has to fit the period and stay cool under bare feet.',
     intro: [
       "West Palm Beach's target streets — El Cid, SoSo, Flamingo Park, Prospect Park — are historic, with Spanish and Mediterranean homes from the 1920s through the 40s. A pool deck here has to suit the architecture: warm-toned travertine and marble laid in a classic pattern read right where a plain gray slab looks out of place, and they stay cool under bare feet the way concrete never does.",
-      'Several of these neighborhoods sit in city historic districts, so the deck should stay in step with the period. There is no HOA to answer to, but there is a look worth protecting — we help you pick a stone, pattern and coping that lift a historic pool rather than modernizing away its character.',
+      "Before finalizing the deck footprint, coping and any pool-barrier changes, confirm the property address, historic status and any association requirements. The <a href=\"https://www.wpb.org/Departments/Development-Services/Planning-Division/Historic-Preservation/Historic-Preservation-FAQs\">City of West Palm Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
       'The lots are older and often tighter, and the mature trees, original grading and older pool shells make the base and drainage work matter. We excavate, build a proper compacted base, set the coping around the pool edge, slope the deck away from the house, pull the City of West Palm Beach permit and meet the pool-barrier code.',
       "Before choosing a layout, read our <a href=\"/blog/pool-deck-pavers-west-palm-beach/\">West Palm Beach pool-deck planning guide</a>, including questions about historic review.",
     ],
     localNote: 'Older in-town lots have mature tree roots, tight setbacks and original grading to work around, and some streets fall in a historic district — we design the deck to the period and build the base to handle the roots and settling.',
     faqs: [
       { q: 'What deck material suits a historic El Cid or Flamingo Park pool?', a: 'Warm-toned travertine and marble in a classic pattern read true to the 1920s–40s architecture and stay cool under bare feet. We help you choose a finish and coping that look original to the house rather than bolted on.' },
-      { q: "Is there an approval process for a pool deck in West Palm Beach's historic neighborhoods?", a: 'There is no HOA, but some streets are in a city historic district where exterior changes are reviewed. We keep the design period-appropriate, pull the City of West Palm Beach permit, meet the pool-barrier code, and handle any historic-district paperwork that applies.' },
+      { q: "Which approvals apply to this work in West Palm Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the deck footprint, coping and any pool-barrier changes with the City of West Palm Beach before work begins, and confirm any separate association requirements." },
       { q: 'Can you reset a deck that has heaved against an older pool shell?', a: 'Usually yes. We lift the settled pavers, correct the base and reset the field and coping so it sits flush against the shell again — and because it is individual units, there is no visible patch the way there would be on a poured deck.' },
       { q: 'What does a paver pool deck cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -111,12 +111,12 @@ const LOCAL: Record<string, Local> = {
     intro: [
       "Delray's strength is the east side — Lake Ida, the beach district, Del-Ida Park — where established homes sit close to the water. These coastal streets have a character all their own, and many of the pool decks are original to homes from the 1950s through 80s and well past their life.",
       'This close to the ocean, salt, heavy summer rain and the pool\'s own chlorine or salt system wear a deck down fast. Concrete stains and spalls; a sealed travertine or marble deck shrugs off the salt, stays cool under bare feet, and if a section settles near the water or the coping we reset those pavers rather than patching a slab. It stays looking new with an occasional rinse and reseal.',
-      'The good news on the east side is simplicity — most of these streets are non-HOA, so approval is usually just the city permit and the pool-barrier code. We pull the City of Delray Beach permit, build the base for the sandy coastal soil, set the coping around the pool edge, and grade the drainage away from the pool and the home.',
+      "Before finalizing the deck footprint, coping and any pool-barrier changes, confirm the property address, historic status and any association requirements. The <a href=\"https://www.delraybeachfl.gov/government/city-departments/development-services/historic-preservation/historic-preservation-applications\">City of Delray Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
     ],
     localNote: 'Coastal east-side lots deal with salt, high summer rain and pool chemistry — we seal for the salt and build the slope to move heavy rain to the swale or street, away from the pool and older homes with low thresholds.',
     faqs: [
       { q: 'Does salt air near the Delray beach hurt a paver pool deck?', a: 'Far less than it hurts concrete. We seal the travertine or marble so salt, storm runoff and pool chemistry bead off, and because the deck is individual units, any piece that ever weathers or settles near the water or the coping can be lifted and reset with no visible patch.' },
-      { q: "I'm on a non-HOA street near Lake Ida — what approval do I need for a pool deck?", a: 'Usually just the city permit and the pool-barrier code check. Most Lake Ida and beach-district streets have no HOA, so we simply pull the City of Delray Beach permit, handle the drainage requirement if one applies, and get to work.' },
+      { q: "Which approvals apply to this work in Delray Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the deck footprint, coping and any pool-barrier changes with the City of Delray Beach before work begins, and confirm any separate association requirements." },
       { q: 'Which deck material stays coolest by the beach?', a: 'Travertine and marble. They reflect heat rather than holding it, so the deck stays comfortable under bare feet in the coastal sun, and both grip well when they are wet at the pool edge.' },
       { q: 'What does a paver pool deck cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -142,7 +142,9 @@ const local = LOCAL[city.slug];
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
 const handles = [
   `Removal of the failing pool deck and a compacted base built for ${city.name}'s sandy soil, with cool, non-slip travertine or marble laid to the pool edge`,
-  city.hoa === 'none'
+  city.hoa === 'property-specific'
+    ? 'City, historic-district and association requirements checked for your property and scope'
+    : city.hoa === 'none'
     ? 'Any city or historic-district review kept period-appropriate'
     : city.hoa === 'hoa'
     ? 'Your HOA / architectural review board submittal prepared and shepherded through'
@@ -152,7 +154,7 @@ const handles = [
 
 const data = {
   seoTitle: `Paver Pool Decks in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Cool, non-slip paver pool decks in ${city.name} — travertine and marble, clean coping and drainage. ${permit} permit and ${city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
+  seoDescription: `Cool, non-slip paver pool decks in ${city.name} — travertine and marble, clean coping and drainage. ${permit} permit and ${city.hoa === 'property-specific' ? 'applicable' : city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
   service: SERVICE,
   city,
   lede: local.lede,

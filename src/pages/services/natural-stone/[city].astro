@@ -89,13 +89,13 @@ const LOCAL: Record<string, Local> = {
     lede: 'In El Cid, SoSo and Flamingo Park the homes date to the 1920s–40s, and period-true natural stone fits the Mediterranean architecture where a modern paver never will.',
     intro: [
       "West Palm Beach's target streets — El Cid, SoSo, Flamingo Park, Prospect Park — are historic, with Spanish and Mediterranean homes from the 1920s through the 40s. Natural stone belongs here in a way a modern paver does not: warm travertine, marble and flagstone read true to the period, and choosing the right stone lifts the character of the house instead of modernizing it away.",
-      'Several of these neighborhoods sit in city historic districts, so the material and the finish should stay in step with the architecture. There is no HOA to answer to, but there is a look worth protecting — we help you pick a stone, a tone and a pattern that suit a 1920s–40s home rather than fighting it.',
+      "Before finalizing the stone type, finish and installation area, confirm the property address, historic status and any association requirements. The <a href=\"https://www.wpb.org/Departments/Development-Services/Planning-Division/Historic-Preservation/Historic-Preservation-FAQs\">City of West Palm Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
       'The lots are older and often narrower, with mature trees and original grading, so the base work matters. Because natural stone is porous, we seal it against the sun and stains and reseal on a schedule, then excavate, set the slope away from the house, and pull the City of West Palm Beach permit.',
     ],
     localNote: 'Older in-town lots have mature tree roots and original grading to work around, and some streets fall in a historic district — we choose a period-true stone and build the base to handle the roots and settling.',
     faqs: [
       { q: 'What natural stone suits a historic El Cid or Flamingo Park home?', a: 'Warm-toned travertine, marble and flagstone in a classic pattern read true to the 1920s–40s Spanish and Mediterranean architecture. We help you choose a stone and finish that looks original to the house rather than bolted on.' },
-      { q: "Is there an approval process in West Palm Beach's historic neighborhoods?", a: 'There is no HOA, but some streets are in a city historic district where exterior changes are reviewed. We keep the stone choice period-appropriate, pull the City of West Palm Beach permit, and handle any historic-district paperwork that applies.' },
+      { q: "Which approvals apply to this work in West Palm Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the stone type, finish and installation area with the City of West Palm Beach before work begins, and confirm any separate association requirements." },
       { q: 'Does natural stone hold up on an older in-town lot?', a: 'It does, when the base is right. We build a proper compacted base around the mature roots and original grading, then seal the porous stone against sun and stains so a period-true surface lasts on an older lot.' },
       { q: 'What does a natural stone hardscape cost?', a: 'It depends on the stone, the area and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -105,12 +105,12 @@ const LOCAL: Record<string, Local> = {
     intro: [
       "Delray's strength is the east side — Lake Ida, the beach district, Del-Ida Park — where established homes from the 1950s through 80s sit close to the water. These coastal streets have a character of their own, and natural stone suits them: travertine, marble and shellstone give a premium, custom look that reads a step above a manufactured paver.",
       'This close to the ocean, salt and heavy summer rain are hard on porous stone. Unsealed travertine or shellstone stains and etches fast; we seal every stone against the salt, the storms and the sun so it beads off spills and holds its color, and a tumbled surface stays cool enough to walk barefoot by the pool. An occasional rinse and reseal keeps it looking new.',
-      'The good news on the east side is simplicity — most of these streets are non-HOA, so approval is usually just the city permit. We pull the City of Delray Beach permit, build the base for the sandy coastal soil, match the stone to the home, and grade the drainage away from it.',
+      "Before finalizing the stone type, finish and installation area, confirm the property address, historic status and any association requirements. The <a href=\"https://www.delraybeachfl.gov/government/city-departments/development-services/historic-preservation/historic-preservation-applications\">City of Delray Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
     ],
     localNote: 'Coastal east-side lots put porous stone against constant salt and high summer rain — we seal on install and reseal on a schedule, and set the slope to move heavy rain to the swale or street.',
     faqs: [
       { q: 'Does salt air near the Delray beach hurt natural stone?', a: 'Only if it is left unsealed. Travertine and shellstone are porous, so we seal them on install and reseal on a schedule — sealed stone beads off salt and storm runoff and holds its color this close to the water.' },
-      { q: "I'm on a non-HOA street near Lake Ida — what approval do I need for stone?", a: 'Usually just the city permit. Most of the Lake Ida and beach-district streets have no HOA, so we simply pull the City of Delray Beach permit, handle any drainage requirement, and get to work on the stone.' },
+      { q: "Which approvals apply to this work in Delray Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the stone type, finish and installation area with the City of Delray Beach before work begins, and confirm any separate association requirements." },
       { q: 'Is natural stone cooler by the pool than pavers?', a: 'Tumbled travertine and shellstone stay noticeably cooler underfoot than most manufactured pavers in the summer sun, which is a real advantage on the beach-district and Lake Ida pool decks.' },
       { q: 'What does a natural stone hardscape cost?', a: 'It depends on the stone, the area and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -136,7 +136,9 @@ const local = LOCAL[city.slug];
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
 const handles = [
   `Choosing and sourcing the right travertine, marble, shellstone or flagstone for ${city.name}'s homes, over a compacted base built for the sandy soil`,
-  city.hoa === 'none'
+  city.hoa === 'property-specific'
+    ? 'City, historic-district and association requirements checked for your property and scope'
+    : city.hoa === 'none'
     ? 'Any city or historic-district review kept period-appropriate on stone type and finish'
     : city.hoa === 'hoa'
     ? 'Your HOA / architectural review board stone palette prepared and shepherded through'
@@ -146,7 +148,7 @@ const handles = [
 
 const data = {
   seoTitle: `Natural Stone Hardscapes in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Travertine, marble & flagstone hardscapes in ${city.name} — sourced, sealed and set. ${permit} permit and ${city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
+  seoDescription: `Travertine, marble & flagstone hardscapes in ${city.name} — sourced, sealed and set. ${permit} permit and ${city.hoa === 'property-specific' ? 'applicable' : city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
   service: SERVICE,
   city,
   lede: local.lede,

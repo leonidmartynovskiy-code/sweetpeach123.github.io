@@ -94,13 +94,13 @@ const LOCAL: Record<string, Local> = {
       'Considering a pergola with your new patio? Our <a href="/blog/historic-patio-review-west-palm-beach/">West Palm Beach historic patio review guide</a> explains how a structure can change the review route and project schedule.',
 
       "West Palm Beach's target streets — El Cid, SoSo, Flamingo Park, Prospect Park — are historic, with Spanish and Mediterranean homes from the 1920s through the 40s. A back patio here has to suit the architecture: clay brick and warm-toned pavers laid in a classic pattern read right in a courtyard setting where a plain gray slab looks out of place.",
-      'Several of these neighborhoods sit in city historic districts, so the design should stay in step with the period. There is no HOA to answer to, but there is a look worth protecting — we help you pick a paver and pattern that turns the back yard into a courtyard that lifts the home rather than modernizing away its character.',
+      "Before finalizing the patio footprint, material and drainage, confirm the property address, historic status and any association requirements. The <a href=\"https://www.wpb.org/Departments/Development-Services/Planning-Division/Historic-Preservation/Historic-Preservation-FAQs\">City of West Palm Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
       'The lots are older and often smaller, and the mature trees and original grading make the base work matter. We excavate around the roots, build a proper compacted base, set the slope away from the house, and pull the City of West Palm Beach permit.',
     ],
     localNote: 'Older in-town lots have mature tree roots and original grading to work around, and some streets fall in a historic district — we design the patio to the period and build the base to handle the roots and settling.',
     faqs: [
       { q: 'What paver suits a historic El Cid or Flamingo Park courtyard?', a: 'Clay brick and warm-toned pavers in a herringbone or running-bond pattern read true to the 1920s–40s architecture. We help you choose a finish that turns the back yard into a courtyard that looks original to the house rather than bolted on.' },
-      { q: "Is there an approval process in West Palm Beach's historic neighborhoods?", a: 'There is no HOA, but some streets are in a city historic district where exterior changes are reviewed. We keep the design period-appropriate, pull the City of West Palm Beach permit, and handle any historic-district paperwork that applies.' },
+      { q: "Which approvals apply to this work in West Palm Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the patio footprint, material and drainage with the City of West Palm Beach before work begins, and confirm any separate association requirements." },
       { q: 'Can you build a patio around the mature trees in my yard?', a: 'Yes. Older in-town lots come with established roots, so we plan the excavation and the base to work around them and set the drainage away from the house — the patio stays stable and the trees stay healthy.' },
       { q: 'What does a paver patio cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -110,13 +110,13 @@ const LOCAL: Record<string, Local> = {
     intro: [
       "Delray's strength is the east side — Lake Ida, the beach district, Del-Ida Park — where established homes sit close to the water and the back yard is where you actually live. Many of these patios are original to homes from the 1950s through 80s: small, cracked and well past their life for the way people entertain outdoors today.",
       'This close to the ocean, salt and heavy summer rain wear a patio down fast. Concrete stains and spalls; a sealed paver patio in travertine or a cool-toned finish shrugs off the salt, stays comfortable underfoot in the heat, and can be rinsed and resealed to look new. We grade the surface so summer downpours run to the yard, away from older homes with low thresholds.',
-      'The good news on the east side is simplicity — most of these streets are non-HOA, so approval is usually just the city permit. We pull the City of Delray Beach permit, build the base for the sandy coastal soil, and grade the drainage away from the home.',
+      "Before finalizing the patio footprint, material and drainage, confirm the property address, historic status and any association requirements. The <a href=\"https://www.delraybeachfl.gov/government/city-departments/development-services/historic-preservation/historic-preservation-applications\">City of Delray Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
     ],
     localNote: 'Coastal east-side lots deal with salt and high summer rain — we seal for the salt, favor cool-underfoot travertine, and build the slope to move heavy rain to the yard, away from older homes with low thresholds.',
     faqs: [
       { q: 'Does salt air near the Delray beach hurt a paver patio?', a: 'Far less than it hurts concrete. We seal the pavers so salt and storm runoff bead off, and because the surface is individual units, any piece that ever weathers or settles near the water can be lifted and reset — no visible patch.' },
       { q: 'Will the patio stay cool enough to use in the summer?', a: 'That is what travertine and cool-toned pavers are for. They reflect heat and stay comfortable underfoot even in the peak of a Delray summer, which is why we favor them for coastal back patios.' },
-      { q: "I'm on a non-HOA street near Lake Ida — what approval do I need?", a: 'Usually just the city permit. Most of the Lake Ida and beach-district streets have no HOA, so we simply pull the City of Delray Beach permit, handle the drainage requirement if one applies, and get to work.' },
+      { q: "Which approvals apply to this work in Delray Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the patio footprint, material and drainage with the City of Delray Beach before work begins, and confirm any separate association requirements." },
       { q: 'What does a paver patio cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
   },
@@ -142,7 +142,9 @@ const local = LOCAL[city.slug];
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
 const handles = [
   `A compacted rock base built for ${city.name}'s sandy soil, with the patio graded to drain away from the house and slab`,
-  city.hoa === 'none'
+  city.hoa === 'property-specific'
+    ? 'City, historic-district and association requirements checked for your property and scope'
+    : city.hoa === 'none'
     ? 'Any city or historic-district review kept period-appropriate'
     : city.hoa === 'hoa'
     ? 'Your HOA / architectural review board submittal prepared and shepherded through'
@@ -152,7 +154,7 @@ const handles = [
 
 const data = {
   seoTitle: `Paver Patios in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Paver patios in ${city.name} — cool travertine, drainage graded off the house, screen-enclosure footers. ${permit} permit and ${city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
+  seoDescription: `Paver patios in ${city.name} — cool travertine, drainage graded off the house, screen-enclosure footers. ${permit} permit and ${city.hoa === 'property-specific' ? 'applicable' : city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
   service: SERVICE,
   city,
   lede: local.lede,

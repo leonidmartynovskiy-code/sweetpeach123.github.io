@@ -92,13 +92,13 @@ const LOCAL: Record<string, Local> = {
     lede: 'In El Cid, SoSo and Flamingo Park the homes date to the 1920s–40s — the driveway has to fit the period, not fight it.',
     intro: [
       "West Palm Beach's target streets — El Cid, SoSo, Flamingo Park, Prospect Park — are historic, with Spanish and Mediterranean homes from the 1920s through the 40s. A driveway here has to suit the architecture: clay brick and warm-toned pavers laid in a classic pattern read right where a plain gray slab looks out of place.",
-      'Several of these neighborhoods sit in city historic districts, so the design should stay in step with the period. There is no HOA to answer to, but there is a look worth protecting — we help you pick a paver and pattern that lifts a historic home rather than modernizing away its character.',
+      "Before finalizing the driveway layout, material and drainage, confirm the property address, historic status and any association requirements. The <a href=\"https://www.wpb.org/Departments/Development-Services/Planning-Division/Historic-Preservation/Historic-Preservation-FAQs\">City of West Palm Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
       'The lots are older and often narrower, and the mature trees and original grading make the base work matter. We excavate, build a proper compacted base, set the slope away from the house, and pull the City of West Palm Beach permit.',
     ],
     localNote: 'Older in-town lots have mature tree roots and original grading to work around, and some streets fall in a historic district — we design to the period and build the base to handle the roots and settling.',
     faqs: [
       { q: 'What paver suits a historic El Cid or Flamingo Park home?', a: 'Clay brick and warm-toned pavers in a herringbone or running-bond pattern read true to the 1920s–40s architecture. We help you choose a finish that looks original to the house rather than bolted on.' },
-      { q: "Is there an approval process in West Palm Beach's historic neighborhoods?", a: 'There is no HOA, but some streets are in a city historic district where exterior changes are reviewed. We keep the design period-appropriate, pull the City of West Palm Beach permit, and handle any historic-district paperwork that applies.' },
+      { q: "Which approvals apply to this work in West Palm Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the driveway layout, material and drainage with the City of West Palm Beach before work begins, and confirm any separate association requirements." },
       { q: 'Will pavers crack like my concrete driveway?', a: 'No. A paver driveway is individual units over a compacted base, so it flexes with the ground instead of cracking like a rigid slab — and any piece can be lifted and reset with no visible patch.' },
       { q: 'What does a paver driveway cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -108,12 +108,12 @@ const LOCAL: Record<string, Local> = {
     intro: [
       "Delray's strength is the east side — Lake Ida, the beach district, Del-Ida Park — where established homes sit close to the water. These coastal streets have a character all their own, and many of the driveways are original to homes from the 1950s through 80s and well past their life.",
       'This close to the ocean, salt and heavy summer rain wear a driveway down fast. Concrete stains and spalls; a sealed paver driveway shrugs off the salt, and if a section settles near the water we reset those pavers rather than patching a slab. It stays looking new with an occasional rinse and reseal.',
-      'The good news on the east side is simplicity — most of these streets are non-HOA, so approval is usually just the city permit. We pull the City of Delray Beach permit, build the base for the sandy coastal soil, and grade the drainage away from the home.',
+      "Before finalizing the driveway layout, material and drainage, confirm the property address, historic status and any association requirements. The <a href=\"https://www.delraybeachfl.gov/government/city-departments/development-services/historic-preservation/historic-preservation-applications\">City of Delray Beach historic preservation guidance</a> explains the additional review for designated properties. Bring a survey, photos and any existing approval documents to the on-site visit so the estimate can reflect the work and review steps.",
     ],
     localNote: 'Coastal east-side lots deal with salt and high summer rain — we seal for the salt and build the slope to move heavy rain to the swale or street, away from older homes with low thresholds.',
     faqs: [
       { q: 'Does salt air near the Delray beach hurt a paver driveway?', a: 'Far less than it hurts concrete. We seal the pavers so salt and storm runoff bead off, and because the surface is individual units, any piece that ever weathers or settles near the water can be lifted and reset — no visible patch.' },
-      { q: "I'm on a non-HOA street near Lake Ida — what approval do I need?", a: 'Usually just the city permit. Most of the Lake Ida and beach-district streets have no HOA, so we simply pull the City of Delray Beach permit, handle the drainage requirement if one applies, and get to work.' },
+      { q: "Which approvals apply to this work in Delray Beach?", a: "Approval depends on the specific property and work, even without an HOA. Check any required city permits and whether historic designation adds review. Discuss the driveway layout, material and drainage with the City of Delray Beach before work begins, and confirm any separate association requirements." },
       { q: 'Will pavers crack like my concrete driveway?', a: 'No. A paver driveway is individual units over a compacted base, so it flexes with the ground instead of cracking like a rigid slab — and any piece can be lifted and reset with no visible patch.' },
       { q: 'What does a paver driveway cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -141,7 +141,9 @@ const local = LOCAL[city.slug];
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
 const handles = [
   `Removal of the failing driveway and a compacted rock base built for ${city.name}'s sandy soil`,
-  city.hoa === 'none'
+  city.hoa === 'property-specific'
+    ? 'City, historic-district and association requirements checked for your property and scope'
+    : city.hoa === 'none'
     ? 'Any city or historic-district review kept period-appropriate'
     : city.hoa === 'hoa'
     ? 'Your HOA / architectural review board submittal prepared and shepherded through'
@@ -151,7 +153,7 @@ const handles = [
 
 const data = {
   seoTitle: `Paver Driveways in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Custom paver driveways in ${city.name} — proper rock base, drainage and edge restraints. ${permit} permit and ${city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
+  seoDescription: `Custom paver driveways in ${city.name} — proper rock base, drainage and edge restraints. ${permit} permit and ${city.hoa === 'property-specific' ? 'applicable' : city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
   service: SERVICE,
   city,
   lede: local.lede,
