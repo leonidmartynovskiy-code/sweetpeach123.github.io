@@ -58,17 +58,17 @@ const LOCAL: Record<string, Local> = {
     ],
   },
   'palm-beach-gardens': {
-    lede: "PGA National, BallenIsles, Frenchman's Creek — the Gardens' golf communities are old enough now that the whole front of the house is ready for a redo.",
+    lede: "Planning a paver driveway in Palm Beach Gardens? Compare repair and replacement, drainage, vehicle loads and the requirements for your property before choosing materials.",
     intro: [
-      "Palm Beach Gardens grew up around golf — PGA National, BallenIsles, Frenchman's Creek, Mirasol — and those 1990s–2000s homes have reached the age where the pavers or concrete out front look tired. A new paver driveway is the single biggest lift you can give the curb appeal in a community where every house is judged against its neighbor.",
-      'The design guidelines here are strict. Communities in the Gardens often dictate the color family and the pattern to keep the streetscape consistent, so the work is picking a paver that satisfies the committee and still sets your home apart. We build that into the plan from the start.',
+      "Start with what your driveway needs to do: daily parking, turning space, access to the garage and a clear route for runoff. Show us uneven areas, damaged units and places where water collects. The condition of your driveway, rather than the age of the neighborhood, should guide the choice between a reset and replacement.",
+      'The estimate should distinguish removal from work that retains the existing base or pavers. Identify the proposed material, bedding and edge restraints, the transitions at doors and the garage, and any drain or outlet work. Agree how changes discovered during removal will be assessed and priced before that extra work begins.',
+      'If your property has an association or architectural review board, bring its current design guidelines and any required material samples or drawings. Confirm the applicable City review for the actual driveway, street connection and drainage scope. The <a href="https://www.pbgfl.gov/DocumentCenter/View/23377/Flatwork-Slab" target="_blank" rel="noopener noreferrer">City flatwork and slab checklist</a> is a general reference, not a substitute for confirming the requirements for your address. The written scope should identify who prepares submissions and handles revisions.',
       'Keeping part of your existing driveway? Our <a href="/blog/matching-new-pavers-existing-driveway/">guide to matching replacement pavers</a> explains what to check before approving new units alongside the old ones.',
-      'Under the surface it is the same discipline every time — proper excavation, a compacted rock base for the sandy soil, edge restraints and a slope that carries water away. We pull the City of Palm Beach Gardens permit and prepare the community submittal.',
     ],
-    localNote: 'Gardens golf communities typically require design-committee approval on color and pattern before work starts — we prepare that submittal alongside the City permit.',
+    localNote: 'Bring a survey or previous plans if available, photos of the driveway and drainage, and any association guidelines. Review the material samples, proposed levels and drain outlet together so the estimate describes the work you actually want.',
     faqs: [
-      { q: 'Does my Palm Beach Gardens community have to approve the driveway?', a: 'Almost certainly yes — communities like PGA National and BallenIsles run design committees that approve color and pattern. We prepare and submit that package for you, then pull the City permit once it clears.' },
-      { q: 'Our community pavers are faded and uneven — replace or reset?', a: 'If the base is sound we can lift, re-level and reseal; if the base has failed or the field has settled unevenly, a rebuild is the lasting fix. We tell you honestly which one your driveway needs at the on-site visit.' },
+      { q: 'Does my Palm Beach Gardens community have to approve the driveway?', a: 'Check the current property and association rules for your address. Where an association review applies, confirm its required colors, patterns and documents separately from City review. Agree who submits each application and handles revisions; the approval and review sequence depend on the actual requirements.' },
+      { q: 'Our community pavers are faded and uneven - replace or reset?', a: 'Fading alone does not determine whether a driveway needs replacement. Assess the cause of movement, the base, drainage and the condition of the existing units. Compare the work and appearance expected from a reset with those of replacement, including any matching limitations and repairs outside the paver surface.' },
       { q: 'Will pavers crack like my concrete driveway?', a: 'Individual pavers can crack, settle or become damaged. Whether units can be lifted and reused depends on their condition and the cause of the problem. Replacement units may differ in color, texture and wear; compare actual samples and agree the expected appearance before ordering. An invisible repair is not guaranteed.' },
       { q: 'What does a paver driveway cost?', a: 'It depends on size, material and site prep, which is why the on-site visit and written estimate are free and itemized. Financing through Wisetack is available so the budget does not decide the timeline.' },
     ],
@@ -163,6 +163,7 @@ const LOCAL: Record<string, Local> = {
 };
 
 const local = LOCAL[city.slug];
+const gardens = city.slug === 'palm-beach-gardens';
 const permit = city.permitAuthority.replace('the ', '').replace(/^./, (m) => m.toUpperCase());
 const evidenceRepair = ['west-palm-beach', 'delray-beach'].includes(city.slug);
 const handles = [
@@ -179,19 +180,24 @@ const handles = [
 
 const data = {
   seoTitle: `Paver Driveways in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Custom paver driveways in ${city.name} — proper rock base, drainage and edge restraints. ${permit} permit and ${city.hoa === 'property-specific' ? 'applicable' : city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
+  seoDescription: gardens ? "Plan your Palm Beach Gardens paver driveway: compare repair or replacement, materials, drainage and property-specific approvals. Request a free on-site visit." : `Custom paver driveways in ${city.name} — proper rock base, drainage and edge restraints. ${permit} permit and ${city.hoa === 'property-specific' ? 'applicable' : city.hoa === 'none' ? 'district' : 'HOA/ARB'} approval handled. Free on-site visit.`,
   service: SERVICE,
-  city,
+  city: gardens ? { ...city, homeEra: 'Existing homes', setting: 'driveway condition assessed on site', blurb: 'Plan a driveway around the actual parking, garage access and drainage needs of your Palm Beach Gardens property. Confirm any association design requirements before choosing the finish.' } : city,
+  approvalsLabel: gardens ? 'Confirm city / association requirements' : undefined,
   lede: local.lede,
   intro: local.intro,
   localNote: local.localNote,
-  handles: evidenceRepair ? [
+  handles: gardens ? [
+    'Assessment of vehicle loads, garage and entry levels, existing pavers, base condition and drainage before choosing a reset or replacement',
+    'Written scope separating removal, retained materials, new pavers, drainage work and responsibility for unexpected conditions',
+    'Applicable City and association submissions identified for the address and scope, with responsibilities agreed before work begins',
+  ] : evidenceRepair ? [
     "Assessment of vehicle loads, the street connection, garage levels and drainage, with retained materials and repairs identified in the written scope",
     ...handles.slice(1),
   ] : handles,
   faqs: local.faqs,
   heroImg: '/images/pf-driveway.jpg',
-  heroAlt: `Paver driveway in ${city.name}, Palm Beach County`,
+  heroAlt: gardens ? 'Paver driveway surface detail' : `Paver driveway in ${city.name}, Palm Beach County`,
   heroBg: '/images/local-hero-driveways.jpg',
   services: SERVICES,
   cities: CITY_CHIPS,
