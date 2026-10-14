@@ -44,7 +44,7 @@ A small repair deserves its own estimate. It does not automatically justify repl
 
 Palm Beach Gardens' [Community Services](https://www.pbgfl.gov/224/Community-Services) page lists stormwater systems among Public Works responsibilities and says its Streets and Stormwater unit maintains swales and canals. That is useful local context for asking where wash water will go. The page does not establish a discharge rule for your job or identify who maintains your property's drainage.
 
-Our [Palm Beach Gardens concrete paver driveway and drainage project](/portfolio/concrete-paver-and-drain/) replaced an asphalt driveway with concrete pavers and included installed drainage. It illustrates a separate construction scope, not a cleaning service. Washing a surface cannot substitute for installing drainage.
+The [driveway and drainage planning guide](/portfolio/concrete-paver-and-drain/) separates surface maintenance from drainage construction in a proposed scope. It is not a completed project record. Washing a surface cannot substitute for installing drainage.
 
 If puddles are part of your concern, the consultation should distinguish cleaning from any investigation or correction of water flow. Discussing [driveway pavers installation in Palm Beach Gardens](/services/driveways/palm-beach-gardens/) becomes useful when the assessment points to broader driveway work. Keep that proposal separate enough to understand why it was recommended and how it differs from maintaining the existing surface.
 

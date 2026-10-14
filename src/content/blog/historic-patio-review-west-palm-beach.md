@@ -48,13 +48,11 @@ The [patio pavers options we install](/services/patios/) can help narrow the mat
 
 Keep access visible on the sketch. Draw the door swings and the walking route around furniture, and show where the pergola posts would stand. Save the dated version you settle on. It gives you something specific to check when a revised drawing or product substitution arrives.
 
-## How the house, pavers and drain look together
+## Show the house, pavers and drainage together
 
-![Gray rectangular pavers and a black linear drain across a driveway beside a light two-story house and planted margins.](/images/portfolio/concrete-paver-and-drain-1.jpg)
+For your patio proposal, photograph your own site from a position that includes the house, the proposed patio boundary and any visible drains. Add the selected material sample and identify the pergola's proposed position on the plan. A material close-up alone cannot communicate that arrangement.
 
-*Completed driveway and drain project in Palm Beach Gardens, by Pavers of Palm Beach. This photograph does not document a West Palm Beach historic patio or COA approval.*
-
-In our [Palm Beach Gardens driveway and drain project](/portfolio/concrete-paver-and-drain/), the black drain crosses the gray rectangular pavers in a clear line. The light house and planted margins are visible in the same frame. You can judge how the surface, drainage feature and building look together. For your patio proposal, use a similarly complete view to place the selected pavers beside the house and show the pergola's position. A material close-up alone cannot communicate that arrangement.
+Our [driveway and drainage planning guide](/portfolio/concrete-paver-and-drain/) explains which surface and drainage details to separate in a written scope. It is planning information, not a completed historic patio or an approval example.
 
 ## Agree on the project before ordering or scheduling
 

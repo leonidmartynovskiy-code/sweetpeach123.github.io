@@ -47,13 +47,11 @@ Tell the estimator about suspected leaks, past pool repairs, loose coping, or pl
 
 If you are considering travertine, our [natural stone installation service](/services/natural-stone/palm-beach-gardens/) is relevant to the material and edge-detail discussion. Review a physical sample beside the coping that will remain. Record the selected finish and pattern; do not treat the word travertine as a complete installation specification.
 
-## A separate regional replacement example
+## Separate the desired finish from the replacement scope
 
-The [Travertine pool deck upgrade](/portfolio/hollywood-residence/) documents a separate regional project in Hollywood, Broward County. Existing worn concrete pavers were removed and replaced with Ivory Select travertine in a French pattern. The actual project photo below shows the completed finish. This example illustrates the removal-and-replacement route; it does not establish that an overlay is unsuitable for every other property.
+A travertine sample or inspiration photograph can help communicate the appearance you want. It cannot establish whether your existing pool deck needs removal, localized repairs or another approach.
 
-![Actual Hollywood project with Ivory Select travertine in a French pattern around the pool](/images/portfolio/hollywood-residence-1.jpg)
-
-For your Gardens home, use that distinction when discussing inspiration photos. You can like a finished appearance while still needing a different scope beneath it. Keep the desired look and the assessed construction approach as separate decisions until the proposal connects them.
+The [travertine pool deck planning guide](/portfolio/hollywood-residence/) lists the material, coping and access questions to discuss before accepting a replacement scope. It is a planning guide, not a completed project record. Keep the desired look and the assessed construction approach as separate decisions until the proposal connects them.
 
 ## Bring a brief that an estimator can use
 

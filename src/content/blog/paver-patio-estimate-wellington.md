@@ -58,15 +58,11 @@ Ask each contractor to add these answers to the written proposal. Verbal explana
 
 Bring your layout and these open questions to a [patio installation consultation](/services/patios/) with Pavers of Palm Beach. During the site visit, we can measure the proposed area and review removals, access and drainage together. The written proposal should show what is included and which decisions are still open, giving you a clear scope to compare.
 
-## A regional driveway example makes the distinction visible
+## Separate the surface and drainage in the proposal
 
-Our [Concrete paver driveway & drain project](/portfolio/concrete-paver-and-drain/) is in Palm Beach Gardens. This separate regional driveway example illustrates why the surface and drainage deserve individual attention in a proposal; it is not a Wellington patio case.
+Ask for the patio boundary, adjoining surfaces and drainage work to be identified separately on your site plan. An attractive material photograph does not show what needs to happen beneath the surface or where water can go.
 
-![Gray rectangular driveway pavers with a linear drain across the foreground, a two-story house and a hedge.](/images/portfolio/concrete-paver-and-drain-1.jpg)
-
-*Real portfolio photograph: a driveway and linear drain in Palm Beach Gardens.*
-
-The photograph shows both components, but it cannot establish drainage performance or reveal where the outlet leads. For your patio, the written description needs to explain those connections beyond what a finished surface can show.
+Use the [driveway and drainage planning questions](/portfolio/concrete-paver-and-drain/) to compare scope descriptions, then have the contractor explain which questions apply to your Wellington patio. The guide is not a completed project example.
 
 ## Separate additions from the work you need
 

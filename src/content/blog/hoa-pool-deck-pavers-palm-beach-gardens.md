@@ -74,12 +74,8 @@ If the project also includes a side walkway or separate patio, the [pavers servi
 
 ## Show the drain beside the selected material
 
-Our [concrete pavers driveway and drain project](/portfolio/concrete-paver-and-drain/) in Palm Beach Gardens offers a limited visual lesson. The photograph shows gray pavers, a dark linear drain, a light house and a hedge. The drain is easy to locate against the surrounding surface.
+Use a photograph of your own pool deck and a labeled plan to show the selected material beside each visible drain. Identify which drains and borders remain and which would change. Carry those locations into the written scope so the installer and reviewer can compare the same proposal.
 
-![Gray concrete pavers and a dark linear drain at a driveway beside a light house and hedge.](/images/portfolio/concrete-paver-and-drain-1.jpg)
+The [driveway and drainage planning guide](/portfolio/concrete-paver-and-drain/) offers questions about adjoining surfaces and drainage responsibilities. It is not evidence that a pool design has been built or approved.
 
-*Actual driveway project. This photograph documents neither a pool deck nor approval of any pool design.*
-
-For your submission, make the relationship between materials, borders and visible drains equally easy to read. Show where each begins and ends. Carry those locations into the written scope so an installer can distinguish a retained drain from a proposed replacement without relying on a conversation you had during sample selection.
-
-For your [pool deck replacement in Palm Beach Gardens](/services/pool-decks/palm-beach-gardens/), arrange a Pavers of Palm Beach site visit with the latest submission, the association's response and the selected product details. Use the visit to resolve the remaining site questions, then request a written scope that matches the reviewed design and identifies any items still awaiting confirmation before ordering or starting work.
+For your [pool deck replacement in Palm Beach Gardens](/services/pool-decks/palm-beach-gardens/), arrange a Pavers of Palm Beach site visit with the latest submission, the association's response and selected product details. Request a scope matching the reviewed design and identifying items still awaiting confirmation.

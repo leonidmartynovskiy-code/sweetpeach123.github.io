@@ -4,57 +4,6 @@ import { v, thumb } from '../../lib/asset.ts';
 
 export function getStaticPaths() {
   const projects = {
-  'hollywood-residence': {
-    city: 'Hollywood',
-    surface: 'Ivory Select travertine (French pattern)',
-    title: 'Travertine pool deck upgrade',
-    service: { href: '/services/pool-decks/', label: 'paver pool deck' },
-    hero: '/images/portfolio/hollywood-residence-1.jpg',
-    heroAlt: 'Ivory Select travertine pool deck in a French pattern in Hollywood',
-    intro: 'Old, worn concrete pavers were removed and replaced with Premium Ivory Select travertine in a French pattern for a cooler, more elegant deck.',
-    specs: { Location: 'Hollywood, FL', Surface: 'Ivory Select travertine', Scope: 'Pool deck · walkway transition', Size: '≈ 600 sq ft', Timeline: '5 working days' },
-    body: [
-      'The new travertine brings a timeless, natural-stone look and stays noticeably cooler underfoot, which is exactly what you want for poolside comfort and everyday barefoot use in the South Florida heat.',
-      'The whole project was completed in just five days from start to finish, giving the backyard a fresh, elegant upgrade with minimal disruption to the homeowners.',
-    ],
-    work: [
-      'Lifted and hauled away the existing worn concrete pavers',
-      'Prepared and regraded the base for drainage and durability',
-      'Installed travertine with a precise French pattern and tight joints',
-      'Finished with professional pressure cleaning',
-      'Applied a high-quality sealant to enrich color and protect the stone',
-    ],
-    gallery: [
-      { src: '/images/portfolio/hollywood-residence-2.jpg', alt: 'Barefoot-friendly travertine pool deck in Hollywood' },
-      { src: '/images/portfolio/hollywood-residence-3.jpg', alt: 'Travertine pool deck detail in Hollywood' },
-    ],
-  },
-  'concrete-paver-and-drain': {
-    city: 'Palm Beach Gardens',
-    surface: 'Concrete pavers',
-    title: 'Concrete paver driveway & drain',
-    service: { href: '/services/driveways/', label: 'paver driveway' },
-    hero: '/images/portfolio/concrete-paver-and-drain-1.jpg',
-    heroAlt: 'Concrete paver driveway with integrated drainage in Palm Beach Gardens',
-    intro: 'An old asphalt driveway transformed into a durable, stylish concrete paver driveway with an integrated drainage system in Palm Beach Gardens.',
-    specs: { Location: 'Palm Beach Gardens, FL', Surface: 'Concrete pavers', Scope: 'Driveway · drainage system', Size: '≈ 600 sq ft', Timeline: '4–5 working days' },
-    body: [
-      'We replaced a worn asphalt driveway with a new concrete paver surface, upgrading both the look and the durability of the home’s entrance and boosting curb appeal for this Palm Beach Gardens property.',
-      'A dedicated drainage solution was built into the installation to channel water away from the driveway, preventing pooling and edge sinking so the pavers stay level and stable through South Florida’s heavy rains.',
-    ],
-    work: [
-      'Removed and disposed of the old asphalt driveway',
-      'Prepared and compacted the base for pavers',
-      'Installed concrete driveway pavers',
-      'Integrated a drainage system to manage runoff',
-      'Set edge restraints and sanded joints to finish',
-    ],
-    gallery: [
-      { src: '/images/portfolio/concrete-paver-and-drain-2.jpg', alt: 'Paver driveway with improved drainage in Palm Beach Gardens' },
-      { src: '/images/portfolio/concrete-paver-and-drain-3.jpg', alt: 'Concrete paver driveway detail in Palm Beach Gardens' },
-      { src: '/images/portfolio/concrete-paver-and-drain-4.jpg', alt: 'Finished concrete paver driveway in Palm Beach Gardens' },
-    ],
-  },
   'pool-deck-clean-reseal': {
     city: 'Palm Beach',
     surface: 'Concrete pavers',
@@ -78,58 +27,6 @@ export function getStaticPaths() {
     gallery: [
       { src: '/images/portfolio/pool-deck-clean-reseal-2.jpg', alt: 'Cleaned and sealed paver driveway in Palm Beach' },
       { src: '/images/portfolio/pool-deck-clean-reseal-3.jpg', alt: 'Restored paver driveway detail in Palm Beach' },
-    ],
-  },
-  'miramar-pool-deck-restoration': {
-    city: 'Miramar',
-    surface: 'Concrete pavers',
-    title: 'Pool deck restoration',
-    service: { href: '/services/clean-seal/', label: 'clean & seal' },
-    hero: '/images/portfolio/miramar-pool-deck-restoration-1.jpg',
-    heroAlt: 'Restored concrete paver pool deck with seating area in Miramar',
-    intro: 'A worn Miramar pool deck brought back to life — settled pavers lifted and re-leveled, then the surface cleaned and sealed.',
-    specs: { Location: 'Miramar, FL', Surface: 'Concrete pavers', Scope: 'Pool deck · re-level · seal', Size: '≈ 650 sq ft', Timeline: '2–3 working days' },
-    body: [
-      'We refreshed a worn pool deck by lifting and re-leveling settled paver sections, resetting them on a stable base, and re-sanding the joints so the light-gray pavers sat flat and even around the pool again.',
-      'The crew then cleaned and sealed the entire surface to lock in color and guard against moisture, while confirming proper grading and slope away from the pool and home to keep drainage working and prevent future base failure.',
-    ],
-    work: [
-      'Lifted and re-leveled settled paver areas',
-      'Reset pavers on a stabilized base',
-      'Re-sanded and locked the paver joints',
-      'Deep cleaned and sealed the deck surface',
-      'Verified drainage and slope away from the pool',
-    ],
-    gallery: [
-      { src: '/images/portfolio/miramar-pool-deck-restoration-2.jpg', alt: 'Restored pool deck pavers in Miramar' },
-      { src: '/images/portfolio/miramar-pool-deck-restoration-3.jpg', alt: 'Re-leveled paver pool deck in Miramar' },
-      { src: '/images/portfolio/miramar-pool-deck-restoration-4.jpg', alt: 'Sealed pool deck surface in Miramar' },
-    ],
-  },
-  'north-lauderdale-residence': {
-    city: 'North Lauderdale',
-    surface: 'Concrete pavers',
-    title: 'Paver driveway restoration',
-    service: { href: '/services/clean-seal/', label: 'clean & seal' },
-    hero: '/images/portfolio/north-lauderdale-residence-1.jpg',
-    heroAlt: 'Curved paver driveway restoration in North Lauderdale',
-    intro: 'A curved paver driveway restored through pressure cleaning, re-sanding, and sealing at a North Lauderdale residence.',
-    specs: { Location: 'North Lauderdale, FL', Surface: 'Concrete pavers', Scope: 'Driveway · clean · re-sand · seal', Size: '≈ 600 sq ft', Timeline: '2 working days' },
-    body: [
-      'We started by thoroughly pressure cleaning the pavers to remove the dirt, debris, and stains that had built up on the curved driveway over time, restoring the original color and preparing the joints for the next stage.',
-      'Later we returned to re-sand the joints for improved stability and a uniform finish, then applied a high-quality sealant and blocked off all entrances to protect the surface from foot and vehicle traffic during curing.',
-    ],
-    work: [
-      'Pressure cleaned pavers to remove dirt and stains',
-      'Removed built-up debris from the surface',
-      'Re-sanded joints for stability',
-      'Applied a high-quality sealant',
-      'Blocked off entrances during curing',
-    ],
-    gallery: [
-      { src: '/images/portfolio/north-lauderdale-residence-2.jpg', alt: 'Re-sanded paver driveway in North Lauderdale' },
-      { src: '/images/portfolio/north-lauderdale-residence-3.jpg', alt: 'Paver driveway cleaning in North Lauderdale' },
-      { src: '/images/portfolio/north-lauderdale-residence-4.jpg', alt: 'Sealed curved paver driveway in North Lauderdale' },
     ],
   },
 };

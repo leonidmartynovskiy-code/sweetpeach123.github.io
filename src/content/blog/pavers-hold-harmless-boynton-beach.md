@@ -59,13 +59,9 @@ To discuss these choices for a new entrance, bring your survey, photographs and 
 
 ## Where a driveway meets a drain
 
-Our [concrete pavers driveway and drain project in Palm Beach Gardens](/portfolio/concrete-paver-and-drain/) shows a finished junction worth considering when defining reinstatement work. In the photograph, a dark linear drain crosses gray rectangular pavers, with the house on the left and a planted edge on the right.
+Photograph the existing junction between your pavers and any drain before work begins. Identify which pavers, drain components and surrounding areas are included in reinstatement, and who will assess damaged or missing parts.
 
-![Gray rectangular concrete pavers and a dark linear drain across a driveway in Palm Beach Gardens, with a house on the left and planting on the right.](/images/portfolio/concrete-paver-and-drain-1.jpg)
-
-*Project photograph from our Palm Beach Gardens portfolio. The documented work is a concrete pavers driveway with integrated drainage.*
-
-If a future opening reaches a fixed feature like this drain, the restoration proposal needs to address that junction. The surrounding pieces meet the drain along a visible line. The proposed repair should describe how the adjacent surface will be finished and how it will join the untouched pavers.
+Our [driveway and drainage planning guide](/portfolio/concrete-paver-and-drain/) can help you prepare scope questions. It does not establish an approved detail or a completed project at your property.
 
 ## Keep a record someone can use later
 
