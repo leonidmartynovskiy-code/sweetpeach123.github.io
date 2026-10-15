@@ -84,7 +84,7 @@ We also fine grade and sod all disturbed areas in the right-of-way and within yo
 
 Through our [project planning and installation process](/about/our-process/), we coordinate your selections and approval documents, then the construction and finish work. Your written scope sets out the ARB package, town application, required inspections and restoration, so you can see what we will handle.
 
-In our [Concrete Paver and Drain driveway project](/portfolio/concrete-paver-and-drain/), we replaced an old asphalt driveway with concrete pavers and incorporated drainage. If you are replacing asphalt at your home, we discuss drainage while planning the new surface.
+If you are replacing asphalt at your home, we discuss drainage while planning the new surface.
 
 When you compare proposals for [Jupiter driveway pavers installation](/services/driveways/jupiter/), look at what each price covers: private construction, the right-of-way assembly, the sidewalk transition, approvals and restoration. You should be able to follow the proposed work from your garage to the street, including the lawn along the edges.
 

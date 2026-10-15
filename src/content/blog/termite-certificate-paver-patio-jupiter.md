@@ -57,15 +57,7 @@ If an unplanned irrigation trench is proposed after the provider's visit, pause 
 
 For a broader renovation involving paths, walls, or other outdoor work, the overview of [paver services available in Jupiter](/service-areas/jupiter/) can help define which parts to discuss together. Share planned later phases too, especially if they may reopen the same house edge.
 
-## A visible example of adjoining work
-
-Our [concrete paver driveway and drain project in Palm Beach Gardens](/portfolio/concrete-paver-and-drain/) shows several parts of a property meeting in one installation. Gray rectangular pavers continue alongside the home, while a black linear drain crosses the foreground.
-
-![Gray rectangular driveway pavers beside a home, with a black linear drain crossing the foreground.](/images/portfolio/concrete-paver-and-drain-1.jpg)
-
-*Actual portfolio photo of the Palm Beach Gardens driveway and drain project.*
-
-This regional driveway example is useful for seeing how the surface, drain, and house relate to one another. On your patio drawing, mark where similar features meet and decide who will handle each connection. The photo documents visible work; it does not establish a termite treatment history or certification. Your own provider will need the details of your property and proposed excavation.
+On your patio drawing, mark where similar features meet and decide who will handle each connection. Your own provider will need the details of your property and proposed excavation.
 
 ## Keep a completion folder
 

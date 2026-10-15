@@ -61,13 +61,7 @@ Our [guide to driveway pavers in Jupiter](/blog/driveway-pavers-jupiter/) covers
 
 ## Look closely at the meeting point between materials
 
-Our [Palm Beach Gardens driveway and drain project](/portfolio/concrete-paver-and-drain/) provides a regional visual example of two surfaces meeting. In the photograph, gray concrete pavers run along a long black linear drain, with a light house and hedge behind them.
-
-![Gray concrete pavers meeting a black linear drain on a residential driveway.](/images/portfolio/concrete-paver-and-drain-1.jpg)
-
-*Real portfolio photograph: the driveway and drain in Palm Beach Gardens, shown as a reference for the junction between materials.*
-
-The long black drain makes the edge of the pavers easy to follow. At your crossing, trace the line where retained pavers meet the concrete, then find the joint across the sidewalk. Describe both locations when discussing the finish and where work ends. The portfolio photo does not document sidewalk replacement or town approval.
+At your crossing, trace the line where retained pavers meet the concrete, then find the joint across the sidewalk. Describe both locations when discussing the finish and where work ends.
 
 ## Include the lawn in the finished result
 

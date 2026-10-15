@@ -58,11 +58,7 @@ These are technical guidelines for the stated conditions. Your contractor should
 
 Once those relationships are clear, compare [pool deck materials and finishes](/services/pool-decks/) against the architecture and the way you use the space. For barefoot heat and wet traction, our [pool deck pavers material guide](/blog/pool-deck-pavers-south-florida/) covers that separate decision in depth. Bring samples into the discussion alongside the proposed levels.
 
-## A built example of considering both together
-
-Our [concrete driveway and integrated drain project](/portfolio/concrete-paver-and-drain/) in Palm Beach Gardens replaced old asphalt with concrete pavers. A dedicated system was built into the installation to channel water away, preventing pooling and edge sinking.
-
-That example concerns a vehicle entrance in a different city. Its relevance here is the approach: runoff management was included with the new surface. The backyard design still needs its own measured elevations, dimensions and approved solution.
+The backyard design still needs its own measured elevations, dimensions and approved solution.
 
 Ready to explore an enlargement? Share your survey and the space you want to gain. Our [installation process](/about/our-process/) starts with an on-site visit to measure, discuss how you want to use the area and work toward a written estimate. The first conversation can bring the footprint, grading questions and finish preferences together.
 
