@@ -58,15 +58,9 @@ Agree which removed units the installer will evaluate for reuse, where that mate
 
 Where the order adds to an existing surface, resolve [matching new pavers to an existing driveway](/blog/matching-new-pavers-existing-driveway/) before delivery is scheduled. This is a separate appearance decision; delivery paperwork records what was ordered, not whether you will like its relationship to the old surface.
 
-## A real example of changing driveway access
+## Agree who communicates access changes
 
-The [Palm Beach driveway cleaning and sealing project](/portfolio/pool-deck-clean-reseal/) documents maintenance of existing concrete pavers: cleaning, re-sanding and sealing, with the driveway blocked during curing. It supports a narrow planning point: access can change during work even when the existing pavers remain.
-
-![Concrete paver driveway at the documented Palm Beach cleaning and sealing project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual Palm Beach driveway maintenance photo: cleaning, re-sanding and sealing. This was not a Palm Beach Gardens installation or a new-pallet delivery project.*
-
-For your installation, establish who tells the household when access arrangements change and when a route is available again. The photographed maintenance job does not establish access conditions or a reopening time for your property.
+For your installation, establish who tells the household when access arrangements change and when a route is available again. Access conditions and reopening times need to be agreed for your property and the actual work.
 
 ## Agree on a failed or incomplete delivery
 

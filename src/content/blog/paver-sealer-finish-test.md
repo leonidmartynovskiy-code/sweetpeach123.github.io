@@ -72,15 +72,9 @@ Compare proposals against these same boundaries. Ask whether the test, preparati
 
 If your plans also include replacing a patio or rebuilding a walkway, the [paver services available in Palm Beach Gardens](/service-areas/palm-beach-gardens/) help distinguish those construction scopes from maintenance of the existing surface.
 
-## What a real maintenance project establishes
+## Use your own approved test area
 
-Our [Palm Beach concrete driveway cleaning and sealing project](/portfolio/pool-deck-clean-reseal/) documents pressure cleaning, re-sanding and sealing an existing concrete-paver driveway. It provides a real example of that maintenance scope.
-
-![Concrete-paver driveway in the documented Palm Beach cleaning, re-sanding and sealing project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Real Palm Beach maintenance case: pressure-cleaned, re-sanded and sealed concrete driveway. This photo does not establish a particular sheen or predict the finish at your home.*
-
-The record does not identify the sealer, a sample-approval process or a precise finish label. Use it to understand the work performed. Your own approved test area should guide the appearance decision for your property.
+Your own approved test area should guide the appearance decision for your property. Record the sealer, preparation and agreed finish rather than relying on a photograph from a different installation.
 
 ## Make the final decision before full treatment
 

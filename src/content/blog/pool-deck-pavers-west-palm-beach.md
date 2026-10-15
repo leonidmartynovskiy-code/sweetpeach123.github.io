@@ -81,7 +81,7 @@ Send us the address, existing deck photos, and any survey or City correspondence
 
 Before recommending removal, we look for loose pieces, settlement, damaged edges, and places that hold water. Surface dirt belongs in the cleaning discussion. Movement and low spots need a closer look at how the deck is supported and drains.
 
-Our portfolio includes [a pool deck we cleaned and resealed](/portfolio/pool-deck-clean-reseal/). That completed maintenance job gives us a reference for a conversation about surface care. At your property, the condition check determines whether cleaning and resealing belong in the proposal or whether repairs come first.
+At your property, the condition check determines whether cleaning and resealing belong in the proposal or whether repairs come first.
 
 If the existing deck stays, agree on a cleaning and sealer plan appropriate to its material and existing finish. If it is replaced, keep the product information and approved layout with the house records. They give future maintenance work a clear starting point.
 

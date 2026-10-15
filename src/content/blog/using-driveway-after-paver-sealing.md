@@ -75,15 +75,9 @@ Share the release with everyone using the property. Before moving a vehicle back
 
 Heavy stationary planters and furniture need their own installer guidance. Permission for vehicle traffic does not automatically answer when those objects can return or how they should be moved into place.
 
-## What the real driveway case establishes
+## Base reopening on your own treatment
 
-Our [Palm Beach driveway cleaning, re-sanding and sealing project](/portfolio/pool-deck-clean-reseal/) documents those services on concrete pavers. It provides real service evidence, but it does not identify the exact sealer, reopening time or duration of vehicle restrictions. Its Palm Beach location should not be read as Palm Beach Gardens.
-
-![Real Palm Beach concrete paver driveway from the Driveway clean & seal project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual project photo: concrete paver driveway cleaning, re-sanding and sealing in Palm Beach. The photograph does not establish a reopening schedule.*
-
-Use the case to understand the documented work. Your access arrangements still need a decision based on your own treatment and site conditions.
+Your access arrangements need a decision based on your own treatment and site conditions. Ask for the selected product and its pedestrian and vehicle reopening instructions in writing.
 
 ## If rain or an early crossing interrupts the plan
 

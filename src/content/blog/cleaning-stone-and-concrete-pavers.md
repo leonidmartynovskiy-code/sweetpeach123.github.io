@@ -67,15 +67,9 @@ Ask the proposal to state whether each zone will be cleaned only, considered for
 
 This makes the estimate easier to judge. An omitted stone treatment can be a deliberate decision supported by the assessment, rather than an incomplete job. Conversely, a single line for sealing the entire patio leaves the material choices unexplained.
 
-## What our concrete maintenance example demonstrates
+## Identify the concrete and stone tasks separately
 
-Our [Palm Beach concrete driveway cleaning and sealing project](/portfolio/pool-deck-clean-reseal/) documents pressure cleaning, re-sanding and sealing concrete pavers. It provides a relevant example of concrete maintenance when discussing that portion of a mixed-material property.
-
-![Concrete-paver driveway at the documented Palm Beach maintenance project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual project photo: concrete driveway in Palm Beach, pressure cleaned, re-sanded and sealed. Adjacent stone treatments need their own assessment.*
-
-Use this example to ask which concrete tasks your proposal includes. It does not establish the treatment or likely result for your stone border, steps or coping.
+Ask which concrete-paver tasks your proposal includes, such as cleaning, joint work or sealing. Those tasks do not establish the treatment or likely result for an adjoining stone border, steps or coping; identify their assessment and scope separately.
 
 ## Agree on the result and keep the record
 

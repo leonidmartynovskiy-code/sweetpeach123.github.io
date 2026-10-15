@@ -26,11 +26,7 @@ If assessment finds that surface treatment is sufficient, compare a [paver clean
 
 CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/) distinguishes cleaning and preparation from joint stabilization and sealing. It describes maintenance operations, not a method of rebuilding a failed base. Ask for separate assessment of movement or drainage concerns rather than treating sealer as their correction.
 
-Our [Palm Beach concrete driveway cleaning, re-sanding and sealing project](/portfolio/pool-deck-clean-reseal/) illustrates that maintenance scope. It is a driveway in Palm Beach, not a pool deck replacement or evidence of a Boynton Beach installation. Use it to understand the difference in work, without transferring its outcome to your pool surround.
 
-![Palm Beach driveway with concrete pavers after cleaning, re-sanding and sealing](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual project photo: Palm Beach driveway maintenance, not pool deck replacement.*
 
 ## Mark the area and the stopping points
 

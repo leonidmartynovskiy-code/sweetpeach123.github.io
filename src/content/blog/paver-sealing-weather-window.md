@@ -85,14 +85,8 @@ Distinguish a proposed return appointment from a confirmed application decision.
 
 You should be able to reach a specific person rather than decide for yourself whether a darker corner is acceptable. If the office and field crew give different instructions, ask them to resolve the difference before authorizing application.
 
-## What a completed regional project can show
+## Keep the scheduling decision property-specific
 
-The [Palm Beach driveway cleaning and sealing project](/portfolio/pool-deck-clean-reseal/) documents concrete pavers that were pressure cleaned, re-sanded and sealed. It provides regional evidence of that service scope. It is a Palm Beach project, not a Wellington job, and the published record does not establish its product, application weather or moisture assessment.
-
-![Concrete paver driveway shown in the Palm Beach cleaning and sealing portfolio](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Real project photo: Palm Beach driveway, pressure cleaned, re-sanded and sealed. The image does not establish pre-application readiness.*
-
-Use project examples to discuss the work you want included. Your property's shaded areas, water sources and access needs still belong in its own scheduling decision.
+Your property's shaded areas, water sources and access needs belong in its own scheduling decision. A finished maintenance photograph does not establish a product, application weather or moisture assessment for your property.
 
 Before booking, request a product-specific site and scheduling consultation through [paver cleaning and sealing in Wellington](/services/clean-seal/wellington/). Ask the team to review the actual surface and proposed product, identify the go/no-go professional, and document forecast reassessment and rescheduling contact details. That gives your household a clear next step when conditions change.

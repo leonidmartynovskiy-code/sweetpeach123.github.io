@@ -72,13 +72,9 @@ The written assessment should distinguish what is known, what the test establish
 
 Include a review point before sealing proceeds. Specify who discusses unexpected findings with you and how changes are approved. This makes the estimate useful even if the test leads to a smaller maintenance job or a separate repair proposal.
 
-## What a documented maintenance project can show
+## Keep stain treatment identifiable in the estimate
 
-![Concrete paver driveway and apron at the documented Palm Beach maintenance project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Real project photo: a Palm Beach concrete driveway pressure cleaned, re-sanded and sealed. The project record does not identify an oil stain, oil-removal treatment or product.*
-
-Our [Palm Beach concrete driveway cleaning and sealing project](/portfolio/pool-deck-clean-reseal/) documents those maintenance stages on an existing driveway. The useful comparison is the way cleaning, joint work and sealing are identified separately. Your stain proposal still needs its own assessment, treatment expectations and acceptance criteria.
+Identify cleaning, joint work and any sealing separately in your proposal. Your stain proposal also needs its own assessment, treatment expectations and acceptance criteria; a general maintenance description does not establish an oil-removal treatment or result.
 
 ## Make the finish decision after the stain assessment
 

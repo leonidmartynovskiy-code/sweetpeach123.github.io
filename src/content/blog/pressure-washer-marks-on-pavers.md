@@ -61,15 +61,9 @@ Before authorizing a trial, agree on these points:
 
 Approval of a cleaning result is not automatic approval of a coating. If sealing is proposed, discuss its appearance separately. A darker or glossier surface is not proof that worn concrete has been repaired, and sealer should not be sold as a guaranteed way to camouflage bands.
 
-## What our documented maintenance project shows
+## Separate the tasks in your proposal
 
-Our [Palm Beach concrete driveway cleaning, re-sanding and sealing project](/portfolio/pool-deck-clean-reseal/) documents those three maintenance tasks on an existing driveway. Its value here is the clear separation of surface cleaning, joint work and sealing.
-
-![Concrete pavers driveway at the documented Palm Beach maintenance project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual portfolio photo: concrete driveway maintenance in Palm Beach, cleaned, re-sanded and sealed. This is not a Wellington pressure-damage restoration project or evidence that your marks will disappear.*
-
-Use that distinction when reviewing your own proposal. Cleaning, joint restoration, old-coating work and replacement units should be identifiable wherever they are included. Ask which are excluded and what finding would trigger a separate estimate. The photograph does not establish a suitable product or outcome for your property.
+Cleaning, joint restoration, old-coating work and replacement units should be identifiable wherever they are included. Ask which are excluded and what finding would trigger a separate estimate. A finished photograph does not establish a suitable product, repair method or likely result for the marks at your property.
 
 ## Make the next approval specific
 

@@ -69,13 +69,7 @@ This detail gives you a way to compare estimates without guessing what a short s
 
 ## What a maintenance project includes
 
-Our [Driveway clean & seal project in Palm Beach](/portfolio/pool-deck-clean-reseal/) documents a concrete paver driveway that was pressure cleaned, re-sanded, and sealed. This is a separate regional example in Palm Beach. The driveway project discussed above involved replacement and drainage.
-
-![Gray concrete paver driveway leading toward a white single-story home with a pale metal roof and palms in Palm Beach.](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual portfolio photo: Driveway clean & seal, Palm Beach. The documented maintenance scope was pressure cleaning, re-sanding, and sealing.*
-
-The distinction matters when looking at portfolio work. A finished maintenance photo can help you discuss appearance, but it does not establish which repairs your driveway needs. Your written scope should follow the condition of your property, even when another driveway provides a useful visual reference.
+Distinguish cleaning, joint replenishment and any proposed sealing from replacement or drainage work. A finished maintenance photograph does not establish which repairs your driveway needs. Your written scope should follow the condition of your property.
 
 ## Set expectations for the finish and access
 

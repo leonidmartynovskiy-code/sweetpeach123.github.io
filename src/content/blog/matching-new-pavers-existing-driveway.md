@@ -61,15 +61,9 @@ Replacing a coherent section can move the transition to a boundary you prefer. T
 
 For a consultation through our [driveway pavers installation service](/services/driveways/), bring your product records and identify the area that concerns you. Ask to compare these scope options on site, with material compatibility, retained areas and visible transitions addressed before choosing what to order.
 
-## A real example of retaining existing pavers
+## Decide which existing units to retain
 
-The [Palm Beach driveway cleaning and sealing project](/portfolio/pool-deck-clean-reseal/) documents a concrete driveway that was cleaned, re-sanded and sealed. It illustrates keeping existing units and addressing surface appearance through maintenance. It does not document replacement matching, a Palm Beach Gardens installation or a particular product for achieving a match.
-
-![Existing concrete driveway at the documented Palm Beach cleaning and sealing project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual Palm Beach driveway maintenance project: existing concrete pavers cleaned, re-sanded and sealed. This photo does not demonstrate replacement matching.*
-
-The decision for your property remains separate: which units are serviceable, which need replacement, and what appearance you will approve alongside them.
+The decision for your property is which units are serviceable, which need replacement, and what appearance you will approve alongside them. Maintenance of existing units does not establish that replacement pavers will match.
 
 ## Approve the scope before authorizing the order
 

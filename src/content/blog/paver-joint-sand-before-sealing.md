@@ -66,15 +66,9 @@ For example, if the front walk is included in the cleaning area but excluded fro
 
 If the assessment points to a separate walkway or driveway construction project, the [West Palm Beach paver services overview](/service-areas/west-palm-beach/) helps frame that discussion. Keep its scope identifiable alongside the maintenance proposal.
 
-## What the documented driveway case establishes
+## Keep the joint assessment in the proposal
 
-Our [Palm Beach driveway cleaning, re-sanding and sealing project](/portfolio/pool-deck-clean-reseal/) documents pressure cleaning, re-sanding and sealing on a concrete paver driveway. It is regional service evidence from Palm Beach. The project record does not identify the sand product, document structural repairs or establish a diagnosis of recurring joint loss.
-
-![Actual concrete paver driveway in Palm Beach from the Driveway clean and seal project](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual project photo: concrete paver driveway in Palm Beach, pressure cleaned, re-sanded and sealed.*
-
-Use the photograph to discuss the documented service, while keeping your own joint condition at the center of the proposal. A finished image cannot establish what is beneath another property's pavers or which treatment will suit them.
+Keep your own joint condition at the center of the proposal. A finished image cannot establish what is beneath another property's pavers or which treatment will suit them. Ask for the proposed sand product and any separate repair work to be identified.
 
 ## Accept the work against the agreed scope
 

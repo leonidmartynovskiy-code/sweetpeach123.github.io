@@ -55,15 +55,9 @@ Assign responsibility for that last item. If the assessment links marks to a det
 
 To discuss these options, request a consultation through our [paver cleaning and sealing service](/services/clean-seal/). Provide dry photographs and your treatment history for review, then ask for a site check and a proposal separating localized stain work, wider cleaning, joint work, and any sealing. That gives you a concrete scope to consider before committing to a finish.
 
-## A separate Palm Beach restoration example
+## Separate stain treatment from routine maintenance
 
-Our [Driveway clean & seal project in Palm Beach](/portfolio/pool-deck-clean-reseal/) documents a concrete-paver driveway that was pressure cleaned, re-sanded, and sealed. It is a separate restoration example in Palm Beach, showing the scope of a maintenance project.
-
-![Concrete-paver driveway from the documented clean-and-seal project in Palm Beach.](/images/portfolio/pool-deck-clean-reseal-1.jpg)
-
-*Actual project photo: a Palm Beach driveway after cleaning, re-sanding, and sealing.*
-
-The project record does not identify rust, fertilizer, a rust-remover product, or a guarantee of stain elimination. Use this example to discuss the broader maintenance scope. It is not evidence of rust treatment or a forecast of the result on your property.
+A proposal for cleaning, joint replenishment and sealing does not by itself establish a rust treatment or guarantee stain elimination. Ask for the stain assessment, proposed treatment and expectations for your property to be recorded separately.
 
 ## Put the result and next steps in writing
 

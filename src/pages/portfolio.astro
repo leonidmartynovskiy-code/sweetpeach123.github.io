@@ -1,10 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { v, thumb } from '../lib/asset.ts';
 
-const projects = [
-  { href: '/portfolio/pool-deck-clean-reseal/', img: '/images/portfolio/pool-deck-clean-reseal-1.jpg', loc: 'Palm Beach · Concrete pavers', title: 'Driveway clean & seal', desc: 'A faded concrete paver driveway pressure cleaned, re-sanded, and sealed to restore its color.', price: 'From $3,200', alt: 'Restored concrete paver driveway in Palm Beach' },
-];
 const breadcrumbLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -16,7 +12,7 @@ const breadcrumbLd = {
 ---
 <BaseLayout
   title="Paver Project Portfolio | Perfect Pavers of Palm Beach"
-  description="Browse project details and practical planning guides for paver installation and maintenance in Palm Beach County.">
+  description="Practical planning guides for paver installation and maintenance in Palm Beach County.">
   <script type="application/ld+json" slot="head" set:html={JSON.stringify(breadcrumbLd)} />
 
   <nav class="crumbs">
@@ -27,33 +23,9 @@ const breadcrumbLd = {
 
   <section class="port-hero">
     <div class="wrap">
-      <div class="eyebrow" style="color:var(--brass)">Our work</div>
-      <h1>Project details <em>and planning.</em></h1>
-      <p class="lede">Browse the project below, or use the planning guides to prepare questions about your own property. The guides are not completed-project case studies.</p>
-    </div>
-  </section>
-
-  <section class="block wrap">
-    <div class="port-grid">
-      {projects.map((p) => (
-        <a class="pcard" href={p.href}>
-          <div class="pcard-ph">
-            <img loading="lazy" decoding="async" src={v(thumb(p.img))} alt={p.alt} width="400" height="320" />
-            {p.soon && <span class="pf-soon">Coming soon</span>}
-          </div>
-          <div class="pcard-body">
-            <div class="pcard-top">
-              <div class="loc">{p.loc}</div>
-              <h3>{p.title}</h3>
-              <p class="pcard-desc">{p.desc}</p>
-            </div>
-            <div class="pcard-foot">
-              <span class="pcard-price">{p.price}</span>
-              <span class="pcard-more">View project <span aria-hidden="true">→</span></span>
-            </div>
-          </div>
-        </a>
-      ))}
+      <div class="eyebrow" style="color:var(--brass)">Plan your project</div>
+      <h1>Paver project <em>planning.</em></h1>
+      <p class="lede">Use these guides to prepare questions about your own property. They explain planning considerations and are not completed-project case studies.</p>
     </div>
   </section>
 
@@ -65,6 +37,7 @@ const breadcrumbLd = {
       <li><a href="/portfolio/concrete-paver-and-drain/">Planning a paver driveway and drainage scope</a></li>
       <li><a href="/portfolio/miramar-pool-deck-restoration/">Planning pool deck paver repairs and maintenance</a></li>
       <li><a href="/portfolio/north-lauderdale-residence/">Planning paver driveway cleaning and sealing</a></li>
+      <li><a href="/portfolio/pool-deck-clean-reseal/">Preparing a concrete paver maintenance estimate</a></li>
     </ul>
   </section>
 
