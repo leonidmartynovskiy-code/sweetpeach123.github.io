@@ -60,7 +60,7 @@ Materials and styles do move, even in a category as classic as hardscape. Larger
 
 ## Choosing the right team
 
-The best material and design in the world cannot survive a careless installation, and South Florida has no shortage of contractors who take a deposit and disappear. The safeguards worth insisting on are straightforward: a properly licensed and insured company, a written estimate that includes the base and drainage, references and real completed work you can look at, and clear communication at every stage. You can see examples of finished projects in our [portfolio](/portfolio/) and read what homeowners say on our [reviews](/reviews/) page.
+The best material and design in the world cannot survive a careless installation, and South Florida has no shortage of contractors who take a deposit and disappear. The safeguards worth insisting on are straightforward: a properly licensed and insured company, a written estimate that includes the base and drainage, references and real completed work you can look at, and clear communication at every stage. You can review our [planning guides](/portfolio/) for questions to ask before the work and read what homeowners say on our [reviews](/reviews/) page.
 
 We serve Palm Beach County exclusively, which lets us give every project our full attention and stay close to local codes and conditions. If a new driveway, patio, or pool deck is on your mind, the simplest next step is to [request a free on-site visit](/contact/), where we will measure the space and walk through the details to build the cleanest estimate possible. For larger projects, [financing options](/financing/) are available as well.
 

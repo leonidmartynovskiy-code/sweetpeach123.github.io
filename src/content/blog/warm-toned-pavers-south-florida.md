@@ -62,6 +62,6 @@ It would be dishonest to declare grey finished. It has not disappeared, and by m
 
 A paver color is an architectural decision, not a shopping one. It sets the temperature of an entire outdoor room, and in South Florida light it deserves to be chosen against the specific building, the planting, and the way the surface will read from midday to dusk. Warm neutrals, sand through clay, offer a palette that is at once timeless, cooler underfoot, and quietly flattering to everything around it.
 
-If you would like to see warm-toned stone in place, browse finished work in our [portfolio](/portfolio/) or explore our [patio](/services/patios/) and [natural stone](/services/natural-stone/) services. When you are ready to weigh color against your own light and setting, [get in touch](/contact/) and we will walk it with you.
+For questions to discuss before choosing materials, browse our [planning guides](/portfolio/) or explore our [patio](/services/patios/) and [natural stone](/services/natural-stone/) services. When you are ready to weigh color against your own light and setting, [get in touch](/contact/) and we will walk it with you.
 </content>
 </invoke>
