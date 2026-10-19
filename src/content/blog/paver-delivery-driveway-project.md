@@ -77,3 +77,5 @@ An owner reserve and unopened stock intended for return need separate decisions.
 For surplus stock, verify the supplier's current return terms before treating it as a credit. Confirm eligible packaging and quantities, any return deadline, collection arrangements and charges. Keep unopened stock intended for return distinct from the agreed reserve until the supplier confirms its status. Do not promise yourself a refund based on unused material alone.
 
 Request a [driveway consultation in Palm Beach Gardens](/services/driveways/palm-beach-gardens/) to turn the site assessment into a proposed scope covering delivery responsibilities, household access, contingency charges and leftover stock. Ask for unresolved supplier decisions to be identified in writing before you authorize the order.
+
+If existing covers sit near the delivery or work area, use our [driveway utility-cover planning guide](/blog/driveway-pavers-utility-cover-access/) to identify ownership, access and coordination questions before replacement begins.
