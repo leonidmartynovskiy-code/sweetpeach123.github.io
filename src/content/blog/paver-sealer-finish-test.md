@@ -81,3 +81,5 @@ Your own approved test area should guide the appearance decision for your proper
 Proceed when the appearance is acceptable, the installer has resolved suitability questions and the written scope matches the trial. If you dislike the color shift or reflection, pause and discuss another suitable option. Do not rely on an undefined promise that the whole surface will look better.
 
 To plan the next step, request a [paver cleaning and sealing assessment in Palm Beach Gardens](/services/clean-seal/palm-beach-gardens/). Describe your preferred color and sheen, share any coating history, and ask for the proposed preparation, compatibility checks and finish-approval process in the written scope.
+
+If an existing finish appears to be lifting or flaking, start with our [peeling paver sealer assessment guide](/blog/peeling-paver-sealer-before-recoating/) before considering another coat.
