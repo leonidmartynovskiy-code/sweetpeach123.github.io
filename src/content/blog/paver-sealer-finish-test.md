@@ -83,3 +83,5 @@ Proceed when the appearance is acceptable, the installer has resolved suitabilit
 To plan the next step, request a [paver cleaning and sealing assessment in Palm Beach Gardens](/services/clean-seal/palm-beach-gardens/). Describe your preferred color and sheen, share any coating history, and ask for the proposed preparation, compatibility checks and finish-approval process in the written scope.
 
 If an existing finish appears to be lifting or flaking, start with our [peeling paver sealer assessment guide](/blog/peeling-paver-sealer-before-recoating/) before considering another coat.
+
+For green-looking areas in shade, first review our [green patches on shaded pavers guide](/blog/green-patches-on-shaded-pavers/) to separate cleaning, site assessment and finish decisions.
