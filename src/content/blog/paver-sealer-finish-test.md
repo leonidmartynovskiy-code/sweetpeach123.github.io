@@ -85,3 +85,5 @@ To plan the next step, request a [paver cleaning and sealing assessment in Palm 
 If an existing finish appears to be lifting or flaking, start with our [peeling paver sealer assessment guide](/blog/peeling-paver-sealer-before-recoating/) before considering another coat.
 
 For green-looking areas in shade, first review our [green patches on shaded pavers guide](/blog/green-patches-on-shaded-pavers/) to separate cleaning, site assessment and finish decisions.
+
+If the main concern is a dull or uneven color, first consider [what to check before a color-enhancing paver sealer](/blog/faded-pavers-before-color-enhancing-sealer/) to decide whether a finish change belongs in the project.
