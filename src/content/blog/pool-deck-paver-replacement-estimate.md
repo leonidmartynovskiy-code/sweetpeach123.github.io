@@ -84,3 +84,6 @@ If an allowance appears in the estimate, ask exactly what it covers and how the 
 Compare proposals against the same sketch and responsibility list. Check whether each line is included, optional, excluded or awaiting investigation. At the final walkthrough, use that agreed scope to review the installed product, transitions, reinstatement and any outstanding items. Request care and return-to-use instructions for the actual installation.
 
 For a [pool deck replacement consultation in Boynton Beach](/services/pool-decks/boynton-beach/), share your photos, retained-item preferences and questions about competing estimates. Request a site assessment and proposed written installation scope so you can review the work boundaries and remaining decisions before approving the project.
+
+
+Keeping a screen enclosure during replacement? Our [pool deck and screen-enclosure planning guide](/blog/pool-deck-pavers-screen-enclosure-base/) explains which boundaries, access needs and separate professional responsibilities to discuss before accepting the proposal.
