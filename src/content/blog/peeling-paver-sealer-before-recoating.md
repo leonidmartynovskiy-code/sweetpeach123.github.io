@@ -86,3 +86,5 @@ For a consultation about [cleaning and sealing pavers in Palm Beach Gardens](/se
 <style>
   article .prose table { display: table !important; table-layout: fixed; width: 100%; white-space: normal !important; overflow-wrap: anywhere; }
 </style>
+
+If the surface looks sound but you have no product records, read our [guide to resealing pavers with an unknown previous sealer](/blog/paver-sealing-unknown-existing-sealer/) before authorizing a new treatment.
