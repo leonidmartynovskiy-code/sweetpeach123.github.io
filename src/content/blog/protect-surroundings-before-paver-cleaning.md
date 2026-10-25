@@ -58,7 +58,7 @@ Request a consultation through our [paver cleaning and sealing service](/service
 
 A written scope for a Boynton Beach project names owner-supplied porcelain pavers for the back pool deck. A separate change order adds a side walkway and garbage-can area. The Attention section identifies irrigation, electrical, plumbing and landscaping as work by others. These written distinctions show why the proposal should name each area and responsibility.
 
-That record describes planned scope only. It does not establish completed performance, a cleaning method, a protection method or a cleaning result. When considering [pool deck pavers in Boynton Beach](/services/pool-decks/boynton-beach/), distinguish the proposed paver work from tasks assigned to others. For a cleaning estimate, give every excluded feature an explicit protection responsibility.
+That record describes planned scope only. It does not establish completed performance, a cleaning method, a protection method or any cleaning or protection result. When considering [pool deck pavers in Boynton Beach](/services/pool-decks/boynton-beach/), distinguish the proposed paver work from tasks assigned to others. For a cleaning estimate, give every excluded feature an explicit protection responsibility.
 
 ## What belongs in the estimate
 
