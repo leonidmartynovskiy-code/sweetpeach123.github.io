@@ -78,3 +78,5 @@ Before approval, describe success zone by zone. Identify the marks expected to i
 At completion, compare the work with the mapped scope and agreed test records. Keep the product names, treated locations, photographs and written aftercare together. Ask for care instructions for each surface, including what a future maintenance provider should know about the finish and any remaining restrictions. That record gives the next service visit a better starting point than a recollection that the whole patio was sealed.
 
 For [cleaning and sealing assessment in Palm Beach Gardens](/services/clean-seal/palm-beach-gardens/), request a walkthrough and documented proposal organized by surface. Share the unresolved areas in advance and ask for treatment limits, protection responsibilities and expected results for each zone before authorizing work.
+
+For surfaces outside the cleaning scope, our [guide to protecting plants, glass and stone before paver cleaning](/blog/protect-surroundings-before-paver-cleaning/) helps you prepare a separate protection and access checklist.
