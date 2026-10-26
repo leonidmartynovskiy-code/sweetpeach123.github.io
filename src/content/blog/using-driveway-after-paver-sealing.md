@@ -86,3 +86,5 @@ If you notice a footprint, tire mark or an unexpected change after rain, documen
 Keep others away from the affected area while you obtain instructions. Do not pressure wash, scrub or recoat it yourself. Ask whether the event changes the existing release or requires another assessment, then update household and visitor arrangements accordingly.
 
 For your [Palm Beach Gardens paver cleaning and sealing project](/services/clean-seal/palm-beach-gardens/), request a written access and work-scope discussion. Bring your parking options, essential visits and surface-treatment history. Ask for agreement on closed areas, the reopening contact and the weather contingency before choosing a start date.
+
+For care beyond the initial return to use, our [paver sealing maintenance handover guide](/blog/paver-sealing-maintenance-handover/) explains which product details and care instructions to request and keep.
