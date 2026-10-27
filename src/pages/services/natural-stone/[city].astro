@@ -165,8 +165,12 @@ const handles = [
 ];
 
 const data = {
-  seoTitle: `Natural Stone Hardscapes in ${city.name}, FL · Perfect Pavers`,
-  seoDescription: `Natural stone patios, entries and pool surrounds in ${city.name}. Compare materials, site preparation and review requirements. Request a free on-site visit.`,
+  seoTitle: city.slug === 'west-palm-beach'
+    ? 'Natural Stone Hardscape Installation in West Palm Beach, FL'
+    : `Natural Stone Hardscapes in ${city.name}, FL · Perfect Pavers`,
+  seoDescription: city.slug === 'west-palm-beach'
+    ? 'Plan a natural stone patio, entry or pool surround in West Palm Beach. Compare stone, finish and site preparation with Perfect Pavers. Request an on-site estimate.'
+    : `Natural stone patios, entries and pool surrounds in ${city.name}. Compare materials, site preparation and review requirements. Request a free on-site visit.`,
   service: SERVICE,
   city,
   approvalsLabel: 'Confirm property / city requirements',
