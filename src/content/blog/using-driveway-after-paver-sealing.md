@@ -90,3 +90,5 @@ For your [Palm Beach Gardens paver cleaning and sealing project](/services/clean
 For care beyond the initial return to use, our [paver sealing maintenance handover guide](/blog/paver-sealing-maintenance-handover/) explains which product details and care instructions to request and keep.
 
 Preparing a home for showings? Our [paver cleaning guide before listing a home](/blog/paver-cleaning-before-listing-home/) helps separate cleaning, repairs and optional sealing while planning visitor access.
+
+For a cooking area, our [guide to cleaning pavers around an outdoor kitchen](/blog/clean-pavers-around-outdoor-kitchen/) explains how to define the reachable work area and coordinate protection around fixed equipment.
