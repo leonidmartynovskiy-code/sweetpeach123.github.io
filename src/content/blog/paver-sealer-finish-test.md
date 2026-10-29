@@ -87,3 +87,5 @@ If an existing finish appears to be lifting or flaking, start with our [peeling 
 For green-looking areas in shade, first review our [green patches on shaded pavers guide](/blog/green-patches-on-shaded-pavers/) to separate cleaning, site assessment and finish decisions.
 
 If the main concern is a dull or uneven color, first consider [what to check before a color-enhancing paver sealer](/blog/faded-pavers-before-color-enhancing-sealer/) to decide whether a finish change belongs in the project.
+
+If the surface feels slippery, our [guide to assessment before resealing](/blog/slippery-pavers-before-resealing/) explains what to record and discuss before choosing another coating.
