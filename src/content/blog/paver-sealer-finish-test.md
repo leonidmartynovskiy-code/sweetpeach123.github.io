@@ -89,3 +89,5 @@ For green-looking areas in shade, first review our [green patches on shaded pave
 If the main concern is a dull or uneven color, first consider [what to check before a color-enhancing paver sealer](/blog/faded-pavers-before-color-enhancing-sealer/) to decide whether a finish change belongs in the project.
 
 If the surface feels slippery, our [guide to assessment before resealing](/blog/slippery-pavers-before-resealing/) explains what to record and discuss before choosing another coating.
+
+If nearby renovation has left residue on an existing surface, our [post-construction paver cleaning guide](/blog/cleaning-pavers-after-nearby-construction/) explains the assessment and scope to settle before deciding on sealing.
