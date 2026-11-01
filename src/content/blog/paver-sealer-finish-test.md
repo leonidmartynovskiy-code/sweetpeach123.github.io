@@ -93,3 +93,5 @@ If the surface feels slippery, our [guide to assessment before resealing](/blog/
 If nearby renovation has left residue on an existing surface, our [post-construction paver cleaning guide](/blog/cleaning-pavers-after-nearby-construction/) explains the assessment and scope to settle before deciding on sealing.
 
 Before agreeing to a treatment area, our [guide to partial-area paver cleaning](/blog/partial-area-paver-cleaning/) explains how to review boundaries and appearance expectations for the connected surface.
+
+If dirt keeps returning from an adjacent planting bed, our [guide to soil washing onto pavers before cleaning](/blog/soil-washing-onto-pavers-before-cleaning/) separates surface treatment from assessing the recurring source.
