@@ -95,3 +95,5 @@ If nearby renovation has left residue on an existing surface, our [post-construc
 Before agreeing to a treatment area, our [guide to partial-area paver cleaning](/blog/partial-area-paver-cleaning/) explains how to review boundaries and appearance expectations for the connected surface.
 
 If dirt keeps returning from an adjacent planting bed, our [guide to soil washing onto pavers before cleaning](/blog/soil-washing-onto-pavers-before-cleaning/) separates surface treatment from assessing the recurring source.
+
+For pavers within an existing screened area, our [screen-enclosure cleaning scope guide](/blog/cleaning-pavers-inside-screen-enclosure/) explains boundaries at frames and doorways, access and protection responsibilities.
