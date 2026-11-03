@@ -86,3 +86,5 @@ At the final walkthrough, return to the original surroundings record. Review gla
 Keep the approved plan, changes and completion notes together. If something needs another visit or specialist assessment, ask for that next step in writing before closing the discussion.
 
 For your property, request a [Boynton Beach paver cleaning assessment](/services/clean-seal/boynton-beach/). During the consultation, we can review the proposed cleaning boundary, visible adjacent finishes and access needs, then identify the protection responsibilities and unresolved questions that belong in your written proposal.
+
+For a yard shared with pets, our [guide to cleaning pavers in pet-use areas](/blog/paver-cleaning-pet-use-areas/) covers the work boundary, access arrangements and limits to agree before cleaning.
