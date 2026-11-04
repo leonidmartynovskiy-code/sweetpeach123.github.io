@@ -75,3 +75,5 @@ Before signing, review allowances and exclusions together. An allowance needs to
 The proposal should also cover cleanup, removal of leftover debris, a final walkthrough and any required completion records. Keep the final product details, approved changes and care information with your project documents. These make the finished work easier to understand and maintain.
 
 For a [Wellington patio consultation](/services/patios/wellington/), contact Pavers of Palm Beach with your preferred layout and the questions still open in your estimates. We will review the space during a site visit, take measurements and prepare a written proposal. Compare that scope with the other proposals before choosing a contractor.
+
+If a fixed kitchen may follow the patio, our [guide to patio planning for a future outdoor kitchen](/blog/patio-pavers-future-outdoor-kitchen/) explains which layout and work boundaries to settle first.
