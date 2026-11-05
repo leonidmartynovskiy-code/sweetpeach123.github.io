@@ -77,3 +77,5 @@ The proposal should also cover cleanup, removal of leftover debris, a final walk
 For a [Wellington patio consultation](/services/patios/wellington/), contact Pavers of Palm Beach with your preferred layout and the questions still open in your estimates. We will review the space during a site visit, take measurements and prepare a written proposal. Compare that scope with the other proposals before choosing a contractor.
 
 If a fixed kitchen may follow the patio, our [guide to patio planning for a future outdoor kitchen](/blog/patio-pavers-future-outdoor-kitchen/) explains which layout and work boundaries to settle first.
+
+For a patio beside existing cooling equipment, our [guide to air-conditioner access around patio pavers](/blog/patio-pavers-air-conditioner-access/) explains which work boundaries to review before approving the layout.
