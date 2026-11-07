@@ -65,3 +65,5 @@ A newly visible hole does not, by itself, establish defective material. Arrange 
 Discuss whether the recommendation addresses an individual location or calls for a broader review, how any proposed treatment will be selected, and what appearance to expect afterward. Ask which decisions remain uncertain until inspection. Avoid choosing a repair material from a photograph or treating a generic repair suggestion as confirmation for your particular pavers.
 
 For your next step, request a consultation for [travertine and natural stone installation in West Palm Beach](/services/natural-stone/west-palm-beach/). Ask for a written scope identifying the selected product, each work area, face and joint treatments, any sealing, and follow-up responsibilities. Review unresolved product questions before approving it, so the decision reflects both the surface you want and the care you are willing to arrange.
+
+Our [guide to approving a range of natural stone samples](/blog/natural-stone-pavers-range-samples/) covers variation across the proposed supply and the details to retain with the approved selection.
