@@ -73,3 +73,5 @@ A written scope from our Boynton Beach records lists a front walkway using paver
 Once the equipment boundary is settled, the [Wellington paver patio estimate guide](/blog/paver-patio-estimate-wellington/) can help with the broader proposal comparison. Carry the same equipment notes into every proposal so a contractor's allowance for adjacent patio work is not mistaken for responsibility for the condenser.
 
 Book a consultation for [patio pavers in Wellington](/services/patios/wellington/) with your layout photos and any findings from your HVAC technician. We will discuss the patio area and its connection to the access route, then prepare a written patio scope identifying included surface work, retained equipment and unresolved trade decisions. You can review those boundaries before authorizing installation.
+
+Also review roof water before expanding the surface: our [patio planning guide for existing downspouts](/blog/patio-pavers-existing-downspouts/) covers the discharge route, access and responsibilities to record before installation.
