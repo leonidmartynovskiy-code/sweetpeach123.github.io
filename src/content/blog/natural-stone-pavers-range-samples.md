@@ -73,3 +73,5 @@ Keep the approved physical reference group available through delivery and instal
 Agree who will compare delivered material with the order and reference, and when that review happens before installation. If the lot differs or the appearance raises questions, the written process should identify whom to contact, how to document the concern, and who authorizes the next step. Clarify return or replacement terms before ordering. Natural variation does not excuse damaged pieces or delivery of the wrong product.
 
 Request a consultation for [natural stone pavers in West Palm Beach](/services/natural-stone/west-palm-beach/) with your sample record in hand. Ask for a written scope connecting the approved product and range to each area, quantities, retained spares, substitutions, and delivery review. The consultation should leave you knowing what is ready to approve and which decisions still need an answer.
+
+For a poolside project, also review our [natural stone pavers and saltwater pool guide](/blog/natural-stone-pavers-saltwater-pool/) before accepting a product based on its color range alone.
