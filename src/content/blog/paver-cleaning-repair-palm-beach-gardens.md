@@ -34,7 +34,7 @@ Gather any old invoice, sealer name, product label photo, or record of previous 
 
 ## Agree on repairs before the final treatment
 
-CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.masonryandhardscapes.org/resource/pav-tec-005/) recommends inspecting for cracked or broken units, treating specific stains before overall cleaning, and trying products in a small area according to their instructions. It also calls for protecting nearby vegetation and considering where cleaning fluids will drain, including low spots.
+CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/) recommends inspecting for cracked or broken units, treating specific stains before overall cleaning, and trying products in a small area according to their instructions. It also calls for protecting nearby vegetation and considering where cleaning fluids will drain, including low spots.
 
 For your estimate, that means agreeing on what the contractor needs to inspect before approving the full visit. If a corner needs attention, have that area identified on a photo or sketch. The proposal should distinguish resetting existing pavers from supplying replacements and explain what happens if lifting them reveals additional work.
 
@@ -49,6 +49,23 @@ The [driveway and drainage planning guide](/portfolio/concrete-paver-and-drain/)
 If puddles are part of your concern, the consultation should distinguish cleaning from any investigation or correction of water flow. Discussing [driveway pavers installation in Palm Beach Gardens](/services/driveways/palm-beach-gardens/) becomes useful when the assessment points to broader driveway work. Keep that proposal separate enough to understand why it was recommended and how it differs from maintaining the existing surface.
 
 To compare maintenance options, request an on-site consultation through our [paver cleaning, re-sanding, and sealing service](/services/clean-seal/). We can walk the areas you have flagged, measure the surface, and prepare a written proposal. Bring your photos and previous product information so the discussion covers both the finish you want and any repair questions that need an answer.
+
+## Choose cleaning, joint replenishment, or sealing
+
+Choose provisionally at the assessment, then confirm the next step after cleaning. A cleaner surface can reveal joint gaps or marks that were less visible beforehand.
+
+- **Cleaning only:** Choose this when dirt removal meets your goal, the pavers are steady, and the contractor confirms the joints need no replenishment after washing. Sealing is optional.
+- **Cleaning plus joint replenishment:** Choose this when joints need suitable replacement sand. Recheck after washing, which can dislodge sand. Repeated sand loss, movement, or settlement calls for assessment before treating a refill as the solution.
+- **Adding sealing:** Consider it for the selected product's stain resistance or finish, after cleaning and necessary joint work. Confirm compatibility with the pavers and any existing coating. Sealer does not replace missing sand or correct movement.
+
+For concrete pavers, this homeowner checklist applies the CMHA guidance cited above to the post-cleaning visit. Complete it before authorizing full-area sealing:
+
+1. **Accept the cleaning result.** Compare the dry surface with the cleaning trial and revisit the original stains. Agree whether further treatment is needed before sealing. If a mark or white film is unexplained, pause for assessment; appearance alone does not identify its cause, and sealing is not a stain-removal step.
+2. **Review the joints and repairs.** Have the contractor confirm any required replenishment is complete. Point out visible gaps, loose surface sand, or pavers that still rock. Resolve those items before proceeding.
+3. **Confirm readiness beyond appearance.** Ask the contractor to check surface and joint moisture, required product curing, and the weather window against the manufacturer's instructions. Looking dry alone does not establish readiness.
+4. **Approve the sample.** Review the proposed sealer's color and sheen, compatibility, and wet-surface performance information. If the sample is unacceptable or compatibility remains unresolved, defer sealing and reconsider the product or stop after cleaning and necessary joint work.
+
+If any checkpoint fails, agree on the correction and repeat that check before approving sealing.
 
 ## Make the written scope specific
 
