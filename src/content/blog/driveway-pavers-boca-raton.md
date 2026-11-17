@@ -1,78 +1,74 @@
 ---
-title: "Driveway Pavers in Boca Raton: Two Rulebooks, Not One"
-seoTitle: "Driveway Pavers Boca Raton FL | Pavers of Palm Beach"
-description: "Planning driveway pavers in Boca Raton? Understand city driveway standards, HOA review limits under Florida law, and how to prepare both approval packages."
+title: "Driveway Paver Installation in Boca Raton: Plan the Scope"
+seoTitle: "Driveway Paver Installation in Boca Raton | Scope Guide"
+description: "Plan driveway paver installation in Boca Raton: decide what stays, check levels and approvals, and compare quotes with the same replacement boundaries."
 slug: "driveway-pavers-boca-raton"
 pubDate: 2026-09-21
 heroImage: "/images/driveway-pavers-boca-raton.jpg"
 draft: false
 ---
 
-Driveway pavers in Boca Raton can require approval from both the city and your homeowners' association. Each looks at a different part of the job. The city handles the street connection and public right-of-way; the HOA or architectural review board considers the design under its authorized standards. Florida law sets boundaries for that review. The practical starting point is your property: which association governs it, and who controls the road outside?
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
 
-Our [driveway pavers installation in Boca Raton](/services/driveways/boca-raton/) brings those requirements into the same project plan before you commit to a color or order the pavers.
+Driveway paver installation in Boca Raton starts with deciding what to remove and what can stay. Full replacement deserves consideration when correcting support or finished levels requires work across the driveway. Keeping sound sections may be reasonable when their condition, elevations and connections fit the proposed installation. Have those decisions assessed and written into the scope before choosing a finish or comparing prices.
 
-## Start where the old driveway meets the street
+An assessment for [driveway paver installation in Boca Raton](/services/driveways/boca-raton/) should connect the demolition boundary, the street connection and the water route in one plan. The goal is a driveway that works with the surfaces around it.
 
-An original 1970s driveway in East Boca can tell its story before you reach the front door. A crack runs down the center, collecting dark grit. Near the sidewalk, your shoe catches a raised edge. You look back at the house and imagine a clean surface running up to the garage, with a border that picks up the roof color. Beneath that picture is a practical question: how will the new driveway meet the sidewalk that stays?
+## Choose what stays before selecting pavers
 
-That junction belongs on the drawing.
+Full replacement means removing the existing driveway surface throughout the agreed footprint. The proposal must separately describe what happens to the base beneath it. Ask for this option when deterioration extends across the driveway, the layout will change, or retaining sections would prevent the proposed levels from working. The assessment should explain which conditions justify that scope.
 
-In our local work, the paperwork changes from street to street. Many East Boca streets sit outside an HOA, while gated clubs conduct architectural review. Your own property's status determines where the plans go. A neighbor's driveway can help you picture a finish; the documents governing your home establish what the board may ask for.
+Keeping part of an existing driveway is a different option. Identify the exact section to remain and how its edge will connect to the new work. Discuss whether the junction needs reconstruction, how the retained area will be protected during demolition, and whether the difference between old and new finishes is acceptable. A border can define that junction visually; it does not resolve a level or support problem.
 
-For an owner still choosing a material, our [pavers versus poured concrete comparison](/blog/pavers-vs-concrete-south-florida/) covers that decision. Choosing pavers leads to the next conversation: the layout the city will consider and the appearance you want the board to see.
+Keeping an adjacent surface and reusing the base beneath new pavers are also separate decisions. Any proposed base reuse needs its own assessment. Ask which assumptions can be checked before removal and which depend on exposing the underlying material.
 
-## What each reviewer decides
+If you are still deciding between surface systems, our [pavers versus poured concrete comparison](/blog/pavers-vs-concrete-south-florida/) explains the material choice. For either option, compare the same footprint and the same treatment of adjoining surfaces.
 
-The city's [Driveway Design Affidavit](https://www.myboca.us/DocumentCenter/View/400/Driveway-Design-Standards-Affidavit-PDF-) sets out the street-facing rules. Association review operates within [Florida Statutes 720.3035, Architectural control covenants; parcel owner improvements; rights and privileges](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0720/Sections/0720.3035.html). For single-family and duplex homes, the distinction looks like this:
+## Measure the connections and trace the water
 
-| City review | Association review |
-| --- | --- |
-| Street and sidewalk connection: Figure R-16.0, Paver Block Driveways, and Figure R-9.0, Sidewalk Construction | Color and laying pattern: within the covenants and authorized published standards |
-| Width at the property line: minimum 12 feet, maximum 24 feet | Borders and layout: community design standards, alongside city dimensions |
-| Entrances: maximum 2 to any 1 street, at least 20 feet between edges along the property line; maximum 3 for corner or multiple-frontage plots, or frontage over 200 linear feet on a single street | Size and location: within the authority granted by the governing documents |
-| Intersection spacing: at least 25 feet from a street or alley intersection | Drawing for review: proposed work shown as the community's guidelines specify |
-| Public right-of-way: prohibition on slag, rock, pea rock and other loose construction materials | Sample and submission contents: as called for by the community's standards |
-| City permit process: its own application and supporting documents | Parallel applications under 720.3035(1)(c): an issued government building permit cannot be a condition of the association's own review |
+A site visit should produce more than an area measurement. Walk the boundaries with the installer and mark the conditions that could change the work.
 
-## The sample on the boardroom table
+**Finished levels:** Identify the garage entrance, sidewalk, street edge and any retained walk or parking area. Ask how the proposed surface will meet each one. If keeping a section constrains the available levels, have the installer explain whether the design can accommodate it or the replacement boundary needs to move.
 
-Imagine carrying a warm gray paver into the meeting room, wrapped in a towel to protect the car seat. Under the overhead lamps it looks flat and cool. Beside the house wall at four in the afternoon, the same piece picks up a sandy warmth. The pale edges become easier to see, and the color sits differently against the stucco. Bringing the physical sample gives the board something tangible to consider alongside the drawing.
+**Water movement:** Point out where water collects and where roof runoff reaches the driveway. Photos taken after rain can help identify concerns for investigation. Ask where water is intended to go after installation and whether retained edges interrupt that route. Record any proposed drainage work separately so it is visible in the price.
 
-The color conversation still needs a written rule behind it.
+**Support and access:** Flag settlement, loose edges and areas disturbed by previous utility work. Ask how these will be investigated. Identify the demolition route, equipment access and material storage area, including protection for surfaces that stay.
 
-Section 720.3035(1)(a) limits review authority to what the declaration and its authorized published standards specifically state or reasonably imply. It also requires reasonable, equitable enforcement across parcel owners. This gives the discussion a useful focus: the proposed finish and the particular provision that governs it.
+CMHA's [Construction of Interlocking Concrete Pavements, PAV-TEC-002](https://www.cmha.org/resource/pav-tec-002/) describes soil and base compaction, edge restraints and bedding as parts of concrete pavers installation. It cautions against using bedding sand to compensate for an uneven base. Ask how the proposed assembly fits the site's soil, vehicle use and drainage conditions.
 
-Under subsection (2), where the authorized documents offer options for materials, size, design or location, the association cannot restrict the owner's choice among those options. A denial under (4)(a) must arrive in writing, identifying the rule or covenant and the specific part of the proposal that fails to conform.
+Request a site review through our [driveway pavers installation service](/services/driveways/). Bring your survey, drainage photos and a sketch of areas you hope to keep. Use the visit to establish replacement boundaries and identify unresolved conditions for the written estimate.
 
-The statute does not guarantee approval of a proposed paver driveway. City standards remain in force, and construction begins once the necessary permissions are in place.
+## Confirm the road jurisdiction and sidewalk boundary
 
-## The city package starts with the road outside
+Boca Raton's [Driveway Design Affidavit](https://www.myboca.us/DocumentCenter/View/400/Driveway-Design-Standards-Affidavit-PDF-) asks applicants to confirm that the adjacent roadway is under city jurisdiction. It also asks whether sidewalk replacement is included. These are separate checks for the proposed work.
 
-The affidavit calls for establishing whether the adjacent roadway is under city jurisdiction. That answer determines whose standards apply to the connection. It is worth settling while the layout is still on paper, with the street edge and property line visible on the survey.
+Confirm the authority responsible for the road connection before settling the approval route. Then show the sidewalk boundary explicitly: what remains, what is proposed for replacement, and where the driveway meets it. Have the applicable requirements confirmed for that property. A driveway replacement quote should not leave sidewalk work implied.
 
-The contractor or owner signs the affidavit before a notary and initials each item to acknowledge the listed requirements. A deviation goes to the City Civil Engineer, who may grant it based on mitigating circumstances and must document it in writing.
+The city's [Permit Submittal Checklist - Driveway/Sidewalk](https://www.myboca.us/DocumentCenter/View/245/Driveway-andor-Sidewalk-PDF-) lists a contract and survey/site plan among the required documents. Coordinate their scope descriptions and confirm the current submission requirements with the city for the proposed project.
 
-The city's [Permit Submittal Checklist - Driveway/Sidewalk](https://www.myboca.us/DocumentCenter/View/245/Driveway-andor-Sidewalk-PDF-) lists the Submittal Form and Engineering Application, together with the Authorized Agent Form and driveway affidavit. The contract and survey/site plan accompany them. Contractors must have current city registration to pull permits. For the homeowner, this is the point where a sketch of an attractive entrance becomes a specific proposal that can go through city review.
+If an association is involved, ask: Who prepares and submits the application? Which drawings, finish samples or other documents are requested? Who answers review comments, and who confirms the approved version before materials are ordered? Use that community's instructions to assign responsibilities.
 
-There is a financial paperwork step as well. The checklist requires a certified Notice of Commencement for building permits valued above $5,000. Its deposit wording specifies 1% of contract value upfront, with a $100 minimum for the first $500; the remaining balance is due at issuance. That payment belongs in the permit portion of the budget, alongside the separate cost of the driveway work.
+## Compare quotes against one marked plan
 
-To put your proposed replacement on paper, contact our [driveway pavers installation team](/services/driveways/). We will review the existing driveway on site and identify the city documents and association submission needed for the work you have in mind.
+Give each installer the same marked plan and ask for differences to be identified in writing. A total price is difficult to interpret when one proposal replaces the full entrance and another stops at the sidewalk or keeps an existing parking section.
 
-## From the drawing to the driveway
+Check these items together:
 
-The edge that caught your shoe deserves attention before the first pallet arrives. A finished surface has to meet the sidewalk at the planned level and carry water along the intended route. That takes measurements at the existing surfaces and a construction plan that carries those levels through the job.
+- **Removal and retained areas:** The measured replacement footprint, demolition limits, disposal, and protection of surfaces that remain. Identify sidewalk and street connection work separately.
+- **Underlying work:** What will be removed, retained or rebuilt below the surface; the proposed materials and compaction work; and how concealed conditions will be assessed.
+- **Finished installation:** The selected pavers, laying pattern, borders, edge restraints, joint material and treatment of transitions. Ask for product suitability for the intended vehicle use.
+- **Water and adjoining repairs:** Any drainage changes, adjustments at existing structures, and restoration of landscaping or irrigation disturbed by the work.
+- **Project responsibilities:** Preparation and submission of approval documents, applicable charges, site access arrangements, cleanup and the proposed sequence for returning the driveway to use.
 
-For the base, [CMHA's Construction of Interlocking Concrete Pavements, PAV-TEC-002](https://www.cmha.org/resource/pav-tec-002/) recommends at least 6 inches of compacted base for residential driveways on well-drained soils. This is the supporting layer beneath the pavers. The same guidance calls for residential driveway bases to reach at least 98% of standard Proctor density and gives a minimum slope of 1.5%. The city's applicable driveway and sidewalk details govern the street connection, so the installer needs to work through those requirements alongside the general CMHA guidance.
+Ask for uncertain work to be identified as an allowance or exclusion, with a written method for documenting findings, pricing changes and obtaining your agreement. Do not let an unresolved base condition disappear inside a general phrase such as "complete installation."
 
-Then there is the delivery truck.
+Where full replacement and partial retention both remain viable, request separate options against the same plan. Compare the work each includes, the connections each leaves in place and the conditions still awaiting investigation. A lower total may reflect a smaller scope; an expanded scope should have a clear reason.
 
-Picture shrink-wrapped pallets on the truck bed and a narrow street with little room beside the lawn. The driver needs a place to stop and unload. Meanwhile, pieces of the old slab are coming out through the driveway opening. A stack of pavers in that opening would block the haul-out route; setting it farther inside the yard could put it directly over the next area to be excavated. The delivery plan needs a clear unloading spot and somewhere for the pallets to wait while that route stays open. Settling this with the crew beforehand keeps the work area usable as the old surface comes out.
+## Coordinate adjoining areas before ordering
 
-## Bring the adjoining work into the conversation
+If the project includes a patio, our [patio pavers installation in Boca Raton](/services/patios/boca-raton/) can be part of the planning discussion. Specify its boundaries and intended use separately, even when finishes are coordinated. Confirm which approval documents need to show the combined work.
 
-Owners replacing a driveway and patio often want a coordinated package for the board's review. Our [patio pavers installation in Boca Raton](/services/patios/boca-raton/) can be planned alongside the entrance, with the proposed finishes shown together. The city determines the permits needed for the combined scope.
+For a front walk or other connected outdoor area, our [Boca Raton hardscape services](/service-areas/boca-raton/) help identify the relevant service. Decide whether that area belongs in the current scope or will remain for a later project, and show how the driveway will meet it.
 
-If the work extends to the front walk or pool deck, our [Boca Raton hardscape services](/service-areas/boca-raton/) show the other options available locally. Including those areas in the discussion early helps the drawings reflect the whole job.
+To plan your [driveway paver installation in Boca Raton](/services/driveways/boca-raton/), request an on-site assessment with our team. We will review the existing driveway and discuss the proposed work for a written estimate. Bring your preferred replacement boundaries and approval information so the conversation can address what stays, what changes and what needs further confirmation.
 
-For your replacement, [plan a Boca Raton driveway pavers installation](/services/driveways/boca-raton/) with our team. During the on-site review, we will walk the driveway with you, examine the existing levels and discuss the finish against the house. We will identify what goes to the city and what the association needs to see. You will receive a written scope and estimate describing the proposed work, giving you something concrete to consider before committing to the replacement.
