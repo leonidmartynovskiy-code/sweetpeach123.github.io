@@ -10,74 +10,68 @@ draft: false
 
 *AI illustration: an oil-like mark, not a diagnosis or completed project.*
 
-Before sealing concrete pavers with a suspected oil stain, establish what caused the mark, whether it is recurring and what coating or cleaners are already on the surface. A dark patch alone does not identify oil. Have a professional assess an appropriate treatment and small test area, then agree how any remaining shadow will be handled. Correct an ongoing leak through the appropriate professional first. Sealing belongs later, as a separate protection and finish decision; it will not erase the stain or make the driveway oilproof.
+Before treating oil stains on pavers, establish the material, any existing coating and what actually spilled. On confirmed concrete pavers, a small, known fresh oil spill calls for prompt absorption of excess oil. An old shadow of unknown origin needs assessment before choosing a cleaner. A dark patch alone does not identify oil. Correct a recurring leak through the appropriate professional, evaluate any stain treatment, and decide on sealing separately. Sealer will not erase the stain or make the driveway oilproof.
 
-For [paver cleaning and sealing in Wellington](/services/clean-seal/wellington/), the starting point is the condition of your existing driveway and its stain history. Those details help define what the assessment needs to resolve.
+For [paver cleaning and sealing in Wellington](/services/clean-seal/wellington/), those distinctions determine whether the visit starts with assessing a known spill, investigating an unexplained mark or reviewing an old coating.
 
-## Build a stain history before choosing treatment
+## Start with the material, old coating and spill identity
 
-Describe what you know without turning a suspicion into a diagnosis. A mark beneath a parked vehicle or beside a barbecue gives the contractor a possible source to investigate. Neither location proves that the discoloration is oil. Rust, organic staining and moisture-related darkening need their own assessment.
+Confirm that the affected units are concrete pavers using installation records or help from the supplier or contractor. This guide covers concrete only. Do not transfer its treatment discussion to natural stone or clay pavers, or identify the material from a photograph alone. An adjoining border may also need separate identification.
 
-Prepare a short record:
+Next, find any sealer name, application record and previous cleaner information. A dull surface does not establish that it is unsealed. If the coating is unknown, record that uncertainty for professional assessment before selecting chemical treatment. Coating compatibility and stain removal are related questions, but a product that addresses one may create a problem with the other.
 
-- **First appearance:** when you noticed the mark, whether it followed a known spill and whether older photographs show it.
-- **Recurrence:** whether it has stayed similar, spread or returned after an earlier cleaning attempt.
-- **Previous products:** cleaner names, coating records and any information about the spilled substance, including whether an oil was synthetic.
-- **Current condition:** nearby chips, loose units or coating changes that deserve attention independently of the stain.
+Finally, separate a witnessed spill with a known substance from a mark discovered later. Keep the oil container information if available, including whether it is synthetic. A patch beneath a vehicle or beside a barbecue suggests a possible source; neither location establishes the substance or its age.
 
-Photograph the dry surface close up and from farther away, keeping the same camera position and similar light for later comparisons. Include enough of the driveway to locate the patch. Tell the contractor about unsuccessful attempts as well as apparent improvements; a missing product name should remain an explicit unknown.
+## Known fresh oil: collect the excess promptly
 
-## Address a recurring source first
+CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/) describes taking up excess oil with rags and covering the affected area with an oil absorbent. This concrete-paver guidance does not identify an unknown liquid or guarantee that an old stain will disappear.
 
-If a vehicle or other equipment is still leaking, arrange correction by the appropriate professional before expecting a lasting improvement in the driveway's appearance. Surface work cannot stop the source. Keep the repair record separate from the paver treatment proposal so each provider's responsibility is clear.
+For a small, known fresh oil spill that is safe for you to handle, a cautious first response is to absorb free oil promptly with a rag without wiping it across more pavers, then apply a suitable oil absorbent. Follow the handling and disposal directions for the oil and absorbent. If the substance or safe handling is uncertain, leave the response to an appropriate professional.
 
-A useful assessment distinguishes an old, stable mark from repeated deposits. Explain what has changed since the last attempt: a repaired leak, a different parking position or another known spill. If the source remains uncertain, ask the contractor what can reasonably be assessed now and which treatment decisions should wait.
+Collecting excess oil is an immediate housekeeping step, not proof that embedded oil has been removed. Record what spilled and what you used. Any remaining mark still needs assessment before further treatment or sealing; avoid turning the initial response into experiments with successive cleaners.
 
-## Match the product to the actual surface and stain
+## Old or unknown shadow: document before treatment
 
-One product's label illustrates why a generic request for a degreaser is insufficient. The [Gator XP Oil & Grease Remover application instructions](https://alliancegator.com/gator-paver-and-stone-cleaners/gator-xp-oil-and-grease-remover/) warn that it can damage an existing seal and require testing on sealed surfaces. They also advise against this product for synthetic oil stains and say earlier cleaners can reduce its effectiveness. These are limitations of that named product, not every oil remover. This example is neither a recommendation nor a statement that our company uses it.
+If no fresh liquid remains and you cannot identify the original spill, start with a stain history. Describe when you first noticed the mark, whether older photographs show it and whether it changed after rain, parking or a previous cleaning attempt. Those are observations for the contractor, not a diagnosis of oil, moisture, rust or another cause.
 
-Give the professional your concrete-paver and coating records before a treatment is selected. Ask how an unknown old sealer affects the assessment and whether coating work would need separate authorization. A proposal that simply lists stain removal leaves those decisions unresolved.
+Photograph the dry surface close up and from farther away, including enough of the driveway to locate the patch. Keep the camera position and light similar for later comparisons. Record unsuccessful cleaning attempts as well as apparent improvements; an unknown product name should remain an explicit unknown.
 
-## Use a small test to set a realistic target
+If equipment is still leaking, arrange correction by the appropriate professional before expecting a lasting appearance improvement. Surface work cannot stop the source. Explain whether the leak was repaired or another spill occurred after the last cleaning. An old, stable mark and repeated deposits require different assessment questions even when they occupy the same place.
 
-CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/) calls for identifying stains before cleaner selection and evaluating treatment in a discreet stained area. It notes that deeply embedded oil may require further applications. Its sequence puts localized stain work ahead of overall cleaning and preparation for sealing; difficult small areas may instead warrant replacement.
+## Product restrictions can change the treatment choice
 
-Have the professional choose a small evaluation area suited to the actual concrete, stain and old coating. Agree on its location and the decision it will inform before work begins. Record the proposed treatment so the review refers to a known intervention.
+The [Gator XP Oil & Grease Remover application instructions](https://alliancegator.com/gator-paver-and-stone-cleaners/gator-xp-oil-and-grease-remover/) warn that this product may damage an existing seal and require a test on sealed surfaces. They advise against using it for synthetic oil stains and say prior cleaners may inhibit performance. These limitations belong to that specific product. They are neither universal rules for oil removers nor a recommendation or statement that our company uses it.
 
-Inspect the result together when the professional says it is ready for assessment under the selected product's guidance. Compare it with your dry baseline photographs, then look from the distance at which you normally see the driveway. Discuss both the remaining shadow and the surrounding surface. An improvement visible close up may still fall short of your entrance's appearance goals.
+This is why the professional needs the coating and spill records before choosing treatment. An unknown oil or sealer is a reason to resolve suitability, not simply select a stronger cleaner. Any proposed coating removal deserves a separate explanation and authorization.
 
-Request a photo review and site assessment through our [paver cleaning and sealing service](/services/clean-seal/). Share the stain history and product records so the consultation can identify unresolved questions, a suitable evaluation area and the work that needs its own scope.
+## Use a professional test to define an acceptable result
 
-## Choose the next step before expanding the work
+CMHA calls for identifying stains before cleaner selection and evaluating treatment in a small, inconspicuous stained area. Have the professional choose a location that answers the actual question: how the proposed treatment affects this stain, these concrete pavers and any old coating. An unstained spare unit cannot show how the mark will respond.
 
-Use the evaluation to choose among clearly described outcomes:
+Agree on the treatment, test boundary and review point before work begins. The contractor selects and applies the treatment and determines when the area is ready for assessment under the selected product's guidance. The homeowner supplies the history and judges the acceptable appearance. These responsibilities should remain distinct.
 
-- **Accept the improvement:** record the remaining mark you are willing to live with, including its location and appearance.
-- **Consider further treatment:** ask what the additional work aims to change and how you will approve it. Do not authorize an undefined series of attempts.
-- **Assess localized replacement:** review available units and the proposed repair boundary before deciding whether that visual tradeoff is worthwhile.
+Compare the dry result with your baseline photographs and inspect it from the distance at which you normally see the driveway. Look at the remaining shadow and any change to the surrounding color, texture or coating. Ask the professional to assess unexpected changes before extending treatment. A wet after-photo cannot establish the dry result.
 
-Replacement units are not guaranteed to match weathered pavers. Compare an actual candidate beside the existing surface and discuss what happens if the original color or shape is unavailable. A darker shadow and a visibly different replacement are separate appearance choices.
+Request a photo review and site assessment through our [paver cleaning and sealing service](/services/clean-seal/). Share the stain history and coating records so the consultation can identify unresolved questions and propose a suitable evaluation area before you authorize broader work.
 
-If inspection also reveals widespread damage or a driveway that needs broader renewal, [driveway pavers installation in Wellington](/services/driveways/wellington/) becomes a relevant alternative to evaluate. Ask for the condition findings behind that recommendation. One isolated stain alone is not a reason to replace an otherwise serviceable driveway.
+## Choose between improvement, further treatment and replacement
 
-## Ask for a proposal with separate work items
+The test should lead to a decision. If the improvement meets your appearance goals, record the remaining mark you accept. Appearance acceptance does not establish that contamination is removed or that the surface is ready for a coating; the professional still needs to resolve those preparation questions.
 
-The written assessment should distinguish what is known, what the test established and what remains conditional. Compare proposals against the same photographs and included area, using separate entries for:
+If the result falls short, ask what another treatment aims to change and what would make the contractor stop. Deeply embedded oil can require further applications, as CMHA notes, but that does not justify an undefined series of attempts or a promise of complete removal.
 
-- **Localized stain work:** identified locations, proposed treatment, expected improvement and approval of any further attempts.
-- **Overall cleaning and joints:** the driveway area included and the joint work actually needed, with repairs identified separately.
-- **Existing coating:** what is known about it and any separately scoped assessment, removal or corrective work.
-- **Possible sealing:** the compatible product proposed, preparation requirements and who confirms readiness under its instructions.
+Localized replacement may be worth assessing for a difficult small area. Compare an actual candidate beside the existing pavers and review the repair boundary. Replacement units may differ from weathered ones; discuss unavailable colors or shapes before approving that visual tradeoff.
 
-Include a review point before sealing proceeds. Specify who discusses unexpected findings with you and how changes are approved. This makes the estimate useful even if the test leads to a smaller maintenance job or a separate repair proposal.
+If inspection also reveals widespread damage requiring broader renewal, [driveway pavers installation in Wellington](/services/driveways/wellington/) becomes a relevant alternative. Ask for the condition findings behind that recommendation. One isolated stain alone is not a reason to replace an otherwise serviceable driveway.
 
-## Keep stain treatment identifiable in the estimate
+## Put the agreed work in one written scope
 
-Identify cleaning, joint work and any sealing separately in your proposal. Your stain proposal also needs its own assessment, treatment expectations and acceptance criteria; a general maintenance description does not establish an oil-removal treatment or result.
+Use the same photographs and included area when comparing proposals. Identify localized stain treatment separately from overall cleaning, joint work and any repairs. Record the test outcome, the expected improvement and how additional attempts would be approved. Old-coating assessment or removal should have its own scope if required.
 
-## Make the finish decision after the stain assessment
+Keep possible sealing conditional on preparation and suitability. Include a review point before it proceeds, with someone responsible for discussing unexpected findings and obtaining approval for changes. This makes the estimate useful whether the assessment leads to cleaning only, further stain treatment or replacement of selected units.
 
-Keep stain acceptance and finish approval as separate decisions. If a shadow remains unacceptable, do not ask a darker or glossier sealer to hide it. Our [guide to approving a paver sealer finish test](/blog/paver-sealer-finish-test/) explains how to review the proposed appearance on your own surface once preparation and compatibility have been addressed.
+## Approve sealing separately
 
-Request a written assessment through [paver cleaning and sealing in Wellington](/services/clean-seal/wellington/). Ask us to review the photos and site, separate stain treatment from overall cleaning and joints, and identify whether any later sealing is appropriate. Bring your appearance priorities so the proposal records both the work and the limits of the expected result.
+Once stain treatment has been assessed, decide whether sealing is appropriate and whether the proposed finish meets your preferences. Do not ask a darker or glossier sealer to conceal an unacceptable shadow. Our [guide to approving a paver sealer finish test](/blog/paver-sealer-finish-test/) explains how to review the prepared surface's proposed appearance. Finish approval does not replace compatibility checks or the selected product's preparation requirements.
+
+Request a written assessment through [paver cleaning and sealing in Wellington](/services/clean-seal/wellington/). Tell us whether you witnessed a fresh spill or discovered an older mark, and bring the material and coating records you have. The site review can then define the treatment test, appearance expectations and separate work items before any later sealing decision.
