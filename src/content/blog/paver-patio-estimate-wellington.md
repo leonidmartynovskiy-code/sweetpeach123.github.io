@@ -1,81 +1,74 @@
 ---
-title: "Paver Patio Estimates in Wellington: Compare the Scope"
-seoTitle: "Wellington Paver Patio Estimates: Compare the Scope"
-description: "Compare Wellington paver patio estimates by the work included: measured area, removal, drainage, access, materials, approvals and a clear written proposal."
+title: "Patio Pavers in Wellington: Compare Installation Estimates"
+seoTitle: "Patio Pavers in Wellington: Compare Installation Estimates"
+description: "Compare patio pavers estimates in Wellington using measured scope, allowances, drainage checks and permit responsibilities before choosing an installer."
 slug: "paver-patio-estimate-wellington"
 pubDate: 2026-09-30
 heroImage: "/images/paver-patio-estimate-wellington.jpg"
 draft: false
 ---
 
-To compare paver patio estimates in Wellington, first make sure each contractor is pricing the same finished project. Match the measured boundary, removals, materials, drainage work and restoration before judging the total. A shorter estimate can leave decisions and work outside the number you are comparing.
+To compare installation estimates for patio pavers in Wellington, ask both contractors to price the same measured layout, materials, preparation and drainage work. Record what each includes, excludes or leaves provisional before comparing totals. A reliable project price is unavailable without a measured scope and site assessment: area alone cannot establish removal, access or below-surface work. A lower total may simply leave more work outside the proposal.
 
-For [patio pavers installation in Wellington](/services/patios/wellington/), a useful proposal explains what will be built, what stays and who handles approvals. You can then judge the investment by the complete job, including the work you will no longer see once the pavers are installed.
+For [patio pavers installation in Wellington](/services/patios/wellington/), the useful result is a written scope that connects your layout to the work needed to build it. Here is how to make two estimates comparable before committing.
 
 *Hero image: AI-generated illustration of a proposed patio footprint marked on a lawn, not a completed company project.*
 
-## Give both contractors the same boundary
+## Build one comparison sheet for both estimates
 
-Two estimates can list the same area and still describe different patios. One might include the border and a connection to the back door; the other might stop at the main rectangle. Use a marked photograph or sketch with the measured boundary, then have each contractor identify exactly what their measurement includes.
+Use the same marked sketch or photograph for both site visits. Walk the outline with chairs pulled out and the route from the back door clear. Settle the usable layout before requesting final prices.
 
-Walk that outline with your furniture arrangement in mind. Allow for chairs in use and the route from the house to the garden. Settle the outline before comparing proposals so a later layout change does not get mistaken for a difference in installation cost.
+Create a sheet with an entry for Contractor A and Contractor B under each item below. Record the proposal date, page reference and whether the item is included, excluded, provisional or unanswered. Do not treat an unanswered item as included or assign it a zero cost.
 
-A replacement also needs a clear removal boundary. Which existing surface comes out? Does the proposal include demolition, loading, haul-off and disposal? For a new area in the lawn, identify the turf and planting that will be removed. Neither job description should rely on the phrase "site preparation" to explain all of that work.
+1. **Measured boundaries.** Record finished area, border width and connecting sections. Identify what stays outside the work. Ask both contractors to confirm whether their area includes borders and connections so you are comparing the same footprint.
+2. **Removal and disposal.** Mark the existing surface, turf and planting to be removed. List demolition, excavation, loading, haul-off and disposal separately enough to identify any exclusion. State whether existing base material will be assessed for reuse or removed.
+3. **Surface specification.** Name the product, size, thickness, color and finish, plus pattern, border and cut treatment. Mark unresolved selections as allowances with a stated basis. Include delivery and material handling in the comparison.
+4. **Construction and drainage.** Identify soil preparation, base, bedding, edge restraints and joint material. Record the proposed water route, any drain components and their destination. Flag investigations that must happen before these items can be priced firmly.
+5. **Access and restoration.** Mark the unloading route and gate restrictions. Assign protection or temporary removal of fences and other obstacles, then restoration of disturbed grass, irrigation and access areas. Include cleanup and debris removal.
+6. **Documents and completion.** Identify who confirms permit requirements, prepares necessary plans, submits applications and handles corrections. Record included professional services and fees, then the walkthrough, required inspections and records needed for completion.
 
-## Look below the product name
+Return gaps to each contractor for a written revision. Compare revised totals only after the descriptions cover equivalent work; keep optional additions separate.
 
-CMHA's [Guide Specification for the Construction of Interlocking Concrete Pavement](https://www.masonryandhardscapes.org/resource/pav-tec-009/) separates concrete pavers, bedding and joint sand, and edge restraints from related work such as aggregate base and drains. It also provides fields for the product, color and finish. This is an editable guide for project specifications, not a mandatory local patio standard. Its organization shows why matching surface area alone cannot establish that two proposals cover the same installation.
+## Compare what will support the pavers
 
-For your comparison, record the selected product and the pattern, border and cut-edge treatment. A description such as "gray pavers" leaves too much open. If selection is pending, identify the product assumed in the estimate and what happens when you choose something different.
+CMHA's [Construction of Interlocking Concrete Pavements](https://www.cmha.org/resource/pav-tec-002/) treats soil compaction, aggregate base, bedding sand and edge restraints as distinct construction stages. For patios over well-drained soils, it gives a minimum aggregate base thickness of 4 inches after compaction. This guidance concerns interlocking concrete pavers. It is not a local permit specification or a design for every material and soil condition.
 
-## Follow the water and the delivery route
+Ask each installer to specify the proposed layers and compacted base thickness for your site. A description of material delivered does not establish the thickness left after compaction. The document also cautions against using bedding sand to compensate for an uneven base.
 
-At the back door, discuss where the finished patio will sit relative to the threshold and adjoining surfaces. Have the contractor explain the intended water route and name its receiving area or outlet. "Improve drainage" leaves you unable to tell whether the proposal includes grading, a drain, a connection or only a conversation about the problem.
+Specify bedding sand beneath the pavers separately from joint sand between them. In [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/), CMHA describes liquid and dry products that stabilize joint sand. Stabilization is generally optional and does not increase structural capacity. Ask whether it is included or an option, which product is proposed and which application work is priced. A joint treatment does not replace a specified base and bedding system.
 
-Existing trouble spots deserve attention during the visit. Show where water collects and share photographs from wet weather if you have them. The written proposal should distinguish the work included from conditions that still need investigation. A drain should have a defined destination; the presence of a grate alone does not explain the complete drainage work.
+Agree on how the contractor will verify the specified work and record conditions before covering it. Photos can document locations and exposed layers, but cannot establish compaction by themselves. Request any inspection or test records required by the project's specifications.
 
-Access belongs in this discussion too. Walk the route from unloading to the backyard, including the narrow gate and anything that may need temporary removal. Record who restores disturbed grass, reconnects affected irrigation and reinstalls a fence section. Otherwise, the patio may be finished while those parts of your yard remain your responsibility.
+## Accept drainage and hidden work separately
 
-## Assign design and approval responsibilities
+During the visit, show existing wet areas and any photographs you have. Ask where the finished surface will sit relative to door thresholds and adjoining surfaces, and where water will go. A grate without an identified outlet leaves the drainage scope incomplete.
 
-The Village's [Permit & Plat Checklist](https://www.wellingtonfl.gov/747/Permit-Plat-Checklist) places drainage improvements and connections to Village right-of-way under its Engineering (General Site Work) route. Connections to an ACME Improvement District facility require a public works permit instead. The checklist also calls for existing and proposed elevations and flow arrows on plans when applicable. These distinctions do not mean every patio requires engineering review or every property connects to ACME. The Village determines the applicable route for the proposed work.
+Before signing, agree on review points before drainage trenches or base work are covered. Name who checks the work, what measurements or records are retained and how unresolved conditions are handled. These are proposed contract checkpoints, not a claim that every patio has the same inspection requirements.
 
-Use that distinction to clarify who confirms requirements, prepares any needed drawings, submits applications and responds to review comments. Identify documents the owner must supply and professional services included or excluded. A site measurement for an estimate should not be presented as a boundary survey.
+At completion, review drainage against its agreed layout and components separately from the color, pattern and finish. Ask the responsible contractor or design professional to explain the applicable performance checks and limitations. An attractive surface or a brief water demonstration cannot establish performance under every future condition. Owner acceptance does not replace required professional checks or municipal inspections.
 
-HOA status varies locally, and the presence of equestrian estates says little about the rules for your address. Confirm whether association review applies to your property. The proposal should assign the owner's and contractor's tasks rather than leave both expecting the other to obtain approval.
+Bring your comparison sheet and proposed layout to a [patio installation consultation](/services/patios/) with Pavers of Palm Beach. During a site visit, we can measure the space and review removals, access and drainage. Ask for the remaining uncertainties and included work to be identified in the written proposal.
 
-## Five gaps to resolve before choosing
+## Make allowances and changes traceable
 
-Ask each contractor to add these answers to the written proposal. Verbal explanations are easy to lose when you compare the documents later.
+An allowance is a provisional budget for an item that has not been finalized. Ask what it covers: material alone, or also delivery, installation and related work. Record the assumed product or quantity, how actual selections are reconciled and how credits or additional charges are calculated.
 
-| If the estimate omits... | Ask... | What it changes in the scope |
-| --- | --- | --- |
-| A marked removal boundary | What gets removed, and are haul-off and disposal included? | Demolition and material handling. |
-| The drainage destination | Where will water go, and which components are included? | Grading, drains and connections. |
-| A defined product and edge detail | Which product, pattern, border and cut treatment are priced? | Materials and finishing work. |
-| Access and yard restoration | What gets moved, protected and restored along the work route? | Handling, grass, irrigation and fence work. |
-| Design and approval assignments | Who supplies documents, submits applications and handles revisions? | Owner tasks and contractor or professional services. |
+Distinguish a preliminary estimate from the proposal revised after inspection. If the visit changes the measured boundary, access method or preparation plan, ask for an updated scope and total with a revision date. Keep the earlier version so the changes remain visible.
 
-Bring your layout and these open questions to a [patio installation consultation](/services/patios/) with Pavers of Palm Beach. During the site visit, we can measure the proposed area and review removals, access and drainage together. The written proposal should show what is included and which decisions are still open, giving you a clear scope to compare.
+Hidden conditions can still emerge during excavation. Agree beforehand that the contractor will document the finding, explain the proposed response and state its effect on price and schedule. Name the person authorized to approve changes in writing before additional work proceeds. A broad exclusion for unforeseen conditions does not tell you how that decision will be made.
 
-## Separate the surface and drainage in the proposal
+## Assign responsibility for confirming approvals
 
-Ask for the patio boundary, adjoining surfaces and drainage work to be identified separately on your site plan. An attractive material photograph does not show what needs to happen beneath the surface or where water can go.
+For your Wellington property, identify who will ask the Village which, if any, approvals apply to the proposed work. Give that person the same layout, removal boundaries and drainage description used for the estimate. If your property has an HOA, identify who will ask whether association review applies and what information it would need.
 
-Use the [driveway and drainage planning questions](/portfolio/concrete-paver-and-drain/) to compare scope descriptions, then have the contractor explain which questions apply to your Wellington patio. The guide is not a completed project example.
+Record the answers and assign any follow-up tasks in writing. Ask each contractor: who obtains any needed documents, who handles questions or requested changes, and which professional services or fees are included or excluded? Identify what the owner must supply and how added work would be priced and authorized. Resolve open responsibilities before relying on the estimate's total.
 
-## Separate additions from the work you need
+## Keep additions visible through the final walkthrough
 
-A short connector can easily disappear between a patio drawing and an estimate. If [walkway pavers installation](/services/walkways/wellington/) is part of the plan, show where the connector starts and ends, its finish and its junction with the patio. Confirm whether it is included or listed as an option.
+If [walkway pavers installation](/services/walkways/wellington/) will connect the patio to another part of the yard, show its endpoints, finish and junction with the patio. Price it as included work or a separate option so it does not disappear between drawings and estimates.
 
-The same approach helps when considering [other pavers services in Wellington](/service-areas/wellington/), such as a seating wall or outdoor living feature. A separate description for each addition keeps optional enhancements distinct from the work required to complete the agreed patio.
+For projects combining a patio with seating walls or another outdoor feature, review the [pavers services available in Wellington](/service-areas/wellington/) to identify the related work to discuss. Give each addition its own scope and approval responsibility.
 
-Before signing, review allowances and exclusions together. An allowance needs to identify what it covers and how the final selection changes the proposal. For concealed or unforeseen conditions, agree on how the contractor documents the issue, explains the added work and any change to the total, and obtains your written approval before proceeding.
+Before signing, agree on final cleanup, outstanding-item resolution and the completion records you will receive. Retain product details, approved changes, care instructions and any written warranty terms with your project documents.
 
-The proposal should also cover cleanup, removal of leftover debris, a final walkthrough and any required completion records. Keep the final product details, approved changes and care information with your project documents. These make the finished work easier to understand and maintain.
-
-For a [Wellington patio consultation](/services/patios/wellington/), contact Pavers of Palm Beach with your preferred layout and the questions still open in your estimates. We will review the space during a site visit, take measurements and prepare a written proposal. Compare that scope with the other proposals before choosing a contractor.
-
-If a fixed kitchen may follow the patio, our [guide to patio planning for a future outdoor kitchen](/blog/patio-pavers-future-outdoor-kitchen/) explains which layout and work boundaries to settle first.
-
-For a patio beside existing cooling equipment, our [guide to air-conditioner access around patio pavers](/blog/patio-pavers-air-conditioner-access/) explains which work boundaries to review before approving the layout.
+Request a [Wellington patio installation estimate](/services/patios/wellington/) with your marked layout, photographs and unresolved comparison items. We will review the space during a site visit and prepare a written proposal. Use that scope to compare the complete installation, including the work that will be hidden beneath the finished patio.
