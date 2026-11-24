@@ -303,7 +303,7 @@ const jsonLd = [
           <button type="button" class="mat-x" data-mat-close aria-label="Close">&times;</button>
           <div class="mat-scroll">
             <div class="mat-ph ph" data-label={m.name}>
-              {m.info.img ? <img src={m.info.img} alt={m.name} /> : <i>{m.name}</i>}
+              {m.info.img ? <img src={m.info.img} alt={`AI-generated illustration: ${m.name}`} /> : <i>{m.name}</i>}
             </div>
             <div class="mat-body">
               <div class="eyebrow" style="color:var(--brass)">Material</div>

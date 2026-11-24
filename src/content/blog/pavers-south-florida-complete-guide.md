@@ -8,6 +8,8 @@ heroImage: "/images/pavers-south-florida-complete-guide.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 A well-built paver surface is one of the few home improvements that looks better in person than it does on paper, and one of the fewer still that keeps performing for decades in a climate as demanding as ours. If you are considering pavers for a driveway, a patio, or the deck around your pool, this guide is the place to start. It gathers everything a South Florida homeowner should understand before beginning, from choosing a material to caring for the finished surface, and points you toward deeper reading on each topic along the way.
 
 ## Why pavers make sense in South Florida

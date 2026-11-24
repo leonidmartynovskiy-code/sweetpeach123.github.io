@@ -8,6 +8,8 @@ heroImage: "/images/pool-deck-pavers-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 If you are choosing pool deck pavers in Broward or Palm Beach County, the decision is different here than almost anywhere else. Our sun is intense, our rain comes in sheets, and the surface around a pool lives in constant contact with salt or chlorine. A material that looks great in a national catalog can still cook your feet at noon or get slick when it is wet. This guide walks through how to pick pool deck pavers for South Florida conditions specifically, so you go into your project knowing what matters most.
 
 ## How to choose pool deck pavers for South Florida heat and slip

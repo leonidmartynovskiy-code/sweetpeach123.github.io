@@ -8,6 +8,8 @@ heroImage: "/images/travertine-vs-porcelain-pavers-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 Choose travertine for natural variation you have approved across several pieces. Choose porcelain for a manufactured design whose finish and repeated pattern you like in a larger layout. For a South Florida pool deck, either choice still depends on the exact outdoor product, its care requirements and the proposed installation. Neither material name establishes comfort in the sun or suitability when wet.
 
 A proposal for residential [pool deck installation in Palm Beach Gardens](/services/pool-decks/palm-beach-gardens/) should identify the products being compared and explain how each will meet the existing coping, doors and drains. Use those same questions wherever you are comparing pool-deck quotes in the region.

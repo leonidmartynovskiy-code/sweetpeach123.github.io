@@ -8,6 +8,8 @@ heroImage: "/images/best-paver-material-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 The best pavers for a South Florida home are the specific products that suit the intended use, site conditions and care you will accept. Start with the project: a driveway carries vehicles, a patio supports outdoor living, and a pool deck needs particular attention to wet conditions and barefoot comfort. Then compare identifiable products, their surface samples and the complete installation proposed for your property.
 
 Planning a residential pool project? Request a consultation for [pool deck installation in Palm Beach Gardens](/services/pool-decks/palm-beach-gardens/). Bring photos of the existing deck and any material ideas so we can discuss the space, retained features and options for a written estimate.

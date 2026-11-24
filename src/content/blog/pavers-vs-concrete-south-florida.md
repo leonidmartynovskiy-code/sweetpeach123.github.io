@@ -8,6 +8,8 @@ heroImage: "/images/pavers-vs-concrete-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 Pavers can be better than poured concrete in Florida when access beneath the surface and localized repairs matter most. A plain poured slab can suit a homeowner who prefers a more continuous appearance and fewer visible joints. Both need appropriate support and drainage. The better choice depends on the proposed construction, the maintenance you will accept and how future repairs would affect the finished space.
 
 For a Palm Beach County driveway, our [driveway pavers installation in Wellington](/services/driveways/wellington/) provides a starting point for discussing the pavers option. Compare that proposal with a poured-concrete provider's scope for the same footprint and intended use.

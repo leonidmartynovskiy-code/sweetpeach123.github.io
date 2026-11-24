@@ -8,6 +8,8 @@ heroImage: "/images/do-pavers-need-to-be-sealed-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 Sealing is one of the first questions homeowners ask after a new driveway or pool deck goes in. The short answer is no, pavers do not need to be sealed to function. A well-built paver surface will last for decades whether you seal it or not. Sealing is a choice about how the surface looks and how much upkeep you want to do, not a requirement for it to hold together. Here is what sealing actually does, when it is worth it, and when you can skip it.
 
 ## What sealing actually does

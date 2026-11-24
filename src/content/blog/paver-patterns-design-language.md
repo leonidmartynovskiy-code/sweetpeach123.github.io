@@ -8,6 +8,8 @@ heroImage: "/images/paver-patterns-design-language.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 A paved surface is never neutral. Long before color or material register, the eye reads the pattern: the direction the units run, the scale of the repeat, the crispness of the border. Paver patterns are a design language, and fluency in it is what separates a considered hardscape from a merely tiled one. The same clay or concrete unit can read as tailored and modern or relaxed and timeless depending entirely on how it is laid. This guide treats the main paver patterns as composition rather than catalog, and pairs each with the structural logic that decides where it belongs.
 
 ## The vocabulary: paver patterns at a glance

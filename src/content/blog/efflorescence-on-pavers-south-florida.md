@@ -8,6 +8,8 @@ heroImage: "/images/efflorescence-on-pavers-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 A few weeks after a beautiful new paver driveway is laid, a pale, chalky film sometimes drifts across the surface, most visible on the richest, darkest stones. To a homeowner who just invested in a premium hardscape, it can look like the job went wrong. It did not. That white haze is efflorescence on pavers, one of the most common and most misunderstood things a new concrete paver can do, and in almost every case it is temporary, cosmetic, and entirely normal. This guide explains what it is, why South Florida makes it more likely, and, most importantly, what not to do in a panic.
 
 ## What that white haze actually is

@@ -8,6 +8,8 @@ heroImage: "/images/hardscape-trends-2026-south-florida.jpg"
 draft: false
 ---
 
+*Hero image: AI-generated illustration, not a photograph of a completed project.*
+
 The landscape design trends 2026 name in the national reports read differently in South Florida than they do elsewhere. Palm Beach and Broward do not have a freeze-thaw season, do have salt air and intense coastal light, and treat the backyard as a room that is used every month of the year. This brief takes the most credible 2026 trend research, from the Houzz Outdoor Trends Study to Yardzen's report and the National Association of Landscape Professionals, and reads each movement through that local lens. It is written for the discerning homeowner, and the architect at their side, who want to know which directions are worth committing a hardscape to.
 
 The through-line across every serious 2026 source is the same: the outdoors is being designed for living rather than for listing. That single shift reorders the priorities below.
