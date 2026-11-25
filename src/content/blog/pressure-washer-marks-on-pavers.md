@@ -33,7 +33,7 @@ Make a short record that another person can follow on site. A collection of clos
 - **Reconstruct the work.** List the wash date, repeated passes, hand wand or surface cleaner, nozzle information if known, cleaners, and any later coating. Include earlier sealer names or mark them unknown.
 - **Note separate concerns.** Record missing joint material, movement already noticed during ordinary use, uneven units or recurring puddles. Do not deliberately rock pavers to investigate.
 
-Distinguish observations from explanations in your notes. “Pale arcs visible after drying” is more useful than labeling the entire surface damaged. An unknown product history is also useful information; do not substitute a guess for a missing label.
+Distinguish observations from explanations in your notes. "Pale arcs visible after drying" is more useful than labeling the entire surface damaged. An unknown product history is also useful information; do not substitute a guess for a missing label.
 
 ## Ask what the inspection needs to distinguish
 
@@ -47,9 +47,23 @@ The broader [guide to paver cleaning and repair in Palm Beach Gardens](/blog/pav
 
 To start that discussion, request a consultation through our [paver cleaning, re-sanding and sealing service](/services/clean-seal/). Provide the marked area's location, your photo record and known product history. Ask for an on-site review that identifies the questions to resolve and a written scope for any proposed trial or further work.
 
+## Tire marks on sealed concrete pavers
+
+SEK-Surebond's [Solvent Rx technical data sheet](https://sek.us.com/wp-content/uploads/2024/09/SolventRx_TDS_0924.pdf) includes minor tire tracking among sealer imperfections it addresses. Its scope is solvent-based sealers; it excludes water-based and silane/siloxane sealers and requires a small test evaluated after drying. For a contractor considering that treatment, identifying the existing coating comes before selecting a repair.
+
+A useful photo record shows where the vehicle travels and parks, with closeups of the same marks across individual units. Details to record include a recognizable tread or wheel path, black deposits, and changes in sheen. Photograph the full driveway and keep earlier images of the same location. The date the marks first appeared, including whether washing or sealing had just occurred, belongs with that record.
+
+The work history helps the inspector compare bands along a washer's route with marks at tire contact areas. Streaks visible in a fresh coating before anyone drove on it should be recorded as part of the coating history. A patch beneath a known vehicle leak needs an oil-stain assessment separate from tire scuffing. The contractor should identify the deposit before selecting a cleaner.
+
+The [SB-8700 Wet Look Joint Stabilizing Sealer technical data sheet](https://sek.us.com/wp-content/uploads/2024/09/SB-8700_TDS_0924.pdf), for example, distinguishes touch-dry time from vehicle access and makes return to traffic dependent on site conditions. Reviewing your driveway requires the actual sealer's name and technical sheet, along with the date of each coat and when driving resumed. Its cure conditions and waiting period before vehicle use belong in that comparison. Our [guide to using a driveway after paver sealing](/blog/using-driveway-after-paver-sealing/) explains the questions to settle before driving resumes.
+
+Does the mark sit on the coating or affect the concrete below, and what trial would distinguish those possibilities? Could tire heat or traffic before the specified waiting period explain this particular mark? The inspecting contractor should assess those possibilities against the product history and site findings before recommending treatment.
+
+CMHA's maintenance guide calls for cleaning before sealer application, and its cleaning guide calls for stain identification before treatment. Another coat should wait while the cause remains unresolved. The inspecting contractor should propose cleaning, coating repair or stripping based on the findings, with the sealer manufacturer's guidance where needed. A limited trial with agreed review conditions should precede approval of work across the driveway.
+
 ## Agree on the trial before treating the whole area
 
-CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/) explains that nozzle type and distance affect cleaning, adequate rinse flow matters, and technique should limit disturbance of joint sand. It calls for small trial applications and following product instructions; sealers can also change surface appearance. These considerations belong in the contractor's treatment plan, not a universal pressure setting for every marked surface.
+CMHA's [Cleaning, Sealing and Joint Sand Stabilization of Interlocking Concrete Pavement](https://www.cmha.org/resource/pav-tec-005/) explains that nozzle type and distance affect cleaning, adequate rinse flow matters, and technique should limit disturbance of joint sand. It calls for small trial applications and following product instructions; sealers can also change surface appearance. These considerations guide the contractor's treatment plan for the marked surface.
 
 Before authorizing a trial, agree on these points:
 
@@ -64,6 +78,8 @@ Approval of a cleaning result is not automatic approval of a coating. If sealing
 ## Separate the tasks in your proposal
 
 Cleaning, joint restoration, old-coating work and replacement units should be identifiable wherever they are included. Ask which are excluded and what finding would trigger a separate estimate. A finished photograph does not establish a suitable product, repair method or likely result for the marks at your property.
+
+Our November 2026 Jobber notes for a repeat client in Palm Beach Gardens show how one written scope identified the tasks and their areas. Repair covered 250 sq ft along the left side of the driveway: shifted pavers were lifted and relaid, the base was topped up and compacted, and the concrete edge restraint was renewed. The client's existing pavers were reused. Washing, joint re-sanding and application of a semi-gloss sealer followed on the 1,042 sq ft front area, with each task identified separately in the same scope.
 
 ## Make the next approval specific
 
