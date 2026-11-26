@@ -1,6 +1,8 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { createHash } from 'node:crypto';
+import { existsSync, readFileSync } from 'node:fs';
 
 // Build one page per published post. Drafts are included only in `astro dev`,
 // never in a production build.
@@ -14,6 +16,14 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const { title, seoTitle, description, heroImage, pubDate } = post.data;
+
+// Lighter WebP copies from tools/hero_variants.py, matched to the source bytes;
+// without both copies the page keeps the original image only.
+const heroFile = `public${heroImage}`;
+const heroHash = existsSync(heroFile) ? createHash('sha256').update(readFileSync(heroFile)).digest('hex').slice(0, 12) : '';
+const heroSrcset = heroHash && [720, 1200].every((w) => existsSync(`public/images/_hero/${heroHash}-${w}.webp`))
+  ? `/images/_hero/${heroHash}-720.webp 720w, /images/_hero/${heroHash}-1200.webp 1200w`
+  : '';
 
 const canonical = new URL(`/blog/${post.data.slug}/`, Astro.site).href;
 const ogImage = new URL(heroImage, Astro.site).href;
@@ -104,7 +114,14 @@ const breadcrumbSchema = {
 
     <div class="wrap">
       <div class="post-hero ph" data-label="">
-        <img src={heroImage} alt={title} width="1200" height="700" fetchpriority="high" />
+        {heroSrcset ? (
+          <picture>
+            <source type="image/webp" srcset={heroSrcset} sizes="(max-width: 760px) calc(100vw - 40px), 720px" />
+            <img src={heroImage} alt={title} width="1200" height="700" fetchpriority="high" />
+          </picture>
+        ) : (
+          <img src={heroImage} alt={title} width="1200" height="700" fetchpriority="high" />
+        )}
       </div>
     </div>
 
